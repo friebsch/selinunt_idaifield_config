@@ -9,6 +9,9 @@
   },
   "Survey:default": {
     "hidden": [],
+    "valuelists": {
+      "researchMethod": "Survey-researchMethod-Selinunt"
+    },
     "fields": {}
   },
   "SurveyUnit:default": {

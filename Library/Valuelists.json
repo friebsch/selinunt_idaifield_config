@@ -2366,6 +2366,48 @@
       "Seismik": {}
     }
   },
+  "Survey-researchMethod-Selinunt": {
+    "creationDate": "13-4-2020",
+    "createdBy": "Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Befliegung": {
+        "labels" : {
+          "en" : "Volo"
+        }
+      },
+      "Begehung": {
+        "labels" : {
+          "en" : "Ricognizione sul territorio"
+        }
+      },
+      "Geoelektrik": {
+        "labels" : {
+          "en" : "Geoelettrica"
+        }
+      },
+      "Geomagnetik": {
+        "labels" : {
+          "en" : "Geomagnetica"
+        }
+      },
+      "Georadar": {},
+      "LIDAR": {},
+      "Seismik": {
+        "labels" : {
+          "en" : "Sismica"
+        }
+      },
+      "Rammkernsondagen": {
+        "labels" : {
+          "en" : "Carotaggio"
+        }
+      }
+    }
+  },
   "Stone-architectureElement-default": {
     "creationDate": "",
     "createdBy": "",
