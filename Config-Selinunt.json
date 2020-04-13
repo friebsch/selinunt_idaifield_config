@@ -23,7 +23,14 @@
       "buildingHistory",
       "findSituation"
     ],
-    "fields": {}
+    "valuelists": {
+      "siteClassification": "Place-siteClassification-Selinunt"
+    },
+    "fields": {
+      "placeCondition" : {
+        "inputType": "text"
+      }
+    }
   },
   "Area:default": {
     "hidden": [],

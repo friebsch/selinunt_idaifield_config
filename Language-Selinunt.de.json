@@ -1,3 +1,11 @@
 {
-  "categories": {}
+  "categories": {
+    "Place": {
+      "fields": {
+        "placeCondition": {
+          "label": "Erhaltungszustand"
+        }
+      }
+    }
+  }
 }
