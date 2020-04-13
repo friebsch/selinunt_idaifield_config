@@ -1396,9 +1396,46 @@
       "en": ""
     },
     "values": {
-      "Siedlung": {},
-      "Baukomplex ": {},
-      "Einzelnes Bauwerk ": {}
+      "Siedlung": {
+        "labels" : {
+          "en" : "Insediamento"
+        }
+      },
+      "Baukomplex ": {
+        "labels" : {
+          "en" : "Complesso edilizio"
+        }
+      },
+      "Einzelnes Bauwerk": {
+        "labels" : {
+          "en" : "Edificio"
+        }
+      },
+      "Bestattungsplatz": {
+        "labels" : {
+          "en" : "Necropoli"
+        }
+      },
+      "Produktionsplatz": {
+        "labels" : {
+          "en" : "Sito di produzione"
+        }
+      },
+      "Kultstätte": {
+        "labels" : {
+          "en" : "Area sacra"
+        }
+      },
+      "Landwirtschaftliche Nutzfläche": {
+        "labels" : {
+          "en" : "Terreno coltivabile"
+        }
+      },
+      "Naturraum": {
+        "labels" : {
+          "en" : "Spazio naturale"
+        }
+      }
     }
   },
   "Place-siteClassification-SudanHeritage": {

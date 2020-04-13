@@ -1,3 +1,23 @@
 {
-  "categories": {}
+  "categories": {
+    "Place": {
+      "fields": {
+        "placeName": {
+          "label": "Nome del luogo"
+        },
+        "siteClassification": {
+          "label": "Classificazione"
+        },
+        "buildingResearchHistory": {
+          "label": "Storia della ricerca"
+        },
+        "placeCondition": {
+          "label": "Stato di conservazione"
+        },
+        "description": {
+          "label": "Descrizione"
+        }
+      }
+    }
+  }
 }
