@@ -23,11 +23,7 @@
       "NNW-SSO": {},
       "NO-SW": {},
       "NW-SO": {},
-      "W-O": {
-        "labels" : {
-          "en" : "West-East"
-        }
-      },
+      "W-O": {},
       "WNW-OSO": {},
       "WSW-ONO": {}
     }

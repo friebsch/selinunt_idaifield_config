@@ -16,7 +16,13 @@
     "fields": {}
   },
   "Place:default": {
-    "hidden": [],
+    "hidden": [
+      "findspotClassification",
+      "modernIntervention",
+      "excavationHistory",
+      "buildingHistory",
+      "findSituation"
+    ],
     "fields": {}
   },
   "Area:default": {
