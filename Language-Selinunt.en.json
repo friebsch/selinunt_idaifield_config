@@ -18,6 +18,21 @@
           "label": "Descrizione"
         }
       }
+    },
+    "Architecture": {
+      "label": "Costruzione"
+    },
+    "Bedrock": {
+      "label": "Naturale"
+    },
+    "Layer": {
+      "label": "Strato di terra"
+    },
+    "Burial": {
+      "label": "Sepoltura"
+    },
+    "Grave": {
+      "label": "Tomba"
     }
   }
 }

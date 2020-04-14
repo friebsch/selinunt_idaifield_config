@@ -6,6 +6,12 @@
           "label": "Erhaltungszustand"
         }
       }
+    },
+    "Architecture": {
+      "label": "Gebaute Struktur"
+    },
+    "Bedrock": {
+      "label": "Natürlich anstehend"
     }
   }
 }

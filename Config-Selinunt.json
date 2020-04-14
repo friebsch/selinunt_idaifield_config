@@ -104,14 +104,29 @@
     "fields": {}
   },
   "Architecture:default": {
-    "hidden": [],
+    "hidden": [
+      "condition",
+      "conditionAmount",
+      "conditionComment",
+      "layerAmount",
+      "layerHeight",
+      "muralCrown",
+      "mortarBinder",
+      "mortarColor",
+      "mortarConsistency",
+      "materialForm",
+      "materialCharacteristic",
+      "constructionDetailsDescription",
+      "blockTreatment",
+      "blockProcessing",
+      "bibliography",
+      "hasGrouting",
+      "wallClassification",
+      "wallType"
+    ],
     "fields": {}
   },
   "Layer:default": {
-    "hidden": [],
-    "fields": {}
-  },
-  "Floor:default": {
     "hidden": [],
     "fields": {}
   },
@@ -124,8 +139,8 @@
     "fields": {}
   },
   "Grave:default": {
-    "hidden": [],
-    "fields": {}
+    "fields": {},
+    "hidden": []
   },
   "Bone:default": {
     "hidden": [],
@@ -166,5 +181,11 @@
   "Type:default": {
     "hidden": [],
     "fields": {}
+  },
+  "Bedrock": {
+    "hidden": [],
+    "fields": [],
+    "parent": "Feature",
+    "valuelists": {}
   }
 }
