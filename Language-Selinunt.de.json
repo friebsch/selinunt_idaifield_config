@@ -12,6 +12,13 @@
     },
     "Bedrock": {
       "label": "Natürlich anstehend"
+    },
+    "Layer": {
+      "fields": {
+        "layerClassification": {
+          "label": "Ansprache"
+        }
+      }
     }
   }
 }

@@ -26,7 +26,12 @@
       "label": "Naturale"
     },
     "Layer": {
-      "label": "Strato di terra"
+      "label": "Strato di terra",
+      "fields": {
+        "layerClassification": {
+          "label": "Designazione"
+        }
+      }
     },
     "Burial": {
       "label": "Sepoltura"
