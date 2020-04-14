@@ -9283,35 +9283,35 @@
     },
     "values": {
       "Befliegung": {
-        "labels" : {
-          "en" : "Volo"
+        "labels": {
+          "en": "Volo"
         }
       },
       "Begehung": {
-        "labels" : {
-          "en" : "Ricognizione sul territorio"
+        "labels": {
+          "en": "Ricognizione sul territorio"
         }
       },
       "Geoelektrik": {
-        "labels" : {
-          "en" : "Geoelettrica"
+        "labels": {
+          "en": "Geoelettrica"
         }
       },
       "Geomagnetik": {
-        "labels" : {
-          "en" : "Geomagnetica"
+        "labels": {
+          "en": "Geomagnetica"
         }
       },
       "Georadar": {},
       "LIDAR": {},
       "Seismik": {
-        "labels" : {
-          "en" : "Sismica"
+        "labels": {
+          "en": "Sismica"
         }
       },
       "Rammkernsondagen": {
-        "labels" : {
-          "en" : "Carotaggio"
+        "labels": {
+          "en": "Carotaggio"
         }
       }
     }
@@ -9325,43 +9325,43 @@
     },
     "values": {
       "Siedlung": {
-        "labels" : {
-          "en" : "Insediamento"
+        "labels": {
+          "en": "Insediamento"
         }
       },
       "Baukomplex ": {
-        "labels" : {
-          "en" : "Complesso edilizio"
+        "labels": {
+          "en": "Complesso edilizio"
         }
       },
       "Einzelnes Bauwerk": {
-        "labels" : {
-          "en" : "Edificio"
+        "labels": {
+          "en": "Edificio"
         }
       },
       "Bestattungsplatz": {
-        "labels" : {
-          "en" : "Necropoli"
+        "labels": {
+          "en": "Necropoli"
         }
       },
       "Produktionsplatz": {
-        "labels" : {
-          "en" : "Sito di produzione"
+        "labels": {
+          "en": "Sito di produzione"
         }
       },
       "Kultstätte": {
-        "labels" : {
-          "en" : "Area sacra"
+        "labels": {
+          "en": "Area sacra"
         }
       },
       "Landwirtschaftliche Nutzfläche": {
-        "labels" : {
-          "en" : "Terreno coltivabile"
+        "labels": {
+          "en": "Terreno coltivabile"
         }
       },
       "Naturraum": {
-        "labels" : {
-          "en" : "Spazio naturale"
+        "labels": {
+          "en": "Spazio naturale"
         }
       }
     }
@@ -9375,63 +9375,63 @@
     },
     "values": {
       "Ackerkrume": {
-        "labels" : {
-          "en" : "Strato arabile"
+        "labels": {
+          "en": "Strato arabile"
         }
       },
       "Auffüllung": {
-        "labels" : {
-          "en" : "Riempimento"
+        "labels": {
+          "en": "Riempimento"
         }
       },
       "Ablagerung": {
-        "labels" : {
-          "en" : "Accumulo"
+        "labels": {
+          "en": "Accumulo"
         }
       },
       "Nutzungshorizont": {
-        "labels" : {
-          "en" : "Piano funzionale"
+        "labels": {
+          "en": "Piano funzionale"
         }
       },
       "Laufhorizont": {
-        "labels" : {
-          "en" : "Piano di calpestio"
+        "labels": {
+          "en": "Piano di calpestio"
         }
       },
       "Versturz": {
-        "labels" : {
-          "en" : "Crollo"
+        "labels": {
+          "en": "Crollo"
         }
       },
       "Brandschicht": {
-        "labels" : {
-          "en" : "Strato bruciato"
+        "labels": {
+          "en": "Strato bruciato"
         }
       },
       "Grube": {
-        "labels" : {
-          "en" : "Fossa"
+        "labels": {
+          "en": "Fossa"
         }
       },
       "Fundamentgraben": {
-        "labels" : {
-          "en" : "Fossa di fondazione"
+        "labels": {
+          "en": "Fossa di fondazione"
         }
       },
       "Raubgraben": {
-        "labels" : {
-          "en" : "Fossa di spoliazione"
+        "labels": {
+          "en": "Fossa di spoliazione"
         }
       },
       "Pfostenloch": {
-        "labels" : {
-          "en" : "FoBuco di palo"
+        "labels": {
+          "en": "FoBuco di palo"
         }
       },
       "Geologisch gewachsener Boden": {
-        "labels" : {
-          "en" : "Terra vergine"
+        "labels": {
+          "en": "Terra vergine"
         }
       }
     }
