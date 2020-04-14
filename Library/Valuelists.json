@@ -1388,56 +1388,6 @@
       "Siedlung": {}
     }
   },
-  "Place-siteClassification-Selinunt": {
-    "creationDate": "13-4-2020",
-    "createdBy": "Fabian Riebschläger",
-    "description": {
-      "de": "Ortsklassifikation",
-      "en": ""
-    },
-    "values": {
-      "Siedlung": {
-        "labels" : {
-          "en" : "Insediamento"
-        }
-      },
-      "Baukomplex ": {
-        "labels" : {
-          "en" : "Complesso edilizio"
-        }
-      },
-      "Einzelnes Bauwerk": {
-        "labels" : {
-          "en" : "Edificio"
-        }
-      },
-      "Bestattungsplatz": {
-        "labels" : {
-          "en" : "Necropoli"
-        }
-      },
-      "Produktionsplatz": {
-        "labels" : {
-          "en" : "Sito di produzione"
-        }
-      },
-      "Kultstätte": {
-        "labels" : {
-          "en" : "Area sacra"
-        }
-      },
-      "Landwirtschaftliche Nutzfläche": {
-        "labels" : {
-          "en" : "Terreno coltivabile"
-        }
-      },
-      "Naturraum": {
-        "labels" : {
-          "en" : "Spazio naturale"
-        }
-      }
-    }
-  },
   "Place-siteClassification-SudanHeritage": {
     "creationDate": "",
     "createdBy": "",
@@ -2364,48 +2314,6 @@
       "Quadratisch": {},
       "Regelmäßig": {},
       "Seismik": {}
-    }
-  },
-  "Survey-researchMethod-Selinunt": {
-    "creationDate": "13-4-2020",
-    "createdBy": "Fabian Riebschläger",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Befliegung": {
-        "labels" : {
-          "en" : "Volo"
-        }
-      },
-      "Begehung": {
-        "labels" : {
-          "en" : "Ricognizione sul territorio"
-        }
-      },
-      "Geoelektrik": {
-        "labels" : {
-          "en" : "Geoelettrica"
-        }
-      },
-      "Geomagnetik": {
-        "labels" : {
-          "en" : "Geomagnetica"
-        }
-      },
-      "Georadar": {},
-      "LIDAR": {},
-      "Seismik": {
-        "labels" : {
-          "en" : "Sismica"
-        }
-      },
-      "Rammkernsondagen": {
-        "labels" : {
-          "en" : "Carotaggio"
-        }
-      }
     }
   },
   "Stone-architectureElement-default": {
@@ -9364,6 +9272,168 @@
     "values": {
       "Erde": {},
       "gebrannter Ton": {}
+    }
+  },
+  "Survey-researchMethod-Selinunt": {
+    "creationDate": "13-4-2020",
+    "createdBy": "Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Befliegung": {
+        "labels" : {
+          "en" : "Volo"
+        }
+      },
+      "Begehung": {
+        "labels" : {
+          "en" : "Ricognizione sul territorio"
+        }
+      },
+      "Geoelektrik": {
+        "labels" : {
+          "en" : "Geoelettrica"
+        }
+      },
+      "Geomagnetik": {
+        "labels" : {
+          "en" : "Geomagnetica"
+        }
+      },
+      "Georadar": {},
+      "LIDAR": {},
+      "Seismik": {
+        "labels" : {
+          "en" : "Sismica"
+        }
+      },
+      "Rammkernsondagen": {
+        "labels" : {
+          "en" : "Carotaggio"
+        }
+      }
+    }
+  },
+  "Place-siteClassification-Selinunt": {
+    "creationDate": "13-4-2020",
+    "createdBy": "Fabian Riebschläger",
+    "description": {
+      "de": "Ortsklassifikation",
+      "en": ""
+    },
+    "values": {
+      "Siedlung": {
+        "labels" : {
+          "en" : "Insediamento"
+        }
+      },
+      "Baukomplex ": {
+        "labels" : {
+          "en" : "Complesso edilizio"
+        }
+      },
+      "Einzelnes Bauwerk": {
+        "labels" : {
+          "en" : "Edificio"
+        }
+      },
+      "Bestattungsplatz": {
+        "labels" : {
+          "en" : "Necropoli"
+        }
+      },
+      "Produktionsplatz": {
+        "labels" : {
+          "en" : "Sito di produzione"
+        }
+      },
+      "Kultstätte": {
+        "labels" : {
+          "en" : "Area sacra"
+        }
+      },
+      "Landwirtschaftliche Nutzfläche": {
+        "labels" : {
+          "en" : "Terreno coltivabile"
+        }
+      },
+      "Naturraum": {
+        "labels" : {
+          "en" : "Spazio naturale"
+        }
+      }
+    }
+  },
+  "Layer-layerClassification-Selinunt": {
+    "creationDate": "14-4-2020",
+    "createdBy": "Fabian Riebschläger",
+    "description": {
+      "de": "Ansprache des Erdbefunds",
+      "en": ""
+    },
+    "values": {
+      "Ackerkrume": {
+        "labels" : {
+          "en" : "Strato arabile"
+        }
+      },
+      "Auffüllung": {
+        "labels" : {
+          "en" : "Riempimento"
+        }
+      },
+      "Ablagerung": {
+        "labels" : {
+          "en" : "Accumulo"
+        }
+      },
+      "Nutzungshorizont": {
+        "labels" : {
+          "en" : "Piano funzionale"
+        }
+      },
+      "Laufhorizont": {
+        "labels" : {
+          "en" : "Piano di calpestio"
+        }
+      },
+      "Versturz": {
+        "labels" : {
+          "en" : "Crollo"
+        }
+      },
+      "Brandschicht": {
+        "labels" : {
+          "en" : "Strato bruciato"
+        }
+      },
+      "Grube": {
+        "labels" : {
+          "en" : "Fossa"
+        }
+      },
+      "Fundamentgraben": {
+        "labels" : {
+          "en" : "Fossa di fondazione"
+        }
+      },
+      "Raubgraben": {
+        "labels" : {
+          "en" : "Fossa di spoliazione"
+        }
+      },
+      "Pfostenloch": {
+        "labels" : {
+          "en" : "FoBuco di palo"
+        }
+      },
+      "Geologisch gewachsener Boden": {
+        "labels" : {
+          "en" : "Terra vergine"
+        }
+      }
     }
   }
 }
