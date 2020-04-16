@@ -9660,5 +9660,55 @@
         }
       }
     }
+  },
+  "Feature-featureBorders-Selinunt": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Befundgrenzen Selinunt",
+      "en": ""
+    },
+    "values": {
+      "deutlich": {
+        "labels": {
+          "en": "distinto"
+        }
+      },
+      "diffus": {
+        "labels": {
+          "en": "graduale"
+        }
+      },
+      "willkürlich": {
+        "labels": {
+          "en": "arbitrario"
+        }
+      }
+    }
+  },
+  "Feature-featureForm-Selinunt": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Form der SE, Selinunt",
+      "en": ""
+    },
+    "values": {
+      "eckig": {
+        "labels": {
+          "en": "anguloso"
+        }
+      },
+      "rund": {
+        "labels": {
+          "en": "tondo"
+        }
+      },
+      "formlos": {
+        "labels": {
+          "en": "informe"
+        }
+      }
+    }
   }
 }

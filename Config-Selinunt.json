@@ -59,6 +59,10 @@
     "hidden": [
       "color"
     ],
+    "valuelists": {
+      "featureBorders": "Feature-featureBorders-Selinunt",
+      "featureForm": "Feature-featureForm-Selinunt"
+    },
     "fields": {}
   },
   "Room:default": {

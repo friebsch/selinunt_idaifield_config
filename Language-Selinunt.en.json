@@ -25,6 +25,16 @@
     "Bedrock": {
       "label": "Naturale"
     },
+    "Feature": {
+      "fields": {
+        "featureForm": {
+          "label": "Forma"
+        },
+        "featureBorders": {
+          "label": "Distinzione"
+        }
+      }
+    },
     "Layer": {
       "label": "Strato di terra",
       "fields": {
@@ -36,6 +46,9 @@
         },
         "layerColor": {
           "label": "Colore"
+        },
+        "consistency": {
+          "label": "Consistenza"
         }
       }
     },
