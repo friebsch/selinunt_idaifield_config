@@ -9276,7 +9276,7 @@
   },
   "Survey-researchMethod-Selinunt": {
     "creationDate": "13-4-2020",
-    "createdBy": "Fabian Riebschläger",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
       "en": ""
@@ -9318,7 +9318,7 @@
   },
   "Place-siteClassification-Selinunt": {
     "creationDate": "13-4-2020",
-    "createdBy": "Fabian Riebschläger",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Ortsklassifikation",
       "en": ""
@@ -9368,7 +9368,7 @@
   },
   "Layer-layerClassification-Selinunt": {
     "creationDate": "14-4-2020",
-    "createdBy": "Fabian Riebschläger",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Ansprache des Erdbefunds",
       "en": ""
@@ -9438,7 +9438,7 @@
   },
   "Layer-colors-Selinunt-1": {
     "creationDate": "16-4-2020",
-    "createdBy": "Fabian Riebschläger",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Selinunt Farbset 1, Erdbefunde",
       "en": ""
@@ -9538,7 +9538,7 @@
   },
   "colorsLightness-Selinunt-1": {
     "creationDate": "16-4-2020",
-    "createdBy": "Fabian Riebschläger",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Selinunt Farbhelligkeit 1, Verschiedener Nutzen",
       "en": ""
@@ -9557,6 +9557,106 @@
       "dunkel": {
         "labels": {
           "en": "scuro"
+        }
+      }
+    }
+  },
+  "Layer-soilType-Selinunt-1": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Zusammensetzung des Bodens",
+      "en": ""
+    },
+    "values": {
+      "Sand": {
+        "labels": {
+          "en": "Sabbia"
+        }
+      },
+      "Schluff": {
+        "labels": {
+          "en": "Limo"
+        }
+      },
+      "Lehm": {
+        "labels": {
+          "en": "Argilla"
+        }
+      },
+      "Humus": {
+        "labels": {
+          "en": "Humus"
+        }
+      },
+      "Kalk": {
+        "labels": {
+          "en": "Calce"
+        }
+      },
+      "Kalkstein": {
+        "labels": {
+          "en": "Calcare"
+        }
+      },
+      "Sandstein": {
+        "labels": {
+          "en": "Arenaria"
+        }
+      },
+      "Mergel": {
+        "labels": {
+          "en": "Marna"
+        }
+      },
+      "Vulkangestein": {
+        "labels": {
+          "en": "Pietra lavica"
+        }
+      },
+      "Kiesel": {
+        "labels": {
+          "en": "Ciottoli"
+        }
+      }
+    }
+  },
+  "Layer-consistency-Selinunt-1": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Konsistenz des Erdbefundes",
+      "en": ""
+    },
+    "values": {
+      "locker": {
+        "labels": {
+          "en": "sciolta"
+        }
+      },
+      "porös": {
+        "labels": {
+          "en": "friabile"
+        }
+      },
+      "fest": {
+        "labels": {
+          "en": "solida"
+        }
+      },
+      "kompakt": {
+        "labels": {
+          "en": "compatta"
+        }
+      },
+      "zäh": {
+        "labels": {
+          "en": "tenace plastica"
+        }
+      },
+      "hart": {
+        "labels": {
+          "en": "dura"
         }
       }
     }

@@ -129,11 +129,15 @@
     "fields": {}
   },
   "Layer:default": {
-    "hidden": [],
+    "hidden": [
+      "isNatural"
+    ],
     "valuelists": {
       "layerClassification": "Layer-layerClassification-Selinunt",
       "layerColorLightness": "colorsLightness-Selinunt-1",
-      "layerColor": "Layer-colors-Selinunt-1"
+      "layerColor": "Layer-colors-Selinunt-1",
+      "consistency": "Layer-consistency-Selinunt-1",
+      "soilType": "Layer-soilType-Selinunt-1"
     },
     "fields": {
       "layerColorLightness": {
