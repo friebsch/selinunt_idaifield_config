@@ -56,7 +56,9 @@
     "fields": {}
   },
   "Feature:default": {
-    "hidden": [],
+    "hidden": [
+      "color"
+    ],
     "fields": {}
   },
   "Room:default": {
@@ -129,9 +131,18 @@
   "Layer:default": {
     "hidden": [],
     "valuelists": {
-      "layerClassification": "Layer-layerClassification-Selinunt"
+      "layerClassification": "Layer-layerClassification-Selinunt",
+      "layerColorLightness": "colorsLightness-Selinunt-1",
+      "layerColor": "Layer-colors-Selinunt-1"
     },
-    "fields": {}
+    "fields": {
+      "layerColorLightness": {
+        "inputType": "radio"
+      },
+      "layerColor": {
+        "inputType": "radio"
+      }
+    }
   },
   "Pottery:default": {
     "hidden": [],

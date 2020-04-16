@@ -30,6 +30,12 @@
       "fields": {
         "layerClassification": {
           "label": "Designazione"
+        },
+        "layerColorLightness": {
+          "label": "Tono"
+        },
+        "layerColor": {
+          "label": "Colore"
         }
       }
     },

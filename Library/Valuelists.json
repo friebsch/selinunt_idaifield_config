@@ -9435,5 +9435,130 @@
         }
       }
     }
+  },
+  "Layer-colors-Selinunt-1": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Fabian Riebschläger",
+    "description": {
+      "de": "Selinunt Farbset 1, Erdbefunde",
+      "en": ""
+    },
+    "values": {
+      "braun": {
+        "labels": {
+          "en": "marrone"
+        }
+      },
+      "gelbbraun": {
+        "labels": {
+          "en": "giallo-marrone"
+        }
+      },
+      "graubraun": {
+        "labels": {
+          "en": "grigio-marrone"
+        }
+      },
+      "rotbraun": {
+        "labels": {
+          "en": "marrone-rossastro"
+        }
+      },
+      "schwarzbraun": {
+        "labels": {
+          "en": "nero-marrone"
+        }
+      },
+      "beige": {
+        "labels": {
+          "en": "beige"
+        }
+      },
+      "ocker": {
+        "labels": {
+          "en": "ocra"
+        }
+      },
+      "gelb": {
+        "labels": {
+          "en": "giallo"
+        }
+      },
+      "grau": {
+        "labels": {
+          "en": "griglio"
+        }
+      },
+      "blaugrau": {
+        "labels": {
+          "en": "griglio-blu"
+        }
+      },
+      "rot": {
+        "labels": {
+          "en": "rosso"
+        }
+      },
+      "orange": {
+        "labels": {
+          "en": "arrancione"
+        }
+      },
+      "rosa": {
+        "labels": {
+          "en": "rosa"
+        }
+      },
+      "violett": {
+        "labels": {
+          "en": "viola"
+        }
+      },
+      "blau": {
+        "labels": {
+          "en": "blu"
+        }
+      },
+      "grün": {
+        "labels": {
+          "en": "verde"
+        }
+      },
+      "schwarz": {
+        "labels": {
+          "en": "nero"
+        }
+      },
+      "weiß": {
+        "labels": {
+          "en": "bianco"
+        }
+      }
+    }
+  },
+  "colorsLightness-Selinunt-1": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Fabian Riebschläger",
+    "description": {
+      "de": "Selinunt Farbhelligkeit 1, Verschiedener Nutzen",
+      "en": ""
+    },
+    "values": {
+      "hell": {
+        "labels": {
+          "en": "chiaro"
+        }
+      },
+      "mittel": {
+        "labels": {
+          "en": "medio"
+        }
+      },
+      "dunkel": {
+        "labels": {
+          "en": "scuro"
+        }
+      }
+    }
   }
 }
