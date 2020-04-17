@@ -13,6 +13,13 @@
     "Bedrock": {
       "label": "Natürlich anstehend"
     },
+    "Feature": {
+      "fields": {
+        "period": {
+          "label": "Epoche"
+        }
+      }
+    },
     "Layer": {
       "fields": {
         "layerClassification": {

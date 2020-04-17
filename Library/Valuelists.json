@@ -9740,5 +9740,111 @@
         }
       }
     }
+  },
+  "periods-Selinunt-1": {
+    "createdBy": "IT-Referat, DAI, 2019",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Frühbronzezeitlich ": {
+        "labels": {
+          "de": "Frühbronzezeit",
+          "en": "Bronzo antico"
+        }
+      },
+      "Bronzezeitlich": {
+        "labels": {
+          "de": "Bronzezeit",
+          "en": "Età del bronzo"
+        }
+      },
+      "Eisenzeitlich": {
+        "labels": {
+          "de": "Eisenzeit",
+          "en": "Età del ferro"
+        }
+      },
+      "Archaisch": {
+        "labels": {
+          "de": "Archaik",
+          "en": "Età arcaica"
+        }
+      },
+      "Spätarchaisch": {
+        "labels": {
+          "de": "Spätarchaik",
+          "en": "Tardo arcaico"
+        }
+      },
+      "Klassisch": {
+        "labels": {
+          "de": "Klassik",
+          "en": "Età classica"
+        }
+      },
+      "Spätklassisch": {
+        "labels": {
+          "de": "Spätklassik",
+          "en": "Tardo classico"
+        }
+      },
+      "Frühhellenistisch": {
+        "labels": {
+          "de": "Frühhellenismus",
+          "en": "Alto ellenismo"
+        }
+      },
+      "Hellenistisch": {
+        "labels": {
+          "de": "Hellenismus",
+          "en": "Ellenismo"
+        }
+      },
+      "Republikanisch": {
+        "labels": {
+          "de": "Römische Republik",
+          "en": "Repubblica Romana"
+        }
+      },
+      "Kaiserzeitlich": {
+        "labels": {
+          "de": "Römische Kaiserzeit",
+          "en": "Età imperiale"
+        }
+      },
+      "Spätkaiserzeitlich": {
+        "labels": {
+          "de": "Späte Kaiserzeit",
+          "en": "Basso impero"
+        }
+      },
+      "Byzantinisch": {
+        "labels": {
+          "de": "Byzantinisches Reich",
+          "en": "Impero bizantino"
+        }
+      },
+      "Arabisch": {
+        "labels": {
+          "de": "Arabische Vorherrschaft",
+          "en": "Periodo islamico"
+        }
+      },
+      "Normannisch": {
+        "labels": {
+          "de": "Normannisches Königreich",
+          "en": "Epoca normanna"
+        }
+      },
+      "Staufisch": {
+        "labels": {
+          "de": "Dynastie der Staufer",
+          "en": "Epoca sveva"
+        }
+      }
+    }
   }
 }

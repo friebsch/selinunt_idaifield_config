@@ -32,6 +32,9 @@
         },
         "featureBorders": {
           "label": "Distinzione"
+        },
+        "period": {
+          "label": "Epoca"
         }
       }
     },
@@ -52,6 +55,9 @@
         },
         "soilType": {
           "label": "Composizione"
+        },
+        "distinguishingCriteria": {
+          "label": "Criterio discriminante "
         }
       }
     },

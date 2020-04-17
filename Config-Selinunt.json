@@ -61,7 +61,8 @@
     ],
     "valuelists": {
       "featureBorders": "Feature-featureBorders-Selinunt",
-      "featureForm": "Feature-featureForm-Selinunt"
+      "featureForm": "Feature-featureForm-Selinunt",
+      "period": "periods-Selinunt-1"
     },
     "fields": {}
   },
