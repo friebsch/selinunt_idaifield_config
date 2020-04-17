@@ -131,7 +131,14 @@
       "wallClassification",
       "wallType"
     ],
-    "fields": {}
+    "valuelists": {
+      "architectureClassification": "Architecture-architectureClassification-Selinunt"
+    },
+    "fields": {
+      "architectureClassification": {
+        "inputType": "dropdown"
+      }
+    }
   },
   "Layer:default": {
     "hidden": [

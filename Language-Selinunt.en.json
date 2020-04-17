@@ -20,7 +20,12 @@
       }
     },
     "Architecture": {
-      "label": "Costruzione"
+      "label": "Costruzione",
+      "fields": {
+        "architectureClassification": {
+          "label": "Designazione"
+        }
+      }
     },
     "Bedrock": {
       "label": "Naturale"

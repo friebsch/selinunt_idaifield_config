@@ -9712,8 +9712,8 @@
     }
   },
   "Layer-distinguishingCriteria-Selinunt": {
-    "creationDate": "",
-    "createdBy": "",
+    "creationDate": "17-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
       "en": ""
@@ -9843,6 +9843,96 @@
         "labels": {
           "de": "Dynastie der Staufer",
           "en": "Epoca sveva"
+        }
+      }
+    }
+  },
+  "Architecture-architectureClassification-Selinunt": {
+    "creationDate": "17-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Mauer": {
+        "labels": {
+          "en": "Muro"
+        }
+      },
+      "Fundament": {
+        "labels": {
+          "en": "Fondazione"
+        }
+      },
+      "Schwelle": {
+        "labels": {
+          "en": "Soglia"
+        }
+      },
+      "Steinsetzung": {
+        "labels": {
+          "en": "Allineamento di pietre"
+        }
+      },
+      "Fußboden": {
+        "labels": {
+          "en": "Pavimento"
+        }
+      },
+      "Podium, Bank": {
+        "labels": {
+          "en": "podio, panchina"
+        }
+      },
+      "Treppe": {
+        "labels": {
+          "en": "Scala"
+        }
+      },
+      "Ofen, Herdstelle": {
+        "labels": {
+          "en": "Forno, Focolare"
+        }
+      },
+      "Becken": {
+        "labels": {
+          "en": "Vasca"
+        }
+      },
+      "Kanal, Leitung": {
+        "labels": {
+          "en": "Canale, Conduttura"
+        }
+      },
+      "Latrine": {
+        "labels": {
+          "en": "Latrina"
+        }
+      },
+      "Brunnen": {
+        "labels": {
+          "en": "Pozzo"
+        }
+      },
+      "Zisterne": {
+        "labels": {
+          "en": "Cisterna"
+        }
+      },
+      "Straße": {
+        "labels": {
+          "en": "Strada"
+        }
+      },
+      "Säule": {
+        "labels": {
+          "en": "Colonna"
+        }
+      },
+      "Pfeiler": {
+        "labels": {
+          "en": "Pilastro"
         }
       }
     }

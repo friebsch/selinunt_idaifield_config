@@ -8,7 +8,12 @@
       }
     },
     "Architecture": {
-      "label": "Gebaute Struktur"
+      "label": "Gebaute Struktur",
+      "fields": {
+        "architectureClassification": {
+          "label": "Ansprache"
+        }
+      }
     },
     "Bedrock": {
       "label": "Natürlich anstehend"
