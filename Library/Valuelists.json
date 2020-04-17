@@ -9710,5 +9710,35 @@
         }
       }
     }
+  },
+  "Layer-distinguishingCriteria-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Farbe": {
+        "labels": {
+          "en": "Colore"
+        }
+      },
+      "Form": {
+        "labels": {
+          "en": "Forma"
+        }
+      },
+      "Konsistenz": {
+        "labels": {
+          "en": "Consistenza"
+        }
+      },
+      "Zusammensetzung": {
+        "labels": {
+          "en": "Composizione"
+        }
+      }
+    }
   }
 }

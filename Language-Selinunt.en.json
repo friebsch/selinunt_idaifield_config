@@ -49,6 +49,9 @@
         },
         "consistency": {
           "label": "Consistenza"
+        },
+        "soilType": {
+          "label": "Composizione"
         }
       }
     },

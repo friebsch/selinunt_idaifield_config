@@ -23,6 +23,9 @@
         },
         "layerColor": {
           "label": "Farbe"
+        },
+        "soilType": {
+          "label": "Zusammensetzung"
         }
       }
     }
