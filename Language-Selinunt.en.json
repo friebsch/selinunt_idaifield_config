@@ -30,6 +30,9 @@
         },
         "brickwork": {
           "label": "Tessitura"
+        },
+        "construction": {
+          "label": "Construzione"
         }
       }
     },

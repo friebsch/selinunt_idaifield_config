@@ -9939,7 +9939,7 @@
   },
   "Architecture-architectureMaterial-Selinunt": {
     "creationDate": "23-4-2020",
-    "createdBy": "Melanie Jonasch / Fabian Riebschläge",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
       "en": ""
@@ -9995,9 +9995,9 @@
       "Zement": {}
     }
   },
-  "Architecture-architectureBrickwork-Selinunt": {
+  "Architecture-brickwork-Selinunt": {
     "creationDate": "23-4-2020",
-    "createdBy": "Melanie Jonasch / Fabian Riebschläge",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
       "en": ""
@@ -10022,6 +10022,41 @@
       "Opus africanum": {
         "labels": {
           "en": "Opera a telaio"
+        }
+      }
+    }
+  },
+  "Architecture-construction-Selinunt": {
+    "creationDate": "23-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Konstruktion, Selinunt Grabung",
+      "en": ""
+    },
+    "values": {
+      "einschalig freistehend": {
+        "labels": {
+          "en": "Singolo paramento"
+        }
+      },
+      "einschalig vor Hang": {
+        "labels": {
+          "en": "Muro di contentimento"
+        }
+      },
+      "zweischalig": {
+        "labels": {
+          "en": "Doppio paramento"
+        }
+      },
+      "zweischalig mit Kern": {
+        "labels": {
+          "en": "Muro a sacco"
+        }
+      },
+      "zweischalig mit Binderlagen": {
+        "labels": {
+          "en": "Con ammorsamento trasversale"
         }
       }
     }
