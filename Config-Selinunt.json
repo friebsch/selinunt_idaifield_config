@@ -132,11 +132,15 @@
       "wallType"
     ],
     "valuelists": {
-      "architectureClassification": "Architecture-architectureClassification-Selinunt"
+      "architectureClassification": "Architecture-architectureClassification-Selinunt",
+      "architectureMaterial": "Architecture-material-Selinunt"
     },
     "fields": {
       "architectureClassification": {
         "inputType": "dropdown"
+      },
+      "architectureMaterial": {
+        "inputType": "checkboxes"
       }
     }
   },

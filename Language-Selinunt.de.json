@@ -12,6 +12,9 @@
       "fields": {
         "architectureClassification": {
           "label": "Ansprache"
+        },
+        "architectureMaterial": {
+          "label": "Baumaterial"
         }
       }
     },

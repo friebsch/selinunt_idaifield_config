@@ -24,6 +24,9 @@
       "fields": {
         "architectureClassification": {
           "label": "Designazione"
+        },
+        "architectureMaterial": {
+          "label": "Materiale"
         }
       }
     },

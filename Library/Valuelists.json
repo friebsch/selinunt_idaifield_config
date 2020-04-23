@@ -9936,5 +9936,63 @@
         }
       }
     }
+  },
+  "Architecture-material-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Kalkstein": {
+        "labels": {
+          "en": "Calcare"
+        }
+      },
+      "Marmor": {
+        "labels": {
+          "en": "Marmo"
+        }
+      },
+      "Vulkangestein": {
+        "labels": {
+          "en": "Pietra lavica"
+        }
+      },
+      "Sandstein": {
+        "labels": {
+          "en": "Arenaria"
+        }
+      },
+      "Granit": {
+        "labels": {
+          "en": "Granito"
+        }
+      },
+      "Kiesel": {
+        "labels": {
+          "en": "Ciottoli"
+        }
+      },
+      "Anstehender Fels": {
+        "labels": {
+          "en": "Roccia affiorante"
+        }
+      },
+      "Anderer Stein": {
+        "labels": {
+          "en": "Altra pietra"
+        }
+      },
+      "Spolien": {},
+      "Gebrannte Ziegel": {},
+      "Ungebrannte Ziegel": {},
+      "Dachziegel": {},
+      "Lehm": {},
+      "Holz": {},
+      "Keramik": {},
+      "Zement": {}
+    }
   }
 }
