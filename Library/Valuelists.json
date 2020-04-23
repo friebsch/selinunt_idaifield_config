@@ -9937,9 +9937,9 @@
       }
     }
   },
-  "Architecture-material-Selinunt": {
-    "creationDate": "",
-    "createdBy": "",
+  "Architecture-architectureMaterial-Selinunt": {
+    "creationDate": "23-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläge",
     "description": {
       "de": "",
       "en": ""
@@ -9993,6 +9993,37 @@
       "Holz": {},
       "Keramik": {},
       "Zement": {}
+    }
+  },
+  "Architecture-architectureBrickwork-Selinunt": {
+    "creationDate": "23-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläge",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Regelloser Verband": {
+        "labels": {
+          "en": "Tessitura irregolare"
+        }
+      },
+      "Reiner Läuferverband": {
+        "labels": {
+          "en": "Blocchi messi in senso della lunghezza"
+        }
+      },
+      "Reiner Binderverband": {
+        "labels": {
+          "en": "Blocchi messi di testa"
+        }
+      },
+      "Läufer-Binder Verband": {},
+      "Opus africanum": {
+        "labels": {
+          "en": "Opera a telaio"
+        }
+      }
     }
   }
 }

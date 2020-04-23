@@ -133,7 +133,8 @@
     ],
     "valuelists": {
       "architectureClassification": "Architecture-architectureClassification-Selinunt",
-      "architectureMaterial": "Architecture-material-Selinunt"
+      "architectureMaterial": "Architecture-architectureMaterial-Selinunt",
+      "brickwork": "Architecture-architectureBrickwork-Selinunt"
     },
     "fields": {
       "architectureClassification": {

@@ -27,6 +27,9 @@
         },
         "architectureMaterial": {
           "label": "Materiale"
+        },
+        "brickwork": {
+          "label": "Tessitura"
         }
       }
     },
