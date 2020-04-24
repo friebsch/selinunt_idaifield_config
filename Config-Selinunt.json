@@ -138,7 +138,8 @@
       "construction": "Architecture-construction-Selinunt",
       "architectureMasonry": "Architecture-masonry-Selinunt",
       "masonryJoint": "Architecture-masonryJoint-Selinunt",
-      "architectureLayerType": "Architecture-layerType-Selinunt"
+      "architectureLayerType": "Architecture-masonryLayerType-Selinunt",
+      "architectureMasonryCoating": "Architecture-masonryCoating-Selinunt"
     },
     "fields": {
       "architectureClassification": {
@@ -157,6 +158,9 @@
         "inputType": "dropdown"
       },
       "masonryJoint": {
+        "inputType": "dropdown"
+      },
+      "architectureMasonryCoating": {
         "inputType": "dropdown"
       }
     }

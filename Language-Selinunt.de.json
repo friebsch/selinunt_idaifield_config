@@ -24,6 +24,9 @@
         },
         "architectureLayerType": {
           "label": "Lagenart"
+        },
+        "architectureMasonryCoating": {
+          "label": "Mauerwerksverkleidung"
         }
       }
     },

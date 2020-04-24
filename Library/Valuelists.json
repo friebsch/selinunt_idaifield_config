@@ -10162,7 +10162,7 @@
       }
     }
   },
-  "Architecture-layerType-Selinunt": {
+  "Architecture-masonryLayerType-Selinunt": {
     "creationDate": "24-4-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
@@ -10183,6 +10183,26 @@
       "Unregelmäßig": {
         "labels": {
           "en": "Irregolare"
+        }
+      }
+    }
+  },
+  "Architecture-masonryCoating-Selinunt": {
+    "creationDate": "24-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Mauerwerksverkleidung, Selinunt Grabung",
+      "en": ""
+    },
+    "values": {
+      "Verputz": {
+        "labels": {
+          "en": "Intonaco"
+        }
+      },
+      "Bemalung": {
+        "labels": {
+          "en": "Pittura"
         }
       }
     }

@@ -42,6 +42,9 @@
         },
         "architectureLayerType": {
           "label": "Tipo dei filari"
+        },
+        "architectureMasonryCoating": {
+          "label": "Rivestimento"
         }
       }
     },
