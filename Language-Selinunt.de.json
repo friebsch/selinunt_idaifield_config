@@ -18,6 +18,9 @@
         },
         "architectureMasonry": {
           "label": "Mauerwerk"
+        },
+        "masonryJoint": {
+          "label": "Mauerwerksverbindung"
         }
       }
     },

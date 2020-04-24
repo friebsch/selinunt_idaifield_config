@@ -36,6 +36,9 @@
         },
         "architectureMasonry": {
           "label": "Opera"
+        },
+        "masonryJoint": {
+          "label": "Adesione"
         }
       }
     },
