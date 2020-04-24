@@ -39,6 +39,9 @@
         },
         "masonryJoint": {
           "label": "Adesione"
+        },
+        "architectureLayerType": {
+          "label": "Tipo dei filari"
         }
       }
     },

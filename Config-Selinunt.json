@@ -137,7 +137,8 @@
       "brickwork": "Architecture-brickwork-Selinunt",
       "construction": "Architecture-construction-Selinunt",
       "architectureMasonry": "Architecture-masonry-Selinunt",
-      "masonryJoint": "Architecture-masonryJoint-Selinunt"
+      "masonryJoint": "Architecture-masonryJoint-Selinunt",
+      "architectureLayerType": "Architecture-layerType-Selinunt"
     },
     "fields": {
       "architectureClassification": {
@@ -145,6 +146,12 @@
       },
       "architectureMaterial": {
         "inputType": "checkboxes"
+      },
+      "architectureLayerType": {
+        "inputType": "dropdown"
+      },
+      "brickwork": {
+        "inputType": "dropdown"
       },
       "architectureMasonry": {
         "inputType": "dropdown"

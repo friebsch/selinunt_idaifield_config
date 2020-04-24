@@ -21,6 +21,9 @@
         },
         "masonryJoint": {
           "label": "Mauerwerksverbindung"
+        },
+        "architectureLayerType": {
+          "label": "Lagenart"
         }
       }
     },
