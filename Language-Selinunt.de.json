@@ -15,6 +15,9 @@
         },
         "architectureMaterial": {
           "label": "Baumaterial"
+        },
+        "architectureMasonry": {
+          "label": "Mauerwerk"
         }
       }
     },

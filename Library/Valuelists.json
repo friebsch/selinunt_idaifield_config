@@ -10060,5 +10060,60 @@
         }
       }
     }
+  },
+  "Architecture-masonry-Selinunt": {
+    "creationDate": "24-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Konstruktion, Selinunt Grabung",
+      "en": ""
+    },
+    "values": {
+      "Bruchsteinmauerwerk": {
+        "labels": {
+          "en": "In pietra grezza"
+        }
+      },
+      "Polygonalmauerwerk": {
+        "labels": {
+          "en": "Muro polygonale"
+        }
+      },
+      "Quadermauerwerk": {
+        "labels": {
+          "en": "Opera quadrata"
+        }
+      },
+      "Trapezoidalmauerwerk": {
+        "labels": {
+          "en": "Muro trapezoidale"
+        }
+      },
+      "Ziegelmauerwerk": {
+        "labels": {
+          "en": "Muro di mattoni"
+        }
+      },
+      "Stampflehm": {
+        "labels": {
+          "en": "Muro di terra cruda"
+        }
+      },
+      "Gussmauerwerk": {
+        "labels": {
+          "en": "Opera cementizia"
+        }
+      },
+      "Mischform": {
+        "labels": {
+          "en": "Tecnica mista"
+        }
+      },
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
   }
 }
