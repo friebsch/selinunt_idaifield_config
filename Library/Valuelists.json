@@ -10206,5 +10206,61 @@
         }
       }
     }
+  },
+  "Pottery-vesselForm-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Alabastron": {},
+      "Amphora": {},
+      "Aryballos": {},
+      "Askos": {},
+      "Becher": {},
+      "Becken": {},
+      "Chytra": {},
+      "Deckel": {},
+      "Dinos": {},
+      "Exaleiptron": {},
+      "Flasche": {},
+      "Hydria": {},
+      "Kanne": {},
+      "Kantharos": {},
+      "Kasserolle": {},
+      "Kochtopf": {},
+      "Kotyle": {},
+      "Krater": {},
+      "Krateriskos": {},
+      "Krug": {},
+      "Kylix": {},
+      "Lekythos": {},
+      "Lekanis": {},
+      "Louterion": {},
+      "Loutrophore": {},
+      "Lydion": {},
+      "Napf": {},
+      "Oinochoe": {},
+      "Olpe": {},
+      "Pfanne": {},
+      "Phiale": {},
+      "Pithos": {},
+      "Pyxis": {},
+      "Rython": {},
+      "Schale": {},
+      "Schalenskyphos": {},
+      "Schüssel": {},
+      "Sieb": {},
+      "Skyphos": {},
+      "Stamnos": {},
+      "Tasse": {},
+      "Teller": {},
+      "Offenes Gefäß": {},
+      "Geschlossenes Gefäß": {},
+      "Sonstiges": {},
+      "Unbestimmt": {}
+    }
   }
 }

@@ -92,6 +92,13 @@
     },
     "Grave": {
       "label": "Tomba"
+    },
+    "Pottery": {
+      "fields": {
+        "vesselForm": {
+          "label": "Descrizione"
+        }
+      }
     }
   }
 }

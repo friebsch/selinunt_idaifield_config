@@ -190,8 +190,59 @@
     }
   },
   "Pottery:default": {
-    "hidden": [],
-    "fields": {}
+    "hidden": [
+      "vesselFormSpecific",
+      "typeNumber",
+      "manufacturing",
+      "manufacturingMethod",
+      "temper",
+      "temperAmount",
+      "temperParticles",
+      "temperTypeClay",
+      "clayHardness",
+      "clayColorOutside",
+      "clayColorOutsideMunsell",
+      "clayColorInside",
+      "clayColorInsideMunsell",
+      "clayColorBreak",
+      "clayColorBreakMunsell",
+      "breakStructure",
+      "coatInside",
+      "coatColorInside",
+      "coatInsideType",
+      "coatOutside",
+      "coatColorOutside",
+      "coatOutsideType",
+      "formDescription",
+      "decorationTechnique",
+      "decorationDescription",
+      "objectType",
+      "purpose",
+      "provenance",
+      "sample",
+      "residueAnalysis",
+      "amountSherdsWall",
+      "amountSherdsBase",
+      "amountSherdsHandles",
+      "amountSherdsLip",
+      "amountSherdsPedestal",
+      "amountSherdsLid",
+      "amountSherdsRim",
+      "amountSherdsRimBase",
+      "amountSherdsRimShoulder",
+      "amountSherdsOther",
+      "amountSherdsShoulder",
+      "amountSherdsPercent",
+      "hasCoat"
+    ],
+    "valuelists": {
+      "vesselForm": "Pottery-vesselForm-Selinunt"
+    },
+    "fields": {
+      "materialType": {
+        "inputType": "radio"
+      }
+    }
   },
   "Metal:default": {
     "hidden": [],
