@@ -84,6 +84,9 @@
         },
         "distinguishingCriteria": {
           "label": "Criterio discriminante "
+        },
+        "firnisware": {
+          "label": "Vernice nera"
         }
       }
     },

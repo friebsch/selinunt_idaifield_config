@@ -53,6 +53,9 @@
         },
         "soilType": {
           "label": "Zusammensetzung"
+        },
+        "firnisware": {
+          "label": "Firnisware"
         }
       }
     },

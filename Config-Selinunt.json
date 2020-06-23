@@ -186,6 +186,9 @@
       },
       "distinguishingCriteria": {
         "inputType": "checkboxes"
+      },
+      "firnisware": {
+        "inputType": "unsignedInt"
       }
     }
   },
