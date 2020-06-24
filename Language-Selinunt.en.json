@@ -87,6 +87,18 @@
         },
         "firnisware": {
           "label": "Vernice nera"
+        },
+        "layerContentPotteryOrigin": {
+          "label": "Contenuto Ceramica Provenienza"
+        },
+        "layerContentPotteryShape": {
+          "label": "Contenuto Ceramica Forma"
+        },
+        "layerContentPotteryDecoration": {
+          "label": "Contenuto Ceramica Decorazione"
+        },
+        "layerContentTerracotta": {
+          "label": "Contenuto Ogetti di terracotta"
         }
       }
     },

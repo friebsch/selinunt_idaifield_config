@@ -175,7 +175,11 @@
       "layerColor": "Layer-colors-Selinunt-1",
       "consistency": "Layer-consistency-Selinunt-1",
       "soilType": "Layer-soilType-Selinunt-1",
-      "distinguishingCriteria": "Layer-distinguishingCriteria-Selinunt"
+      "distinguishingCriteria": "Layer-distinguishingCriteria-Selinunt",
+      "layerContentPotteryOrigin": "Layer-contentPotteryOrigin-Selinunt",
+      "layerContentPotteryShape": "Layer-contentPotteryShape-Selinunt",
+      "layerContentPotteryDecoration": "Layer-contentPotteryDecoration-Selinunt",
+      "layerContentTerracotta": "Layer-contentTerracotta-Selinunt"
     },
     "fields": {
       "layerColorLightness": {
@@ -187,8 +191,17 @@
       "distinguishingCriteria": {
         "inputType": "checkboxes"
       },
-      "firnisware": {
-        "inputType": "unsignedInt"
+      "layerContentPotteryOrigin": {
+        "inputType": "checkboxes"
+      },
+      "layerContentPotteryShape": {
+        "inputType": "checkboxes"
+      },
+      "layerContentPotteryDecoration": {
+        "inputType": "checkboxes"
+      },
+      "layerContentTerracotta": {
+        "inputType": "checkboxes"
       }
     }
   },
@@ -244,6 +257,9 @@
     "fields": {
       "materialType": {
         "inputType": "radio"
+      },
+      "test": {
+        "inputType": "dimension"
       }
     }
   },

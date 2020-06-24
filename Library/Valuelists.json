@@ -10208,8 +10208,8 @@
     }
   },
   "Pottery-vesselForm-Selinunt": {
-    "creationDate": "",
-    "createdBy": "",
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
       "en": ""
@@ -10261,6 +10261,153 @@
       "Geschlossenes Gefäß": {},
       "Sonstiges": {},
       "Unbestimmt": {}
+    }
+  },
+  "Layer-contentPotteryOrigin-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Lokal": {
+        "labels": {
+          "en": "Locale"
+        }
+      },
+      "Attisch": {
+        "labels": {
+          "en": "Attica"
+        }
+      },
+      "Korinthisch": {
+        "labels": {
+          "en": "Corinzia"
+        }
+      },
+      "Ostgriechisch": {
+        "labels": {
+          "en": "Greco-orientale"
+        }
+      },
+      "Punisch": {
+        "labels": {
+          "en": "Punica"
+        }
+      }
+    }
+  },
+  "Layer-contentPotteryShape-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Firnisware": {
+        "labels": {
+          "en": "Vernice Nera"
+        }
+      },
+      "Bemalt": {
+        "labels": {
+          "en": "Dipinta"
+        }
+      },
+      "Glasiert": {
+        "labels": {
+          "en": "Invetriata"
+        }
+      },
+      "Große Behälter": {},
+      "Kochware": {
+        "labels": {
+          "en": "Da fuoco"
+        }
+      },
+      "Amphoren": {
+        "labels": {
+          "en": "Anfore"
+        }
+      },
+      "Pithoi": {},      
+      "Sonstiges": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },  
+  "Layer-contentPotteryDecoration-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Firnisware": {
+        "labels": {
+          "en": "Vernice Nera"
+        }
+      },
+      "Bemalt": {
+        "labels": {
+          "en": "Dipinta"
+        }
+      },
+      "Glasiert": {
+        "labels": {
+          "en": "Invetriata"
+        }
+      },      
+      "Sonstiges": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },
+  "Layer-contentTerracotta-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Figuren": {
+        "labels": {
+          "en": "Statuine"
+        }
+      },
+      "Lampen": {
+        "labels": {
+          "en": "Lucerne"
+        }
+      },
+      "Architekturdekor": {
+        "labels": {
+          "en": "Decorazione fittile"
+        }
+      },
+      "Webgewichte": {
+        "labels": {
+          "en": "Pesi da telaio"
+        }
+      },
+      "Dachziegel": {
+        "labels": {
+          "en": "Tegole"
+        }
+      },      
+      "Sonstiges": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
     }
   }
 }

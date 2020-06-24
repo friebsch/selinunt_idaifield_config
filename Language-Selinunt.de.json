@@ -56,6 +56,18 @@
         },
         "firnisware": {
           "label": "Firnisware"
+        },
+        "layerContentPotteryOrigin": {
+          "label": "Inhalt Keramik Herkunft"
+        },
+        "layerContentPotteryShape": {
+          "label": "Inhalt Keramik Form"
+        },
+        "layerContentPotteryDecoration": {
+          "label": "Inhalt Keramik Dekoration"
+        },
+        "layerContentTerracotta": {
+          "label": "Inhalt Terracotta"
         }
       }
     },
