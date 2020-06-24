@@ -85,20 +85,26 @@
         "distinguishingCriteria": {
           "label": "Criterio discriminante "
         },
-        "firnisware": {
-          "label": "Vernice nera"
-        },
         "layerContentPotteryOrigin": {
-          "label": "Contenuto Ceramica Provenienza"
+          "label": "Contenuto: Ceramica provenienza"
         },
         "layerContentPotteryShape": {
-          "label": "Contenuto Ceramica Forma"
+          "label": "Contenuto: Ceramica forma"
         },
-        "layerContentPotteryDecoration": {
-          "label": "Contenuto Ceramica Decorazione"
+        "layerContentPotterySurfaceTreatment": {
+          "label": "Contenuto: Ceramica trattamento della superficie"
         },
         "layerContentTerracotta": {
-          "label": "Contenuto Ogetti di terracotta"
+          "label": "Contenuto: Ogetti di terracotta"
+        },
+        "layerContentInorganic": {
+          "label": "Contenuto: Materiale anorganico"
+        },
+        "layerContentOrganic": {
+          "label": "Contenuto: Materiale organico"
+        },
+        "layerContentBuildingMaterial": {
+          "label": "Contenuto: Materiale da costruzione"
         }
       }
     },

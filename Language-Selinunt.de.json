@@ -54,20 +54,26 @@
         "soilType": {
           "label": "Zusammensetzung"
         },
-        "firnisware": {
-          "label": "Firnisware"
-        },
         "layerContentPotteryOrigin": {
-          "label": "Inhalt Keramik Herkunft"
+          "label": "Inhalt: Keramik Herkunft"
         },
         "layerContentPotteryShape": {
-          "label": "Inhalt Keramik Form"
+          "label": "Inhalt: Keramik Form"
         },
-        "layerContentPotteryDecoration": {
-          "label": "Inhalt Keramik Dekoration"
+        "layerContentPotterySurfaceTreatment": {
+          "label": "Inhalt: Keramik Oberflächenbehandlung"
         },
         "layerContentTerracotta": {
-          "label": "Inhalt Terracotta"
+          "label": "Inhalt: Terracotta"
+        },
+        "layerContentInorganic": {
+          "label": "Inhalt: Anorganisches Material"
+        },
+        "layerContentOrganic": {
+          "label": "Inhalt: Organisches Material"
+        },
+        "layerContentBuildingMaterial": {
+          "label": "Inhalt: Baumaterial"
         }
       }
     },

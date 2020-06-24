@@ -178,8 +178,11 @@
       "distinguishingCriteria": "Layer-distinguishingCriteria-Selinunt",
       "layerContentPotteryOrigin": "Layer-contentPotteryOrigin-Selinunt",
       "layerContentPotteryShape": "Layer-contentPotteryShape-Selinunt",
-      "layerContentPotteryDecoration": "Layer-contentPotteryDecoration-Selinunt",
-      "layerContentTerracotta": "Layer-contentTerracotta-Selinunt"
+      "layerContentPotterySurfaceTreatment": "Layer-contentPotterySurfaceTreatment-Selinunt",
+      "layerContentTerracotta": "Layer-contentTerracotta-Selinunt",
+      "layerContentInorganic": "Layer-contentInorganic-Selinunt",
+      "layerContentOrganic": "Layer-contentOrganic-Selinunt",
+      "layerContentBuildingMaterial": "Layer-contentBuildingMaterial-Selinunt"
     },
     "fields": {
       "layerColorLightness": {
@@ -197,10 +200,19 @@
       "layerContentPotteryShape": {
         "inputType": "checkboxes"
       },
-      "layerContentPotteryDecoration": {
+      "layerContentPotterySurfaceTreatment": {
         "inputType": "checkboxes"
       },
       "layerContentTerracotta": {
+        "inputType": "checkboxes"
+      },
+      "layerContentInorganic": {
+        "inputType": "checkboxes"
+      },
+      "layerContentOrganic": {
+        "inputType": "checkboxes"
+      },
+      "layerContentBuildingMaterial": {
         "inputType": "checkboxes"
       }
     }

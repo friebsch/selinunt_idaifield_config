@@ -10276,9 +10276,29 @@
           "en": "Locale"
         }
       },
+      "Indigen": {
+        "labels": {
+          "en": "Indigena"
+        }
+      },
+      "Regional": {
+        "labels": {
+          "en": "Regionale"
+        }
+      },
+      "Unteritalisch": {
+        "labels": {
+          "en": "Magnogreca"
+        }
+      },
       "Attisch": {
         "labels": {
           "en": "Attica"
+        }
+      },
+      "Etruskisch": {
+        "labels": {
+          "en": "Etrusca"
         }
       },
       "Korinthisch": {
@@ -10286,14 +10306,24 @@
           "en": "Corinzia"
         }
       },
+      "Lakonisch": {
+        "labels": {
+          "en": "Laconica"
+        }
+      },
       "Ostgriechisch": {
         "labels": {
           "en": "Greco-orientale"
         }
       },
-      "Punisch": {
+      "Phönizisch/Punisch": {
         "labels": {
-          "en": "Punica"
+          "en": "Fenicia/Punica"
+        }
+      },
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
         }
       }
     }
@@ -10306,41 +10336,37 @@
       "en": ""
     },
     "values": {
-      "Firnisware": {
-        "labels": {
-          "en": "Vernice Nera"
-        }
-      },
-      "Bemalt": {
-        "labels": {
-          "en": "Dipinta"
-        }
-      },
-      "Glasiert": {
-        "labels": {
-          "en": "Invetriata"
-        }
-      },
-      "Große Behälter": {},
-      "Kochware": {
-        "labels": {
-          "en": "Da fuoco"
-        }
-      },
-      "Amphoren": {
-        "labels": {
-          "en": "Anfore"
-        }
-      },
-      "Pithoi": {},      
-      "Sonstiges": {
+      "Alabastron": {},
+      "Amphora": {},
+      "Aryballos": {},
+      "Askos": {},
+      "Exaleiptron": {},
+      "Hydria": {},
+      "Kanne": {},
+      "Kantharos": {},
+      "Kotyle": {},
+      "Krater": {},
+      "Kylix": {},
+      "Lekythos": {},
+      "Lekanis": {},
+      "Pithos": {},
+      "Pyxis": {},
+      "Schale": {},
+      "Schüssel": {},
+      "Skyphos": {},
+      "Stamnos": {},
+      "Tasse": {},
+      "Teller": {},
+      "Topf": {},
+      "Unguentarium": {},     
+      "Anderes": {
         "labels": {
           "en": "Altro"
         }
       }
     }
   },  
-  "Layer-contentPotteryDecoration-Selinunt": {
+  "Layer-contentPotterySurfaceTreatment-Selinunt": {
     "creationDate": "24-6-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
@@ -10348,9 +10374,40 @@
       "en": ""
     },
     "values": {
-      "Firnisware": {
+      "Schwarzfirnis": {
         "labels": {
           "en": "Vernice Nera"
+        }
+      },
+      "Red slip": {},
+      "Relief": {
+        "labels": {
+          "en": "A relieve"
+        }
+      },
+      "Stempeldekor": {
+        "labels": {
+          "en": "A stampa"
+        }
+      },
+      "Figürlich": {
+        "labels": {
+          "en": "Figurata"
+        }
+      },
+      "Unfigürlich": {
+        "labels": {
+          "en": "Geometrica"
+        }
+      },
+      "Ritzlinien": {
+        "labels": {
+          "en": "Incisa"
+        }
+      },
+      "Eingetaucht": {
+        "labels": {
+          "en": "Per immersione"
         }
       },
       "Bemalt": {
@@ -10363,7 +10420,7 @@
           "en": "Invetriata"
         }
       },      
-      "Sonstiges": {
+      "Anderes": {
         "labels": {
           "en": "Altro"
         }
@@ -10388,22 +10445,217 @@
           "en": "Lucerne"
         }
       },
+      "Webgewichte": {
+        "labels": {
+          "en": "Pesi da telaio"
+        }
+      },
+      "Spielstein": {
+        "labels": {
+          "en": "Pedine"
+        }
+      },       
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },
+  "Layer-contentInorganic-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Bronze": {
+        "labels": {
+          "en": "Bronzo"
+        }
+      },
+      "Eisen": {
+        "labels": {
+          "en": "Ferro"
+        }
+      },
+      "Blei": {
+        "labels": {
+          "en": "Piombo"
+        }
+      },
+      "Schlacke": {
+        "labels": {
+          "en": "Scorie"
+        }
+      },
+      "Gold": {
+        "labels": {
+          "en": "Oro"
+        }
+      },
+      "Silber": {
+        "labels": {
+          "en": "Argento"
+        }
+      },
+      "Münzen": {
+        "labels": {
+          "en": "Monete"
+        }
+      },
+      "Stein bearbeitet": {
+        "labels": {
+          "en": "Pietra lavorate"
+        }
+      },
+      "Stein figürlich": {
+        "labels": {
+          "en": "Pietra figurate"
+        }
+      },
+      "Reibsteine": {
+        "labels": {
+          "en": "Macine"
+        }
+      },
+      "Kiesel": {
+        "labels": {
+          "en": "Ciottoli"
+        }
+      },
+      "Glas": {
+        "labels": {
+          "en": "Vetro"
+        }
+      },
+      "Spielstein": {
+        "labels": {
+          "en": "Pedine"
+        }
+      },      
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },
+  "Layer-contentOrganic-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Organisches Material",
+      "en": ""
+    },
+    "values": {
+      "Knochen Tier": {
+        "labels": {
+          "en": "Ossa animale"
+        }
+      },
+      "Knochen Mensch": {
+        "labels": {
+          "en": "Ossa umano"
+        }
+      },
+      "Knochen bearbeitet": {
+        "labels": {
+          "en": "Ossa lavorate"
+        }
+      },
+      "Astragal": {
+        "labels": {
+          "en": "Astragalo"
+        }
+      },       
+      "Muscheln": {
+        "labels": {
+          "en": "Molluschi"
+        }
+      },    
+      "Holz": {
+        "labels": {
+          "en": "Legno"
+        }
+      },
+      "Holzkohle": {
+        "labels": {
+          "en": "Carbone"
+        }
+      },
+      "Samen": {
+        "labels": {
+          "en": "Semi"
+        }
+      },
+      "Elfenbein": {
+        "labels": {
+          "en": "Avorio"
+        }
+      },
+      "Perlen": {
+        "labels": {
+          "en": "Perle"
+        }
+      },
+      "Spielstein": {
+        "labels": {
+          "en": "Pedine"
+        }
+      },        
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },
+  "Layer-contentBuildingMaterial-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Mörtel": {
+        "labels": {
+          "en": "Malta"
+        }
+      },
+      "Verputz": {
+        "labels": {
+          "en": "Intonaco"
+        }
+      },
       "Architekturdekor": {
         "labels": {
           "en": "Decorazione fittile"
         }
       },
-      "Webgewichte": {
+      "Mosaiksteine": {
         "labels": {
-          "en": "Pesi da telaio"
+          "en": "Tessere (mosaico)"
         }
       },
       "Dachziegel": {
         "labels": {
           "en": "Tegole"
         }
+      },
+      "Lehmziegel gebrannt": {
+        "labels": {
+          "en": "Mattone cotto"
+        }
+      },
+      "Lehmziegel ungebrannt": {
+        "labels": {
+          "en": "Mattone crudo"
+        }
       },      
-      "Sonstiges": {
+      "Anderes": {
         "labels": {
           "en": "Altro"
         }
