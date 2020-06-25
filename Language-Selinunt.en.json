@@ -68,22 +68,22 @@
       "label": "Strato di terra",
       "fields": {
         "layerClassification": {
-          "label": "Designazione"
+          "label": "Strato di terra: Designazione"
         },
         "layerColorLightness": {
-          "label": "Tono"
+          "label": "Strato di terra: Tono"
         },
         "layerColor": {
-          "label": "Colore"
+          "label": "Strato di terra: Colore"
         },
         "consistency": {
-          "label": "Consistenza"
+          "label": "Strato di terra: Consistenza"
         },
         "soilType": {
-          "label": "Composizione"
+          "label": "Strato di terra: Composizione"
         },
         "distinguishingCriteria": {
-          "label": "Criterio discriminante "
+          "label": "Strato di terra: Criterio discriminante "
         },
         "layerContentPotteryOrigin": {
           "label": "Contenuto: Ceramica provenienza"
@@ -117,7 +117,16 @@
     "Pottery": {
       "fields": {
         "vesselForm": {
-          "label": "Descrizione"
+          "label": "Forma"
+        },
+        "miniatureVesselForm": {
+          "label": "Forma ceramica miniaturistica"
+        },
+        "vesselOrigin": {
+          "label": "Provenienza"
+        },
+        "vesselSurfaceTreatment": {
+          "label": "Trattamento della superficie"
         }
       }
     }

@@ -261,13 +261,27 @@
       "amountSherdsOther",
       "amountSherdsShoulder",
       "amountSherdsPercent",
-      "hasCoat"
+      "hasCoat",
+      "specificType",
+      "materialType"
     ],
     "valuelists": {
-      "vesselForm": "Pottery-vesselForm-Selinunt"
+      "vesselForm": "Pottery-vesselForm-Selinunt",
+      "vesselOrigin": "Layer-contentPotteryOrigin-Selinunt",
+      "vesselSurfaceTreatment": "Layer-contentPotterySurfaceTreatment-Selinunt",
+      "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt"
     },
     "fields": {
-      "materialType": {
+      "vesselOrigin": {
+        "inputType": "radio"
+      },
+      "vesselForm": {
+        "inputType": "radio"
+      },
+      "miniatureVesselForm": {
+        "inputType": "radio"
+      },
+      "vesselSurfaceTreatment": {
         "inputType": "radio"
       },
       "test": {

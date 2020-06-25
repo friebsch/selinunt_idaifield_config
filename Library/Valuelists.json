@@ -9394,6 +9394,11 @@
           "en": "Piano funzionale"
         }
       },
+      "Deponierung": {
+        "labels": {
+          "en": "Deposizione"
+        }
+      },
       "Laufhorizont": {
         "labels": {
           "en": "Piano di calpestio"
@@ -10240,6 +10245,7 @@
       "Lekanis": {},
       "Louterion": {},
       "Loutrophore": {},
+      "Lopas": {},
       "Lydion": {},
       "Napf": {},
       "Oinochoe": {},
@@ -10257,6 +10263,7 @@
       "Stamnos": {},
       "Tasse": {},
       "Teller": {},
+      "Unguentarium": {},
       "Offenes Gefäß": {},
       "Geschlossenes Gefäß": {},
       "Sonstiges": {},
@@ -10358,7 +10365,12 @@
       "Tasse": {},
       "Teller": {},
       "Topf": {},
-      "Unguentarium": {},     
+      "Unguentarium": {},
+      "Miniatur Keramik": {
+        "labels": {
+          "en": "Ceramica miniaturistica"
+        }
+      },     
       "Anderes": {
         "labels": {
           "en": "Altro"
@@ -10655,6 +10667,25 @@
           "en": "Mattone crudo"
         }
       },      
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },
+  "Pottery-miniatureVesselForm-Selinunt": {
+    "creationDate": "25-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Kotyle": {},
+      "Krateriskos": {},
+      "Pyxis": {},
+      "Lampe": {},      
       "Anderes": {
         "labels": {
           "en": "Altro"

@@ -43,19 +43,22 @@
     "Layer": {
       "fields": {
         "layerClassification": {
-          "label": "Ansprache"
+          "label": "Erdbefund: Ansprache"
         },
         "layerColorLightness": {
-          "label": "Farbhelligkeit"
+          "label": "Erdbefund: Farbhelligkeit"
         },
         "layerColor": {
-          "label": "Farbe"
+          "label": "Erdbefund: Farbe"
         },
         "soilType": {
-          "label": "Zusammensetzung"
+          "label": "Erdbefund: Zusammensetzung"
+        },
+        "distinguishingCriteria": {
+          "label": "Erdbefund: Unterscheidungskriterium"
         },
         "layerContentPotteryOrigin": {
-          "label": "Inhalt: Keramik Herkunft"
+          "label": "Inhalt: Keramik Provenienz"
         },
         "layerContentPotteryShape": {
           "label": "Inhalt: Keramik Form"
@@ -80,7 +83,16 @@
     "Pottery": {
       "fields": {
         "vesselForm": {
-          "label": "Ansprache"
+          "label": "Form"
+        },
+        "miniatureVesselForm": {
+          "label": "Form Miniatur Keramik"
+        },
+        "vesselOrigin": {
+          "label": "Provenienz"
+        },
+        "vesselSurfaceTreatment": {
+          "label": "Oberflächenbehabndlung"
         }
       }
     }
