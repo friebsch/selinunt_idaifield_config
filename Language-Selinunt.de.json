@@ -27,6 +27,9 @@
         },
         "architectureMasonryCoating": {
           "label": "Mauerwerksverkleidung"
+        },
+        "floorClassification": {
+          "label": "Fußboden"
         }
       }
     },
@@ -77,6 +80,15 @@
         },
         "layerContentBuildingMaterial": {
           "label": "Inhalt: Baumaterial"
+        },
+        "layerForm": {
+          "label": "Erdbefund: Form"
+        },
+        "layerBorders": {
+          "label": "Erdbefund: Grenzen"
+        },
+        "consistency": {
+          "label": "Erdbefund: Konsistenz"
         }
       }
     },
@@ -92,9 +104,18 @@
           "label": "Provenienz"
         },
         "vesselSurfaceTreatment": {
-          "label": "Oberflächenbehabndlung"
+          "label": "Oberflächenbehandlung"
+        },
+        "clayHardness": {
+          "label": "Tonhärte"
+        },
+        "clayDensity": {
+          "label": "Tondichte"
         }
       }
+    },
+    "StratigraphicSequence": {
+      "label": "Stratigraphische Sequenz"
     }
   }
 }

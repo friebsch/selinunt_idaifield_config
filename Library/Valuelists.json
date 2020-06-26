@@ -9674,19 +9674,49 @@
       "en": ""
     },
     "values": {
-      "deutlich": {
+      "Nach oben: deutlich": {
         "labels": {
-          "en": "distinto"
+          "en": "Superiore: distinto"
         }
       },
-      "diffus": {
+      "Nach oben: diffus": {
         "labels": {
-          "en": "graduale"
+          "en": "Superiore: graduale"
         }
       },
-      "willkürlich": {
+      "Nach oben: willkürlich": {
         "labels": {
-          "en": "arbitrario"
+          "en": "Superiore: arbitrario"
+        }
+      },
+      "Nach unten: deutlich": {
+        "labels": {
+          "en": "Inferiore: distinto"
+        }
+      },
+      "Nach unten: diffus": {
+        "labels": {
+          "en": "Inferiore: graduale"
+        }
+      },
+      "Nach unten: willkürlich": {
+        "labels": {
+          "en": "Inferiore: arbitrario"
+        }
+      },
+      "In der Fläche: deutlich": {
+        "labels": {
+          "en": "Laterale: distinto"
+        }
+      },
+      "In der Fläche: diffus": {
+        "labels": {
+          "en": "Laterale: graduale"
+        }
+      },
+      "In der Fläche: willkürlich": {
+        "labels": {
+          "en": "Laterale: arbitrario"
         }
       }
     }
@@ -9848,6 +9878,12 @@
         "labels": {
           "de": "Dynastie der Staufer",
           "en": "Epoca sveva"
+        }
+      },
+      "Rezent": {
+        "labels": {
+          "de": "Rezent",
+          "en": "Recente"
         }
       }
     }
@@ -10691,6 +10727,65 @@
           "en": "Altro"
         }
       }
+    }
+  },
+  "Pottery-clayHardness-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "hart": {},
+      "weich": {}
+    }
+  },
+  "Pottery-clayDensity-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "hoch": {},
+      "niedrig": {}
+    }
+  },
+  "Floor-floorClassification-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Estricht": {},
+      "Cocciopesto": {},
+      "Mosaik": {},
+      "Opus sectile": {},
+      "Opus signinum": {},
+      "Steinboden": {},
+      "Stampflehm": {},
+      "Terrazzo": {},
+      "Plattenboden": {},
+      "Ziegelboden": {},
+      "vergängliches Material": {},
+      "Anderes": {}
+    }
+  },
+  "Find-storagePlace-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Depot": {},
+      "Museum": {},
+      "In situ": {}
     }
   }
 }

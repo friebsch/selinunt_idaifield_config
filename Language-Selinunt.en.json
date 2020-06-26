@@ -45,6 +45,9 @@
         },
         "architectureMasonryCoating": {
           "label": "Rivestimento"
+        },
+        "floorClassification": {
+          "label": "Pavimento"
         }
       }
     },
@@ -105,6 +108,12 @@
         },
         "layerContentBuildingMaterial": {
           "label": "Contenuto: Materiale da costruzione"
+        },
+        "layerForm": {
+          "label": "Strato di terra: Forma"
+        },
+        "layerBorders": {
+          "label": "Strato di terra: Limiti"
         }
       }
     },

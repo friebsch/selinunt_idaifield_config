@@ -53,15 +53,19 @@
   },
   "Find:default": {
     "hidden": [],
+    "valuelists": {
+      "storagePlace": "Find-storagePlace-Selinunt"
+    },
     "fields": {}
   },
   "Feature:default": {
     "hidden": [
-      "color"
+      "color",
+      "featureForm",
+      "featureBorders",
+      "hasDisturbance"
     ],
     "valuelists": {
-      "featureBorders": "Feature-featureBorders-Selinunt",
-      "featureForm": "Feature-featureForm-Selinunt",
       "period": "periods-Selinunt-1"
     },
     "fields": {}
@@ -139,7 +143,8 @@
       "architectureMasonry": "Architecture-masonry-Selinunt",
       "masonryJoint": "Architecture-masonryJoint-Selinunt",
       "architectureLayerType": "Architecture-masonryLayerType-Selinunt",
-      "architectureMasonryCoating": "Architecture-masonryCoating-Selinunt"
+      "architectureMasonryCoating": "Architecture-masonryCoating-Selinunt",
+      "floorClassification": "Floor-floorClassification-Selinunt"
     },
     "fields": {
       "architectureClassification": {
@@ -162,6 +167,9 @@
       },
       "architectureMasonryCoating": {
         "inputType": "dropdown"
+      },
+      "floorClassification": {
+        "inputType": "dropdown"
       }
     }
   },
@@ -182,14 +190,16 @@
       "layerContentTerracotta": "Layer-contentTerracotta-Selinunt",
       "layerContentInorganic": "Layer-contentInorganic-Selinunt",
       "layerContentOrganic": "Layer-contentOrganic-Selinunt",
-      "layerContentBuildingMaterial": "Layer-contentBuildingMaterial-Selinunt"
+      "layerContentBuildingMaterial": "Layer-contentBuildingMaterial-Selinunt",
+      "layerBorders": "Feature-featureBorders-Selinunt",
+      "layerForm": "Feature-featureForm-Selinunt"
     },
     "fields": {
       "layerColorLightness": {
-        "inputType": "radio"
+        "inputType": "checkboxes"
       },
       "layerColor": {
-        "inputType": "radio"
+        "inputType": "checkboxes"
       },
       "distinguishingCriteria": {
         "inputType": "checkboxes"
@@ -214,6 +224,18 @@
       },
       "layerContentBuildingMaterial": {
         "inputType": "checkboxes"
+      },
+      "layerBorders": {
+        "inputType": "checkboxes"
+      },
+      "layerForm": {
+        "inputType": "checkboxes"
+      },
+      "consistency": {
+        "inputType": "radio"
+      },
+      "soilType": {
+        "inputType": "checkboxes"
       }
     }
   },
@@ -223,17 +245,11 @@
       "typeNumber",
       "manufacturing",
       "manufacturingMethod",
-      "temper",
-      "temperAmount",
       "temperParticles",
       "temperTypeClay",
-      "clayHardness",
       "clayColorOutside",
-      "clayColorOutsideMunsell",
       "clayColorInside",
-      "clayColorInsideMunsell",
       "clayColorBreak",
-      "clayColorBreakMunsell",
       "breakStructure",
       "coatInside",
       "coatColorInside",
@@ -269,7 +285,9 @@
       "vesselForm": "Pottery-vesselForm-Selinunt",
       "vesselOrigin": "Layer-contentPotteryOrigin-Selinunt",
       "vesselSurfaceTreatment": "Layer-contentPotterySurfaceTreatment-Selinunt",
-      "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt"
+      "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt",
+      "clayHardness": "Pottery-clayHardness-Selinunt",
+      "clayDensity": "Pottery-clayDensity-Selinunt"
     },
     "fields": {
       "vesselOrigin": {
@@ -282,6 +300,12 @@
         "inputType": "radio"
       },
       "vesselSurfaceTreatment": {
+        "inputType": "radio"
+      },
+      "clayHardness": {
+        "inputType": "radio"
+      },
+      "clayDensity": {
         "inputType": "radio"
       },
       "test": {
@@ -338,6 +362,13 @@
     "fields": {}
   },
   "Bedrock": {
+    "hidden": [],
+    "fields": [],
+    "parent": "Feature",
+    "valuelists": {}
+  },
+  "StratigraphicSequence": {
+    "color": "#fc03fc",
     "hidden": [],
     "fields": [],
     "parent": "Feature",
