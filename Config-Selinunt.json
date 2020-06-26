@@ -170,6 +170,9 @@
       },
       "floorClassification": {
         "inputType": "dropdown"
+      },
+      "descriptionOfBuildingTechnique": {
+        "inputType": "text"
       }
     }
   },

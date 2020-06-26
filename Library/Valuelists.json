@@ -10130,9 +10130,14 @@
           "en": "Muro trapezoidale"
         }
       },
-      "Ziegelmauerwerk": {
+      "Ziegelmauerwerk gebrannt": {
         "labels": {
-          "en": "Muro di mattoni"
+          "en": "Muro di mattoni cotti"
+        }
+      },
+      "Ziegelmauerwerk getrocknet": {
+        "labels": {
+          "en": "Muro di mattoni crudi"
         }
       },
       "Stampflehm": {

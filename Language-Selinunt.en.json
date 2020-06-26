@@ -32,19 +32,19 @@
           "label": "Tessitura"
         },
         "construction": {
-          "label": "Construzione"
+          "label": "Muro: Construzione"
         },
         "architectureMasonry": {
-          "label": "Opera"
+          "label": "Muro: Opera"
         },
         "masonryJoint": {
-          "label": "Adesione"
+          "label": "Muro: Adesione"
         },
         "architectureLayerType": {
-          "label": "Tipo dei filari"
+          "label": "Muro: Tipo dei filari"
         },
         "architectureMasonryCoating": {
-          "label": "Rivestimento"
+          "label": "Muro: Rivestimento"
         },
         "floorClassification": {
           "label": "Pavimento"

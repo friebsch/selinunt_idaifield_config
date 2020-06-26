@@ -17,19 +17,25 @@
           "label": "Baumaterial"
         },
         "architectureMasonry": {
-          "label": "Mauerwerk"
+          "label": "Mauer: Mauerwerk"
         },
         "masonryJoint": {
-          "label": "Mauerwerksverbindung"
+          "label": "Mauer: Verbindung"
         },
         "architectureLayerType": {
-          "label": "Lagenart"
+          "label": "Mauer: Lagenart"
         },
         "architectureMasonryCoating": {
-          "label": "Mauerwerksverkleidung"
+          "label": "Mauer: Verkleidung"
         },
         "floorClassification": {
           "label": "Fußboden"
+        },
+        "construction": {
+          "label": "Mauer: Konstruktion"
+        },
+        "descriptionOfBuildingTechnique": {
+          "label": "Beschreibung"
         }
       }
     },
