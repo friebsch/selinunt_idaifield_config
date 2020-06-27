@@ -10418,8 +10418,8 @@
         }
       }
     }
-  },  
-  "Layer-contentPotteryDecoration-Selinunt": {
+  },
+  "Pottery-coat-Selinunt": {
     "creationDate": "24-6-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
@@ -10438,6 +10438,27 @@
           "en": "A relieve"
         }
       },
+      "Glasur": {
+        "labels": {
+          "en": "Invetriata"
+        }
+      },
+      "Tongrundig": {},      
+      "Anderes": {
+        "labels": {
+          "en": "Altro"
+        }
+      }
+    }
+  },  
+  "Layer-contentPotteryDecoration-Selinunt": {
+    "creationDate": "24-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
       "Stempeldekor": {
         "labels": {
           "en": "A stampa"
@@ -10476,11 +10497,6 @@
       "Bemalt": {
         "labels": {
           "en": "Dipinta"
-        }
-      },
-      "Glasiert": {
-        "labels": {
-          "en": "Invetriata"
         }
       },      
       "Anderes": {
@@ -10752,8 +10768,21 @@
       "en": ""
     },
     "values": {
-      "hart": {},
-      "weich": {}
+      "weich": {
+        "labels": {
+          "en": "tenero"
+        }
+      },
+      "hart": {
+        "labels": {
+          "en": "duro"
+        }
+      },
+      "sehr hart": {
+        "labels": {
+          "en": "molto duro"
+        }
+      }
     }
   },
   "Pottery-clayDensity-Selinunt": {
@@ -10776,14 +10805,22 @@
       "en": ""
     },
     "values": {
-      "Scheibengedreht": {
+      "gedreht (auf Drehscheibe)": {
         "labels": {
+          "de": "Scheibengedrecht",
           "en": "Al tornio"
         }
       },
-      "Handgeformt": {
+      "handgeformt": {
         "labels": {
+          "de": "Handgeformt",
           "en": "Al mano"
+        }
+      },
+      "gegossen": {
+        "label": {
+          "de": "Gegossen",
+          "en": "Colato"
         }
       }
     }
@@ -10821,6 +10858,22 @@
       "Depot": {},
       "Museum": {},
       "In situ": {}
+    }
+  },
+  "Pottery-coatQuality-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "glänzend": {},
+      "matt": {},
+      "dicht": {},
+      "dünn": {},
+      "streifig": {},
+      "abgerieben": {}
     }
   }
 }

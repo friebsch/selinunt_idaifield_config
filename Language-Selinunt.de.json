@@ -106,7 +106,7 @@
         "miniatureVesselForm": {
           "label": "Form Miniatur Keramik"
         },
-        "vesselOrigin": {
+        "potteryProvenance": {
           "label": "Provenienz"
         },
         "vesselDecoration": {
@@ -150,6 +150,27 @@
         },
         "potteryWidth": {
           "label": "Breite Objekt"
+        },
+        "coatType": {
+          "label": "Überzug"
+        },
+        "sample": {
+          "label": "Analyse"
+        },
+        "sampleDescription": {
+          "label": "Beschreibung der Analyse"
+        },
+        "clayColorOutsideMunsell": {
+          "label": "Außen: Tonfarbe (Munsell)"
+        },
+        "clayColorInsideMunsell": {
+          "label": "Innen: Tonfarbe (Munsell)"
+        },
+        "clayColorBreakMunsell": {
+          "label": "Bruch: Tonfarbe (Munsell)"
+        },
+        "coatQuality": {
+          "label": "Qualität des Überzugs"
         }
       }
     },

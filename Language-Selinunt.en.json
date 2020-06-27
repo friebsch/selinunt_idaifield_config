@@ -131,7 +131,7 @@
         "miniatureVesselForm": {
           "label": "Forma ceramica miniaturistica"
         },
-        "vesselOrigin": {
+        "potteryProvenance": {
           "label": "Provenienza"
         },
         "vesselDecoration": {

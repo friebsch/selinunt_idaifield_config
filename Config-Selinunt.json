@@ -268,9 +268,6 @@
       "manufacturing",
       "temperParticles",
       "temperTypeClay",
-      "clayColorOutside",
-      "clayColorInside",
-      "clayColorBreak",
       "breakStructure",
       "coatInside",
       "coatColorInside",
@@ -283,8 +280,6 @@
       "decorationDescription",
       "objectType",
       "purpose",
-      "provenance",
-      "sample",
       "residueAnalysis",
       "amountSherdsWall",
       "amountSherdsBase",
@@ -300,19 +295,22 @@
       "amountSherdsPercent",
       "hasCoat",
       "specificType",
-      "materialType"
+      "materialType",
+      "provenance"
     ],
     "valuelists": {
       "vesselForm": "Pottery-vesselForm-Selinunt",
-      "vesselOrigin": "Layer-contentPotteryOrigin-Selinunt",
+      "potteryProvenance": "Layer-contentPotteryOrigin-Selinunt",
       "vesselDecoration": "Layer-contentPotteryDecoration-Selinunt",
       "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt",
       "clayHardness": "Pottery-clayHardness-Selinunt",
       "clayDensity": "Pottery-clayDensity-Selinunt",
-      "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt"
+      "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt",
+      "coatType": "Pottery-coat-Selinunt",
+      "coatQuality": "Pottery-coatQuality-Selinunt"
     },
     "fields": {
-      "vesselOrigin": {
+      "potteryProvenance": {
         "inputType": "radio"
       },
       "vesselForm": {
@@ -322,7 +320,7 @@
         "inputType": "radio"
       },
       "vesselDecoration": {
-        "inputType": "radio"
+        "inputType": "checkboxes"
       },
       "clayHardness": {
         "inputType": "radio"
@@ -365,6 +363,18 @@
       },
       "amountSherds": {
         "inputType": "unsignedInt"
+      },
+      "coatType": {
+        "inputType": "checkboxes"
+      },
+      "sample": {
+        "inputType": "boolean"
+      },
+      "sampleDescription": {
+        "inputType": "text"
+      },
+      "coatQuality": {
+        "inputType": "checkboxes"
       }
     }
   },
