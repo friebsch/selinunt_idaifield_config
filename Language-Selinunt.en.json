@@ -94,8 +94,8 @@
         "layerContentPotteryShape": {
           "label": "Contenuto: Ceramica forma"
         },
-        "layerContentPotterySurfaceTreatment": {
-          "label": "Contenuto: Ceramica trattamento della superficie"
+        "layerContentPotteryDecoration": {
+          "label": "Contenuto: Ceramica decorazione"
         },
         "layerContentTerracotta": {
           "label": "Contenuto: Ogetti di terracotta"
@@ -134,8 +134,8 @@
         "vesselOrigin": {
           "label": "Provenienza"
         },
-        "vesselSurfaceTreatment": {
-          "label": "Trattamento della superficie"
+        "vesselDecoration": {
+          "label": "Decorazione"
         }
       }
     }

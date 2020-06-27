@@ -10419,7 +10419,7 @@
       }
     }
   },  
-  "Layer-contentPotterySurfaceTreatment-Selinunt": {
+  "Layer-contentPotteryDecoration-Selinunt": {
     "creationDate": "24-6-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
@@ -10451,6 +10451,16 @@
       "Unfigürlich": {
         "labels": {
           "en": "Geometrica"
+        }
+      },
+      "Banddekor": {
+        "labels": {
+          "en": "A bande"
+        }
+      },
+      "Pflanzendekor": {
+        "labels": {
+          "en": "Vegetale"
         }
       },
       "Ritzlinien": {
@@ -10756,6 +10766,26 @@
     "values": {
       "hoch": {},
       "niedrig": {}
+    }
+  },
+  "Pottery-manufacturingMethod-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Scheibengedreht": {
+        "labels": {
+          "en": "Al tornio"
+        }
+      },
+      "Handgeformt": {
+        "labels": {
+          "en": "Al mano"
+        }
+      }
     }
   },
   "Floor-floorClassification-Selinunt": {

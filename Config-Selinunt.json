@@ -189,7 +189,7 @@
       "distinguishingCriteria": "Layer-distinguishingCriteria-Selinunt",
       "layerContentPotteryOrigin": "Layer-contentPotteryOrigin-Selinunt",
       "layerContentPotteryShape": "Layer-contentPotteryShape-Selinunt",
-      "layerContentPotterySurfaceTreatment": "Layer-contentPotterySurfaceTreatment-Selinunt",
+      "layerContentPotteryDecoration": "Layer-contentPotteryDecoration-Selinunt",
       "layerContentTerracotta": "Layer-contentTerracotta-Selinunt",
       "layerContentInorganic": "Layer-contentInorganic-Selinunt",
       "layerContentOrganic": "Layer-contentOrganic-Selinunt",
@@ -213,7 +213,7 @@
       "layerContentPotteryShape": {
         "inputType": "checkboxes"
       },
-      "layerContentPotterySurfaceTreatment": {
+      "layerContentPotteryDecoration": {
         "inputType": "checkboxes"
       },
       "layerContentTerracotta": {
@@ -247,7 +247,6 @@
       "vesselFormSpecific",
       "typeNumber",
       "manufacturing",
-      "manufacturingMethod",
       "temperParticles",
       "temperTypeClay",
       "clayColorOutside",
@@ -287,10 +286,11 @@
     "valuelists": {
       "vesselForm": "Pottery-vesselForm-Selinunt",
       "vesselOrigin": "Layer-contentPotteryOrigin-Selinunt",
-      "vesselSurfaceTreatment": "Layer-contentPotterySurfaceTreatment-Selinunt",
+      "vesselDecoration": "Layer-contentPotteryDecoration-Selinunt",
       "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt",
       "clayHardness": "Pottery-clayHardness-Selinunt",
-      "clayDensity": "Pottery-clayDensity-Selinunt"
+      "clayDensity": "Pottery-clayDensity-Selinunt",
+      "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt"
     },
     "fields": {
       "vesselOrigin": {
@@ -302,7 +302,7 @@
       "miniatureVesselForm": {
         "inputType": "radio"
       },
-      "vesselSurfaceTreatment": {
+      "vesselDecoration": {
         "inputType": "radio"
       },
       "clayHardness": {
@@ -311,7 +311,34 @@
       "clayDensity": {
         "inputType": "radio"
       },
-      "test": {
+      "manufacturingMethod": {
+        "inputType": "radio"
+      },
+      "Durchmesser Rand außen": {
+        "inputType": "dimension"
+      },
+      "Durchmesser Rand innen": {
+        "inputType": "dimension"
+      },
+      "Wandstärke": {
+        "inputType": "dimension"
+      },
+      "Durchmesser Henkel": {
+        "inputType": "dimension"
+      },
+      "Durchmesser Fuß": {
+        "inputType": "dimension"
+      },
+      "Durchmesser Boden": {
+        "inputType": "dimension"
+      },
+      "Durchmesser Deckel": {
+        "inputType": "dimension"
+      },
+      "Höhe": {
+        "inputType": "dimension"
+      },
+      "Breite": {
         "inputType": "dimension"
       }
     }

@@ -72,8 +72,8 @@
         "layerContentPotteryShape": {
           "label": "Inhalt: Keramik Form"
         },
-        "layerContentPotterySurfaceTreatment": {
-          "label": "Inhalt: Keramik Oberflächenbehandlung"
+        "layerContentPotteryDecoration": {
+          "label": "Inhalt: Keramik Dekoration"
         },
         "layerContentTerracotta": {
           "label": "Inhalt: Terracotta"
@@ -109,8 +109,8 @@
         "vesselOrigin": {
           "label": "Provenienz"
         },
-        "vesselSurfaceTreatment": {
-          "label": "Oberflächenbehandlung"
+        "vesselDecoration": {
+          "label": "Dekoration"
         },
         "clayHardness": {
           "label": "Tonhärte"
