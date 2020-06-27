@@ -52,11 +52,30 @@
     "fields": {}
   },
   "Find:default": {
-    "hidden": [],
+    "hidden": [
+      "hasRestoration",
+      "catalogueNumber",
+      "amount",
+      "conditionAmount",
+      "conditionPercent",
+      "condition",
+      "weight",
+      "storageInventoryNumber"
+    ],
     "valuelists": {
       "storagePlace": "Find-storagePlace-Selinunt"
     },
-    "fields": {}
+    "fields": {
+      "findOtherIdentificationNumber": {
+        "inputType": "input"
+      },
+      "restorationDescription": {
+        "inputType": "input"
+      },
+      "alignments": {
+        "inputType": "input"
+      }
+    }
   },
   "Feature:default": {
     "hidden": [
@@ -340,6 +359,9 @@
       },
       "Breite": {
         "inputType": "dimension"
+      },
+      "weightPottery": {
+        "inputType": "input"
       }
     }
   },

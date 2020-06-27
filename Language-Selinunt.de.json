@@ -117,11 +117,30 @@
         },
         "clayDensity": {
           "label": "Tondichte"
+        },
+        "weightPottery": {
+          "label": "Gewicht (g)"
         }
       }
     },
     "StratigraphicSequence": {
       "label": "Stratigraphische Sequenz"
+    },
+    "Find": {
+      "fields": {
+        "findOtherIdentificationNumber": {
+          "label": "Andere Identifikationsnummer"
+        },
+        "restorationDescription": {
+          "label": "Restaurierungsmaßnahmen"
+        },
+        "alignments": {
+          "label": "Anpassungen"
+        },
+        "conditionComment": {
+          "label": "Erhaltungszustand"
+        }
+      }
     }
   }
 }
