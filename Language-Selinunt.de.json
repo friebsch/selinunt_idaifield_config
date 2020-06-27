@@ -120,6 +120,9 @@
         },
         "weightPottery": {
           "label": "Gewicht (g)"
+        },
+        "amountSherds": {
+          "label": "Anzahl Fragmente"
         }
       }
     },

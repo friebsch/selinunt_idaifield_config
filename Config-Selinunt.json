@@ -361,7 +361,10 @@
         "inputType": "dimension"
       },
       "weightPottery": {
-        "inputType": "input"
+        "inputType": "unsignedInt"
+      },
+      "amountSherds": {
+        "inputType": "unsignedInt"
       }
     }
   },
