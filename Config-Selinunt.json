@@ -122,8 +122,15 @@
     "fields": {}
   },
   "Brick:default": {
-    "hidden": [],
-    "fields": {}
+    "hidden": [
+      "manufacturingMethod",
+      "provenance"
+    ],
+    "fields": {
+      "brickProvenance": {
+        "inputType": "input"
+      }
+    }
   },
   "Burial:default": {
     "hidden": [],

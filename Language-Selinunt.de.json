@@ -192,6 +192,13 @@
           "label": "Erhaltungszustand"
         }
       }
+    },
+    "Brick": {
+      "fields": {
+        "brickProvenance": {
+          "label": "Provenienz"
+        }
+      }
     }
   }
 }
