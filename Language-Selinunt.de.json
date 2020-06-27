@@ -118,11 +118,38 @@
         "clayDensity": {
           "label": "Tondichte"
         },
-        "weightPottery": {
+        "potteryWeight": {
           "label": "Gewicht (g)"
         },
         "amountSherds": {
           "label": "Anzahl Fragmente"
+        },
+        "potteryDiameterExternal": {
+          "label": "Durchmesser Rand außen"
+        },
+        "potteryDiameterInternal": {
+          "label": "Durchmesser Rand innen"
+        },
+        "potteryThickness": {
+          "label": "Wandstärke"
+        },
+        "pottyDiameterHandle": {
+          "label": "Durchmesser Henkel"
+        },
+        "potteryDiameterFoot": {
+          "label": "Durchmesser Fuß"
+        },
+        "potteryDiameterBase": {
+          "label": "Durchmesser Boden"
+        },
+        "potteryDiameterLid": {
+          "label": "Durchmesser Deckel"
+        },
+        "potteryHeight": {
+          "label": "Höhe Objekt"
+        },
+        "potteryWidth": {
+          "label": "Breite Objekt"
         }
       }
     },

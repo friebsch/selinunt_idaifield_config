@@ -70,7 +70,7 @@
         "inputType": "input"
       },
       "restorationDescription": {
-        "inputType": "input"
+        "inputType": "text"
       },
       "alignments": {
         "inputType": "input"
@@ -333,34 +333,34 @@
       "manufacturingMethod": {
         "inputType": "radio"
       },
-      "Durchmesser Rand außen": {
+      "potteryDiameterExternal": {
         "inputType": "dimension"
       },
-      "Durchmesser Rand innen": {
+      "potteryDiameterInternal": {
         "inputType": "dimension"
       },
-      "Wandstärke": {
+      "potteryThickness": {
         "inputType": "dimension"
       },
-      "Durchmesser Henkel": {
+      "pottyDiameterHandle": {
         "inputType": "dimension"
       },
-      "Durchmesser Fuß": {
+      "potteryDiameterFoot": {
         "inputType": "dimension"
       },
-      "Durchmesser Boden": {
+      "potteryDiameterBase": {
         "inputType": "dimension"
       },
-      "Durchmesser Deckel": {
+      "potteryDiameterLid": {
         "inputType": "dimension"
       },
-      "Höhe": {
+      "potteryHeight": {
         "inputType": "dimension"
       },
-      "Breite": {
+      "potteryWidth": {
         "inputType": "dimension"
       },
-      "weightPottery": {
+      "potteryWeight": {
         "inputType": "unsignedInt"
       },
       "amountSherds": {
