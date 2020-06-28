@@ -206,6 +206,21 @@
         },
         "manufacturing": {
           "label": "Ziegel: Technik"
+        },
+        "clayColorInside": {
+          "label": "Innen: Tonfarbe und -intensität"
+        },
+        "featureText": {
+          "label": "Beschreibung Stempel"
+        },
+        "brickWeight": {
+          "label": "Gewicht (g)"
+        },
+        "amountSherds": {
+          "label": "Anzahl Fragmente"
+        },
+        "descriptionDecorationTechnique": {
+          "label": "Beschreibung der Dekoration"
         }
       }
     }

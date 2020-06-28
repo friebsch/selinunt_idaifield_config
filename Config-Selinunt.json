@@ -125,11 +125,14 @@
     "hidden": [
       "manufacturingMethod",
       "provenance",
-      "formDescription"
+      "formDescription",
+      "specificType"
     ],
     "valuelists": {
       "brickForm": "Brick-brickForm-Selinunt",
-      "brickUsage": "Brick-brickUsage-Selinunt"
+      "brickUsage": "Brick-brickUsage-Selinunt",
+      "clayColorInside": "colors-default-1",
+      "decorationTechnique": "Brick-decorationTechnique-Selinunt"
     },
     "fields": {
       "brickProvenance": {
@@ -140,6 +143,21 @@
       },
       "brickFormDescription": {
         "inputType": "input"
+      },
+      "clayColorInside": {
+        "inputType": "checkboxes"
+      },
+      "brickWeight": {
+        "inputType": "unsignedInt"
+      },
+      "amountSherds": {
+        "inputType": "unsignedInt"
+      },
+      "decorationTechnique": {
+        "inputType": "checkboxes"
+      },
+      "descriptionDecorationTechnique": {
+        "inputType": "text"
       }
     }
   },
