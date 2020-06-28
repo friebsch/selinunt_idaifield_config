@@ -249,6 +249,12 @@
         },
         "metalMiscellaneous": {
           "label": "Bestimmung: Sonstiges"
+        },
+        "metalWeight": {
+          "label": "Gewicht (g)"
+        },
+        "amountFragments": {
+          "label": "Anzahl Fragmente"
         }
       }
     }

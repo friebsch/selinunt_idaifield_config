@@ -430,7 +430,8 @@
       "objectType",
       "vesselForm",
       "vesselFormSpecific",
-      "provenance"
+      "provenance",
+      "decorationTechnique"
     ],
     "valuelists": {
       "metalMaterial": "Metal-metalMaterial-Selinunt",
@@ -443,9 +444,6 @@
     "fields": {
       "metalProvenance": {
         "inputType": "input"
-      },
-      "decorationTechnique": {
-        "inputType": "checkboxes"
       },
       "metalWeaponsArmor": {
         "inputType": "radio"
@@ -461,6 +459,12 @@
       },
       "metalMiscellaneous": {
         "inputType": "radio"
+      },
+      "metalWeight": {
+        "inputType": "unsignedInt"
+      },
+      "amountFragments": {
+        "inputType": "unsignedInt"
       }
     }
   },
