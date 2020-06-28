@@ -197,6 +197,15 @@
       "fields": {
         "brickProvenance": {
           "label": "Provenienz"
+        },
+        "brickForm": {
+          "label": "Ziegel: Form"
+        },
+        "brickFormDescription": {
+          "label": "Ziegel: Beschreibung der Form"
+        },
+        "manufacturing": {
+          "label": "Ziegel: Technik"
         }
       }
     }

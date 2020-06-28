@@ -124,10 +124,21 @@
   "Brick:default": {
     "hidden": [
       "manufacturingMethod",
-      "provenance"
+      "provenance",
+      "formDescription"
     ],
+    "valuelists": {
+      "brickForm": "Brick-brickForm-Selinunt",
+      "brickUsage": "Brick-brickUsage-Selinunt"
+    },
     "fields": {
       "brickProvenance": {
+        "inputType": "input"
+      },
+      "brickForm": {
+        "inputType": "radio"
+      },
+      "brickFormDescription": {
         "inputType": "input"
       }
     }
