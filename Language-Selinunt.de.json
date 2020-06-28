@@ -205,7 +205,7 @@
           "label": "Ziegel: Beschreibung der Form"
         },
         "manufacturing": {
-          "label": "Ziegel: Technik"
+          "label": "Ziegel: Herstellungstechnik"
         },
         "clayColorInside": {
           "label": "Innen: Tonfarbe und -intensität"
@@ -221,6 +221,22 @@
         },
         "descriptionDecorationTechnique": {
           "label": "Beschreibung der Dekoration"
+        },
+        "coatColor": {
+          "label": "Überzug: Farbe und Intensität"
+        },
+        "roofingSystem": {
+          "label": "Dachdeckungssystem"
+        }
+      }
+    },
+    "Metal": {
+      "fields": {
+        "metalProvenance": {
+          "label": "Provenienz"
+        },
+        "metalWeaponsArmor": {
+          "label": "Bestimmung: Waffen und Rüstungsstücke"
         }
       }
     }

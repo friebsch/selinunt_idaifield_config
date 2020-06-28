@@ -10922,6 +10922,12 @@
         "labels": {
           "en": "Tegola non specificata"
         }
+      },
+      "Sonstiges": {
+        "labels": {
+          "de": "Anderes",
+          "en": "Altro"
+        }
       }
     }
   },
@@ -10936,10 +10942,7 @@
       "Becken":{},
       "Brunnenverkleidung":{},
       "Dach": {},
-      "Decke": {},
-      "Fenster": {},
       "Fussboden": {},
-      "Gewölbedecke": {},
       "Grab": {},
       "Kanal": {},
       "Mauer": {},
@@ -10955,26 +10958,66 @@
       "en": ""
     },
     "values": {
-      "Bemalung": {
-        "labels": {
-          "de": "Farbe"
-        }
-      },
-      "figürliche Bemalung": {},
+      "Bemalung": {},
       "Fingerabdruck": {},
       "Graffito": {},
       "Inschrift": {},
       "Kammritzung": {},
+      "Pfotenabdruck": {},
       "Pinselspuren": {},
-      "Reliefdekor": {},
-      "Riefeldekor": {},
-      "Ritzungen": {},
       "Sonstige Abdrücke": {},
-      "Stempel": {},
-      "Stempeldekor": {},
-      "Tupfendekor": {},
-      "Wischzeichen": {},
-      "Überzug/Glasur": {}
+      "Stempel": {}
+    }
+  },
+  "Brick-roofingSystem-Selinunt": {
+    "creationDate": "28-6-2020",
+    "createdBy": "Melanie Jonasch",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Korinthisch": {},
+      "Lakonisch": {},
+      "Hybrid-kleinasiatisch": {},
+      "Hybrid-sizilisch": {},
+      "Hellenistisch-römisch": {}
+    }
+  },
+  "Metal-metalMaterial-Selinunt": {
+    "createdBy": "Melanie Jonasch",
+    "creationDate": "28-6-2020",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Blei": {},
+      "Bronze": {},
+      "Eisen": {},
+      "Silber": {},
+      "Gold": {},
+      "Unbestimmt": {}
+    }
+  },
+  "Metal-metalWeaponsArmor-Selinunt": {
+    "createdBy": "Melanie Jonasch",
+    "creationDate": "28-6-2020",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Helm": {},
+      "Panzer": {},
+      "Beinschiene": {},
+      "Schild": {},
+      "Pfeilspitze": {},
+      "Lanzenspitze": {},
+      "Speerspitze": {},
+      "Lanzenschuh": {},
+      "Schwert": {},
+      "Unbestimmt": {}
     }
   }
 }

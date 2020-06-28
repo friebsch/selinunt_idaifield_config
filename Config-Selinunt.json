@@ -126,13 +126,17 @@
       "manufacturingMethod",
       "provenance",
       "formDescription",
-      "specificType"
+      "specificType",
+      "coatColorOutside",
+      "coatColorInside"
     ],
     "valuelists": {
       "brickForm": "Brick-brickForm-Selinunt",
       "brickUsage": "Brick-brickUsage-Selinunt",
       "clayColorInside": "colors-default-1",
-      "decorationTechnique": "Brick-decorationTechnique-Selinunt"
+      "decorationTechnique": "Brick-decorationTechnique-Selinunt",
+      "coatColor": "colors-default-1",
+      "roofingSystem": "Brick-roofingSystem-Selinunt"
     },
     "fields": {
       "brickProvenance": {
@@ -158,6 +162,12 @@
       },
       "descriptionDecorationTechnique": {
         "inputType": "text"
+      },
+      "coatColor": {
+        "inputType": "checkboxes"
+      },
+      "roofingSystem": {
+        "inputType": "radio"
       }
     }
   },
@@ -415,8 +425,28 @@
     }
   },
   "Metal:default": {
-    "hidden": [],
-    "fields": {}
+    "hidden": [
+      "formDescription",
+      "objectType",
+      "vesselForm",
+      "vesselFormSpecific",
+      "provenance"
+    ],
+    "valuelists": {
+      "metalMaterial": "Metal-metalMaterial-Selinunt",
+      "metalWeaponsArmor": "Metal-metalWeaponsArmor-Selinunt"
+    },
+    "fields": {
+      "metalProvenance": {
+        "inputType": "input"
+      },
+      "decorationTechnique": {
+        "inputType": "checkboxes"
+      },
+      "metalWeaponsArmor": {
+        "inputType": "radio"
+      }
+    }
   },
   "Grave:default": {
     "fields": {},
