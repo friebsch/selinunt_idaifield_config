@@ -434,7 +434,11 @@
     ],
     "valuelists": {
       "metalMaterial": "Metal-metalMaterial-Selinunt",
-      "metalWeaponsArmor": "Metal-metalWeaponsArmor-Selinunt"
+      "metalWeaponsArmor": "Metal-metalWeaponsArmor-Selinunt",
+      "metalSchmuckTrachtbestandteile": "Metal-metalSchmuckTrachtbestandteile-Selinunt",
+      "metalVesselParts": "Metal-metalVesselParts-Selinunt",
+      "metalToolsEquipment": "Metal-metalToolsEquipment-Selinunt",
+      "metalMiscellaneous": "Metal-metalMiscellaneous-Selinunt"
     },
     "fields": {
       "metalProvenance": {
@@ -444,6 +448,18 @@
         "inputType": "checkboxes"
       },
       "metalWeaponsArmor": {
+        "inputType": "radio"
+      },
+      "metalSchmuckTrachtbestandteile": {
+        "inputType": "radio"
+      },
+      "metalVesselParts": {
+        "inputType": "radio"
+      },
+      "metalToolsEquipment": {
+        "inputType": "radio"
+      },
+      "metalMiscellaneous": {
         "inputType": "radio"
       }
     }

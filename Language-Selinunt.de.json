@@ -237,6 +237,18 @@
         },
         "metalWeaponsArmor": {
           "label": "Bestimmung: Waffen und Rüstungsstücke"
+        },
+        "metalSchmuckTrachtbestandteile": {
+          "label": "Bestimmung: Schmuck und Trachtbestandteile"
+        },
+        "metalVesselParts": {
+          "label": "Bestimmung: Gefäßteile"
+        },
+        "metalToolsEquipment": {
+          "label": "Bestimmung: Werkzeug und Gerät"
+        },
+        "metalMiscellaneous": {
+          "label": "Bestimmung: Sonstiges"
         }
       }
     }

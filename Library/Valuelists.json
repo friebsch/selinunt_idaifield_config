@@ -11019,5 +11019,106 @@
       "Schwert": {},
       "Unbestimmt": {}
     }
+  },
+  "Metal-metalSchmuckTrachtbestandteile-Selinunt": {
+    "createdBy": "Melanie Jonasch",
+    "creationDate": "28-6-2020",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Gürtel": {},
+      "Halsring": {},
+      "Armring / Beinring": {},
+      "Ohrring": {},
+      "Fingerring": {},
+      "Anhänger": {},
+      "Perle": {},
+      "Kette": {},
+      "Knopf": {},
+      "Fibel": {},
+      "Nadel": {},
+      "Unbestimmt": {}
+    }
+  },
+  "Metal-metalVesselParts-Selinunt": {
+    "createdBy": "Melanie Jonasch",
+    "creationDate": "28-6-2020",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Dreifußteile": {},
+      "Situlen": {},
+      "Kessel": {},
+      "Perlrandbecken / Perlrandschale": {},
+      "Henkel / Griff": {},
+      "Attasche": {},
+      "Standring": {},
+      "sog. Käsereibe": {},
+      "Anderes": {},
+      "Unbestimmt": {}
+    }
+  },
+  "Metal-metalToolsEquipment-Selinunt": {
+    "createdBy": "Melanie Jonasch",
+    "creationDate": "28-6-2020",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Beil": {},
+      "Klinge": {},
+      "Meißel": {},
+      "Säge": {},
+      "Hammer": {},
+      "Punze": {},
+      "Pfrieme": {},
+      "Nähnadel": {},
+      "Spindelhaken": {},
+      "Stichel": {},
+      "Spaten": {},
+      "Hacke": {},
+      "Haken": {},
+      "Bratspieß": {},
+      "Messer": {},
+      "Toilettengerät": {},
+      "Pinzette": {},
+      "Sonde": {},
+      "Kandelaber": {},
+      "Lampe": {},
+      "Gewicht": {},
+      "Gerätefuß": {},
+      "Beschlagteil": {},
+      "Nagel": {},
+      "Sonstiges Geräteteil": {},
+      "Anderes": {},
+      "Unbestimmt": {}
+    }
+  },
+  "Metal-metalMiscellaneous-Selinunt": {
+    "createdBy": "Melanie Jonasch",
+    "creationDate": "28-6-2020",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Knebel": {},
+      "Kugel": {},
+      "Blech": {},
+      "Spirale / Spiralrolle": {},
+      "Platte": {},
+      "Tüllenfragment": {},
+      "Barren": {},
+      "Stab": {},
+      "Guss- Werkstattabfall": {},
+      "Schlacke": {},
+      "Anderes": {},
+      "Unbestimmt": {}
+    }
   }
 }
