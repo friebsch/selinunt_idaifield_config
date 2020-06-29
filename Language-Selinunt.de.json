@@ -160,8 +160,11 @@
         "potteryWidth": {
           "label": "Breite Objekt"
         },
-        "coatType": {
-          "label": "Überzug"
+        "coatTypeOutside": {
+          "label": "Überzug Außen"
+        },
+        "coatTypeInside": {
+          "label": "Überzug Innen"
         },
         "sample": {
           "label": "Analyse"
@@ -180,6 +183,15 @@
         },
         "coatQuality": {
           "label": "Qualität des Überzugs"
+        },
+        "potteryInscription": {
+          "label": "Inschrift: Text"
+        },
+        "potteryInscriptionDescription": {
+          "label": "Inschrift: Beschreibung"
+        },
+        "clayDescription": {
+          "label": "Beschreibung: Ton"
         }
       }
     },
@@ -287,10 +299,50 @@
           "label": "Horizontalverlauf"
         },
         "operationVerticalDescription": {
-          "label": "Verticalverlauf"
+          "label": "Vertikalverlauf"
         },
         "operationIdentifiability": {
           "label": "Erkennbarkeit"
+        }
+      }
+    },
+    "Terracotta": {
+      "fields": {
+        "clayColorBreakMunsell": {
+          "label": "Bruch: Tonfarbe (Munsell)"
+        },
+        "clayStructure": {
+          "label": "Härte"
+        },
+        "clayColor": {
+          "label": "Tonfarbe und -intensität"
+        },
+        "clayColorMunsell": {
+          "label": "Tonfarbe (Munsell)"
+        },
+        "coatColor": {
+          "label": "Überzug Farbe"
+        },
+        "coatColorMunsell": {
+          "label": "Überzug Farbe (Munsell)"
+        },
+        "terracottaInscription": {
+          "label": "Inschrift: Text"
+        },
+        "terracottaInscriptionDescription": {
+          "label": "Inschrift: Beschreibung"
+        },
+        "architecturalDecorationType": {
+          "label": "Bestimmung: Architekturdekor"
+        },
+        "architecturalScupltureType": {
+          "label": "Bestimmung: Figürlich"
+        },
+        "toolType": {
+          "label": "Bestimmung: Gerät"
+        },
+        "terracottaProvenance": {
+          "label": "Provenienz"
         }
       }
     }

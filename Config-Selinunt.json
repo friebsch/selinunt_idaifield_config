@@ -358,12 +358,14 @@
     "valuelists": {
       "vesselForm": "Pottery-vesselForm-Selinunt",
       "potteryProvenance": "Layer-contentPotteryOrigin-Selinunt",
-      "vesselDecoration": "Layer-contentPotteryDecoration-Selinunt",
+      "vesselDecorationInside": "Layer-contentPotteryDecoration-Selinunt",
+      "vesselDecorationOutside": "Layer-contentPotteryDecoration-Selinunt",
       "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt",
       "clayHardness": "Pottery-clayHardness-Selinunt",
       "clayDensity": "Pottery-clayDensity-Selinunt",
       "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt",
-      "coatType": "Pottery-coat-Selinunt",
+      "coatTypeOutside": "Pottery-coat-Selinunt",
+      "coatTypeInside": "Pottery-coat-Selinunt",
       "coatQuality": "Pottery-coatQuality-Selinunt"
     },
     "fields": {
@@ -376,7 +378,10 @@
       "miniatureVesselForm": {
         "inputType": "radio"
       },
-      "vesselDecoration": {
+      "vesselDecorationOutside": {
+        "inputType": "checkboxes"
+      },
+      "vesselDecorationInside": {
         "inputType": "checkboxes"
       },
       "clayHardness": {
@@ -384,6 +389,9 @@
       },
       "clayDensity": {
         "inputType": "radio"
+      },
+      "clayDescription": {
+        "inputType": "input"
       },
       "manufacturingMethod": {
         "inputType": "radio"
@@ -421,7 +429,10 @@
       "amountSherds": {
         "inputType": "unsignedInt"
       },
-      "coatType": {
+      "coatTypeOutside": {
+        "inputType": "checkboxes"
+      },
+      "coatTypeInside": {
         "inputType": "checkboxes"
       },
       "sample": {
@@ -432,6 +443,12 @@
       },
       "coatQuality": {
         "inputType": "checkboxes"
+      },
+      "potteryInscription": {
+        "inputType": "input"
+      },
+      "potteryInscriptionDescription": {
+        "inputType": "text"
       }
     }
   },
@@ -505,8 +522,64 @@
     "fields": {}
   },
   "Terracotta:default": {
-    "hidden": [],
-    "fields": {}
+    "hidden": [
+      "coatColorInside",
+      "coatColorOutside",
+      "surfaceCondition",
+      "formDescription",
+      "vesselForm",
+      "vesselFormSpecific",
+      "provenance",
+      "clayColorInside",
+      "clayColorOutside"
+    ],
+    "valuelists": {
+      "coatColor": "colors-default-1",
+      "clayColor": "colors-default-1",
+      "decorationTechnique": "Terracotta-decorationTechnique-Selinunt",
+      "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt",
+      "architecturalDecorationType": "Terracotta-architekturalDecorationType-Selinunt",
+      "architecturalScupltureType": "Terracotta-architecturalScupltureType-Selinunt",
+      "toolType": "Terracotta-toolType-Selinunt"
+    },
+    "fields": {
+      "clayColorBreakMunsell": {
+        "inputType": "input"
+      },
+      "coatColor": {
+        "inputType": "checkboxes"
+      },
+      "coatColorMunsell": {
+        "inputType": "input"
+      },
+      "clayColor": {
+        "inputType": "checkboxes"
+      },
+      "clayColorMunsell": {
+        "inputType": "input"
+      },
+      "terracottaInscription": {
+        "inputType": "input"
+      },
+      "terracottaInscriptionDescription": {
+        "inputType": "text"
+      },
+      "decorationTechnique": {
+        "inputType": "checkboxes"
+      },
+      "architecturalDecorationType": {
+        "inputType": "checkboxes"
+      },
+      "architecturalScupltureType": {
+        "inputType": "checkboxes"
+      },
+      "toolType": {
+        "inputType": "checkboxes"
+      },
+      "terracottaProvenance": {
+        "inputType": "input"
+      }
+    }
   },
   "Photo:default": {
     "hidden": [],

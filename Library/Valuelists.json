@@ -10842,10 +10842,10 @@
           "en": "Al mano"
         }
       },
-      "gegossen": {
+      "in Form gepresst": {
         "label": {
-          "de": "Gegossen",
-          "en": "Colato"
+          "de": "in Form gepresst",
+          "en": "in Form gepresst"
         }
       }
     }
@@ -11236,6 +11236,81 @@
       "mittel": {},
       "schwierig": {},
       "sehr schwierig": {}
+    }
+  },
+  "Terracotta-decorationTechnique-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Bemalung": {},
+      "Relief": {},
+      "Ritzung / Graffito": {},
+      "Stempel": {}
+    }
+  },
+  "Terracotta-architekturalDecorationType-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Antifex": {},
+      "Metope": {},
+      "Kapitell": {},
+      "Akroter": {},
+      "Giebelskulptur": {},
+      "Sima": {},
+      "Fries": {},
+      "Kassette": {},
+      "Miniatursäule": {},
+      "Wasserspeier": {},
+      "Firstkalypter": {},
+      "Wandverkleidung": {},
+      "Anderes": {},
+      "unbestimmt": {}
+    }
+  },
+  "Terracotta-toolType-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Platte": {},
+      "AAA": {},
+      "Webgewicht": {},
+      "Abstandhalter": {},
+      "Spielstein": {},
+      "Stempel": {},
+      "Louterion": {},
+      "Sarkophag": {},
+      "Louterionständer": {},
+      "Anderes": {},
+      "unbestimmt": {}
+    }
+  },
+  "Terracotta-architecturalScupltureType-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Figur/Statuette": {},
+      "Matrize": {},
+      "Miniaturmodell": {},
+      "großformatige Skulptur": {},
+      "Anderes": {},
+      "unbestimmt": {}
     }
   }
 }
