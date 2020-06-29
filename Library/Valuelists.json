@@ -11139,5 +11139,28 @@
       "Anderes": {},
       "Unbestimmt": {}
     }
+  },
+  "Grave-graveType-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Steinkistengrab": {},
+      "Kammergrab": {},
+      "A cappuccina": {},
+      "Felsnischengrab": {},
+      "Gefäßbestattung": {},
+      "Gemauertes Grab": {},
+      "Sarkophag": {},
+      "Urnengrab": {},
+      "Ziegelplattengrab": {
+        "labels": {
+          "de": "Ziegelgrab"
+        }
+      }
+    }
   }
 }

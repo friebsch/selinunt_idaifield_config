@@ -266,6 +266,13 @@
           "label": "Anzahl Fragmente"
         }
       }
+    },
+    "Grave": {
+      "fields": {
+        "graveTypeDescription": {
+          "label": "Beschreibung Grabtyp"
+        }
+      }
     }
   }
 }

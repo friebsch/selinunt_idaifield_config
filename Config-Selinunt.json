@@ -480,8 +480,25 @@
     }
   },
   "Grave:default": {
-    "fields": {},
-    "hidden": []
+    "hidden": [
+      "soilType",
+      "condition",
+      "conditionAmount",
+      "conditionComment",
+      "distinguishingCriteria",
+      "specificType",
+      "tombBuilding",
+      "findingPlace",
+      "bibliography"
+    ],
+    "valuelists": {
+      "graveType": "Grave-graveType-Selinunt"
+    },
+    "fields": {
+      "graveTypeDescription": {
+        "inputType": "text"
+      }
+    }
   },
   "Bone:default": {
     "hidden": [],
@@ -524,13 +541,6 @@
     "fields": {}
   },
   "Bedrock": {
-    "hidden": [],
-    "fields": [],
-    "parent": "Feature",
-    "valuelists": {}
-  },
-  "StratigraphicSequence": {
-    "color": "#fc03fc",
     "hidden": [],
     "fields": [],
     "parent": "Feature",
