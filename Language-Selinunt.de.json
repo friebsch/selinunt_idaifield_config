@@ -118,8 +118,11 @@
         "potteryProvenance": {
           "label": "Provenienz"
         },
-        "vesselDecoration": {
-          "label": "Dekoration"
+        "vesselDecorationOutside": {
+          "label": "Dekoration Außen"
+        },
+        "vesselDecorationOutside": {
+          "label": "Dekoration Innen"
         },
         "clayHardness": {
           "label": "Tonhärte"
