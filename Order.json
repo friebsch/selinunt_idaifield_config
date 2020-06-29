@@ -7,7 +7,7 @@
     "Building": ["material", "context", "condition", "conditionAmount", "conditionComment", "hasRestoration", "buildingType", "buildingTechnique", "buildingCategory", "buildingCategorySpecific", "architecturalOrders", "buildingHistory", "buildingResearchHistory", "excavationHistory", "history"],
     "Survey": ["researchMethod"],
     "Place": ["gazId", "placeName", "ancient", "siteClassification", "findspotClassification", "modernIntervention", "excavationHistory", "buildingResearchHistory", "buildingHistory", "findSituation"],
-    "Feature": ["stratigraphicReliability", "color", "hasDisturbance", "featureForm", "featureBorders", "comparison", "featureAmount"],
+    "Feature": ["stratigraphicReliability", "color", "hasDisturbance", "featureForm", "featureBorders", "comparison", "featureAmount", "featureBibliography"],
     "Layer": ["layerClassification", "layerForm", "layerBorders", "distinguishingCriteria", "isNatural", "soilType", "appearance", "consistency"],
     "Grave": ["spatialLocation", "soilType", "condition", "conditionAmount", "conditionComment", "distinguishingCriteria", "graveType", "specificType", "tombBuilding", "findingPlace", "bibliography", "publicationDatingFinds", "publicationDatingStratigraphy", "publicationDatingScientific", "publicationRemark"],
     "Burial": ["conditionComment", "graveFeature", "amountIndividuals", "positioningIndividuals", "palaeopathologicalReport", "burialCharacteristic", "burialDocumentation", "burialRite", "bodyHeightAndRobustness", "positionArms", "positionLegs", "ageDetermination", "ageDeterminationBasis", "sexDetermination", "sexDeterminationBasis", "dietReconstruction", "findingPlace", "publicationDatingFinds", "publicationDatingStratigraphy"],

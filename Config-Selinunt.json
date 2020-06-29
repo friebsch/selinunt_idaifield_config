@@ -87,7 +87,11 @@
     "valuelists": {
       "period": "periods-Selinunt-1"
     },
-    "fields": {}
+    "fields": {
+      "featureBibliography": {
+        "inputType": "text"
+      }
+    }
   },
   "Room:default": {
     "hidden": [],
@@ -260,7 +264,8 @@
       "layerContentOrganic": "Layer-contentOrganic-Selinunt",
       "layerContentBuildingMaterial": "Layer-contentBuildingMaterial-Selinunt",
       "layerBorders": "Feature-featureBorders-Selinunt",
-      "layerForm": "Feature-featureForm-Selinunt"
+      "layerForm": "Feature-featureForm-Selinunt",
+      "workflowOptions": "Layer-workflowOptions-Selinunt"
     },
     "fields": {
       "layerColorLightness": {
@@ -304,6 +309,12 @@
       },
       "soilType": {
         "inputType": "checkboxes"
+      },
+      "workflowOptions": {
+        "inputType": "checkboxes"
+      },
+      "workflowSampleDescription": {
+        "inputType": "text"
       }
     }
   },

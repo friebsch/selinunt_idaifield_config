@@ -46,6 +46,9 @@
       "fields": {
         "period": {
           "label": "Epoche"
+        },
+        "featureBibliography": {
+          "label": "Bibliographie"
         }
       }
     },
@@ -95,6 +98,12 @@
         },
         "consistency": {
           "label": "Erdbefund: Konsistenz"
+        },
+        "workflowOptions": {
+          "label": "Erdbefund: Arbeitsschritte"
+        },
+        "workflowSampleDescription": {
+          "label": "Erdbefund: Beschreibung der Probe / Analyse"
         }
       }
     },

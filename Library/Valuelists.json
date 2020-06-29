@@ -10741,6 +10741,31 @@
       }
     }
   },
+  "Layer-workflowOptions-Selinunt": {
+    "creationDate": "29-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Gesiebt": {
+        "labels": {
+          "en": "Gesiebt"
+        }
+      },
+      "Geschlämmt": {
+        "labels": {
+          "en": "Geschlämmt"
+        }
+      },
+      "Beprobt": {
+        "labels": {
+          "en": "Beprobt"
+        }
+      }
+    }
+  },
   "Pottery-miniatureVesselForm-Selinunt": {
     "creationDate": "25-6-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
