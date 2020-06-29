@@ -273,6 +273,26 @@
           "label": "Beschreibung Grabtyp"
         }
       }
+    },
+    "ProcessUnit": {
+      "label": "Profil",
+      "fields": {
+        "operationClassification": {
+          "label": "Klassifikation Profil"
+        },
+        "operationOrientation": {
+          "label": "Orientierung"
+        },
+        "operationHorizontalDescription": {
+          "label": "Horizontalverlauf"
+        },
+        "operationVerticalDescription": {
+          "label": "Verticalverlauf"
+        },
+        "operationIdentifiability": {
+          "label": "Erkennbarkeit"
+        }
+      }
     }
   }
 }

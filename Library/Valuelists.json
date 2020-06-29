@@ -11162,5 +11162,80 @@
         }
       }
     }
+  },
+  "ProcessUnit-operationClassification-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Archäologisches Profil": {},
+      "Geologisches Profil": {},
+      "Bohrung": {},
+      "Rammkernsondage": {}
+    }
+  },
+  "ProcessUnit-operationOrientation-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Nord-Süd": {},
+      "NNO-SSW": {},
+      "Nordost-Südwest": {},
+      "ONO-WSW": {},
+      "West-Ost": {},
+      "WNW-OSO": {},
+      "Nordwest-Südost": {},
+      "NNW-SSO": {}
+    }
+  },
+  "ProcessUnit-operationHorizontalDescription-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "gerade": {},
+      "geknickt": {},
+      "gekrümmt": {},
+      "Vor-/Rücksprünge": {}
+    }
+  },
+  "ProcessUnit-operationVerticalDescription-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "senkrecht": {},
+      "unregelmäßig": {},
+      "gekstark geneigt": {},
+      "ein/mehrere Versprünge": {}
+    }
+  },
+  "ProcessUnit-operationIdentifiability-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "sehr gut": {},
+      "gut": {},
+      "mittel": {},
+      "schwierig": {},
+      "sehr schwierig": {}
+    }
   }
 }

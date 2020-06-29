@@ -545,5 +545,35 @@
     "fields": [],
     "parent": "Feature",
     "valuelists": {}
+  },
+  "ProcessUnit": {
+    "parent": "Feature",
+    "hidden": [],
+    "commons": [],
+    "color": "#f779e7",
+    "valuelists": {
+      "operationClassification": "ProcessUnit-operationClassification-Selinunt",
+      "operationOrientation": "ProcessUnit-operationOrientation-Selinunt",
+      "operationHorizontalDescription": "ProcessUnit-operationHorizontalDescription-Selinunt",
+      "operationVerticalDescription": "ProcessUnit-operationVerticalDescription-Selinunt",
+      "operationIdentifiability": "ProcessUnit-operationIdentifiability-Selinunt"
+    },
+    "fields": {
+      "operationClassification": {
+        "inputType": "radio"
+      },
+      "operationOrientation": {
+        "inputType": "dropdown"
+      },
+      "operationHorizontalDescription": {
+        "inputType": "checkboxes"
+      },
+      "operationVerticalDescription": {
+        "inputType": "checkboxes"
+      },
+      "operationIdentifiability": {
+        "inputType": "radio"
+      }
+    }
   }
 }
