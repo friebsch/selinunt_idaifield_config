@@ -121,7 +121,7 @@
         "vesselDecorationOutside": {
           "label": "Dekoration Außen"
         },
-        "vesselDecorationOutside": {
+        "vesselDecorationInside": {
           "label": "Dekoration Innen"
         },
         "clayHardness": {
