@@ -66,6 +66,9 @@
         "soilType": {
           "label": "Erdbefund: Zusammensetzung"
         },
+        "findComposition": {
+          "label": "Erdbefund: Zusammensetzung Fundmaterial"
+        },
         "distinguishingCriteria": {
           "label": "Erdbefund: Unterscheidungskriterium"
         },
@@ -332,8 +335,8 @@
         "terracottaInscription": {
           "label": "Inschrift: Text"
         },
-        "terracottaInscriptionDescription": {
-          "label": "Inschrift: Beschreibung"
+        "terracottaDecorationDescription": {
+          "label": "Dekoration: Beschreibung"
         },
         "architecturalDecorationType": {
           "label": "Bestimmung: Architekturdekor"

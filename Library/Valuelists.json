@@ -9626,6 +9626,66 @@
       }
     }
   },
+  "Layer-findComposition-Selinunt": {
+    "creationDate": "16-4-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "Zusammensetzung des Bodens",
+      "en": ""
+    },
+    "values": {
+      "Ziegel": {
+        "labels": {
+          "en": "Mattone"
+        }
+      },
+      "Keramik": {
+        "labels": {
+          "en": "Ceramica"
+        }
+      },
+      "Metall": {
+        "labels": {
+          "en": "Metallo"
+        }
+      },
+      "Münzen": {
+        "labels": {
+          "en": "Moneta"
+        }
+      },
+      "Glas": {
+        "labels": {
+          "en": "Vetro"
+        }
+      },
+      "Knochen": {
+        "labels": {
+          "en": "Osso"
+        }
+      },
+      "Holzkohle": {
+        "labels": {
+          "en": "Carbone"
+        }
+      },
+      "Schlacke": {
+        "labels": {
+          "en": "Scoria"
+        }
+      },
+      "Muscheln": {
+        "labels": {
+          "en": "Conchiglia"
+        }
+      },
+      "Verputz": {
+        "labels": {
+          "en": "Intonaco"
+        }
+      }
+    }
+  },
   "Layer-consistency-Selinunt-1": {
     "creationDate": "16-4-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
@@ -10742,7 +10802,7 @@
     }
   },
   "Layer-workflowOptions-Selinunt": {
-    "creationDate": "29-6-2020",
+    "creationDate": "30-6-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
@@ -10762,6 +10822,11 @@
       "Beprobt": {
         "labels": {
           "en": "Beprobt"
+        }
+      },
+      "Nicht gegraben": {
+        "labels": {
+          "en": "Nicht gegraben"
         }
       }
     }
@@ -11004,9 +11069,11 @@
     "values": {
       "Korinthisch": {},
       "Lakonisch": {},
-      "Hybrid-kleinasiatisch": {},
       "Hybrid-sizilisch": {},
-      "Hellenistisch-römisch": {}
+      "Hellenistisch-römisch": {},
+      "Hohlziegeldach (Mönch + Nonne)": {},
+      "Hohlziegel-Einfachdeckung (Nonnendeckung)": {},
+      "unklar": {}
     }
   },
   "Metal-metalMaterial-Selinunt": {
@@ -11252,7 +11319,7 @@
       "Stempel": {}
     }
   },
-  "Terracotta-architekturalDecorationType-Selinunt": {
+  "Terracotta-architecturalDecorationType-Selinunt": {
     "createdBy": "",
     "creationDate": "",
     "description": {
@@ -11263,7 +11330,8 @@
       "Antifex": {},
       "Metope": {},
       "Kapitell": {},
-      "Akroter": {},
+      "Firstakroter": {},
+      "Eckakroter": {},
       "Giebelskulptur": {},
       "Sima": {},
       "Fries": {},
@@ -11272,6 +11340,7 @@
       "Wasserspeier": {},
       "Firstkalypter": {},
       "Wandverkleidung": {},
+      "Traufziegel": {},
       "Anderes": {},
       "unbestimmt": {}
     }
@@ -11285,7 +11354,8 @@
     },
     "values": {
       "Platte": {},
-      "AAA": {},
+      "Arula": {},
+      "Gewicht": {},
       "Webgewicht": {},
       "Abstandhalter": {},
       "Spielstein": {},

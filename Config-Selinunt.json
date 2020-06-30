@@ -255,6 +255,7 @@
       "layerColor": "Layer-colors-Selinunt-1",
       "consistency": "Layer-consistency-Selinunt-1",
       "soilType": "Layer-soilType-Selinunt-1",
+      "findComposition": "Layer-findComposition-Selinunt",
       "distinguishingCriteria": "Layer-distinguishingCriteria-Selinunt",
       "layerContentPotteryOrigin": "Layer-contentPotteryOrigin-Selinunt",
       "layerContentPotteryShape": "Layer-contentPotteryShape-Selinunt",
@@ -310,6 +311,9 @@
       "soilType": {
         "inputType": "checkboxes"
       },
+      "findComposition": {
+        "inputType": "checkboxes"
+      },
       "workflowOptions": {
         "inputType": "checkboxes"
       },
@@ -361,7 +365,7 @@
       "vesselDecorationInside": "Layer-contentPotteryDecoration-Selinunt",
       "vesselDecorationOutside": "Layer-contentPotteryDecoration-Selinunt",
       "miniatureVesselForm": "Pottery-miniatureVesselForm-Selinunt",
-      "clayHardness": "Pottery-clayHardness-Selinunt",
+      "clayHardness": "Terracotta-clayStructure-default",
       "clayDensity": "Pottery-clayDensity-Selinunt",
       "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt",
       "coatTypeOutside": "Pottery-coat-Selinunt",
@@ -538,7 +542,7 @@
       "clayColor": "colors-default-1",
       "decorationTechnique": "Terracotta-decorationTechnique-Selinunt",
       "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt",
-      "architecturalDecorationType": "Terracotta-architekturalDecorationType-Selinunt",
+      "architecturalDecorationType": "Terracotta-architecturalDecorationType-Selinunt",
       "architecturalScupltureType": "Terracotta-architecturalScupltureType-Selinunt",
       "toolType": "Terracotta-toolType-Selinunt"
     },
@@ -561,7 +565,7 @@
       "terracottaInscription": {
         "inputType": "input"
       },
-      "terracottaInscriptionDescription": {
+      "terracottaDecorationDescription": {
         "inputType": "text"
       },
       "decorationTechnique": {
