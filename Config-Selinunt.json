@@ -594,8 +594,17 @@
     "fields": {}
   },
   "Stone:default": {
-    "hidden": [],
-    "fields": {}
+    "hidden": [
+      "temperAmount",
+      "formDescription",
+      "provenance"
+    ],
+    "valuelists": {},
+    "fields": {
+      "origin": {
+        "inputType": "input"
+      }
+    }
   },
   "Coin:default": {
     "hidden": [],
