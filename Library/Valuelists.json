@@ -10558,7 +10558,22 @@
         "labels": {
           "en": "Dipinta"
         }
-      },      
+      },
+      "Graffito": {
+        "labels": {
+          "en": "Graffito"
+        }
+      },
+      "Inschrift ": {
+        "labels": {
+          "en": "Inschrift"
+        }
+      },
+      "Stempel": {
+        "labels": {
+          "en": "Stempel"
+        }
+      },            
       "Anderes": {
         "labels": {
           "en": "Altro"
