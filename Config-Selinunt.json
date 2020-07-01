@@ -597,12 +597,31 @@
     "hidden": [
       "temperAmount",
       "formDescription",
-      "provenance"
+      "provenance",
+      "origin"
     ],
-    "valuelists": {},
+    "valuelists": {
+      "color": "Stone-color-Selinunt",
+      "objectType": "Stone-objectType-Selinunt",
+      "architectureElement": "Stone-architectureElement-Selinunt",
+      "material": "Stone-material-Selinunt",
+      "decoration": "Stone-decoration-Selinunt"
+    },
     "fields": {
-      "origin": {
+      "originStone": {
         "inputType": "input"
+      },
+      "colorMunsell": {
+        "inputType": "input"
+      },
+      "inscription": {
+        "inputType": "input"
+      },
+      "decoration": {
+        "inputType": "checkboxes"
+      },
+      "inscriptionDescription": {
+        "inputType": "text"
       }
     }
   },

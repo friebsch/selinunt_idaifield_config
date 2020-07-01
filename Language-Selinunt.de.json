@@ -351,6 +351,31 @@
           "label": "Provenienz"
         }
       }
+    },
+    "Stone": {
+      "fields": {
+        "colorMunsell": {
+          "label": "Fabrbe (Munsell)"
+        },
+        "objectType": {
+          "label": "Bestimmung: Steinobjekt"
+        },
+        "architectureElement": {
+          "label": "Bestimmung speziell: Bauteil"
+        },
+        "originStone": {
+          "label": "Herkunft Material"
+        },
+        "inscription": {
+          "label": "Inschrift Text"
+        },
+        "inscriptionDescription": {
+          "label": "Inschrift Beschreibung"
+        },
+        "decoration": {
+          "label": "Dekoration"
+        }
+      }
     }
   }
 }

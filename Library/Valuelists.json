@@ -11397,5 +11397,135 @@
       "Anderes": {},
       "unbestimmt": {}
     }
+  },
+  "Stone-color-Selinunt": {
+    "creationDate": "25-6-2020",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "gelb": {},
+      "grau": {},
+      "ocker": {},
+      "rot": {},      
+      "schwarz": {},
+      "weiß": {}
+    }
+  },
+  "Stone-objectType-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Abschlag": {},
+      "Altar": {},
+      "Architekturdekor": {},
+      "Basis": {},
+      "Bauteil": {},
+      "Becken": {},
+      "Gefäß": {},
+      "Gerät": {},
+      "Gewicht": {},
+      "Grabplatte": {},
+      "Mobiliar": {},
+      "Mörser": {},
+      "Plastik/Skulptur": {},
+      "Reibstein": {},
+      "Sarkophag": {},
+      "Schmuck": {},
+      "Spielstein": {},
+      "Stele": {},
+      "Tessera": {},
+      "Unsicher bzw. unbestimmbar": {},
+      "Waffe": {},
+      "Webgewicht": {},
+      "Werkzeug": {}
+    }
+  },
+  "Stone-architectureElement-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Quaderblock": {},
+      "Basis": {},
+      "Säule": {},
+      "Säulentrommel": {},
+      "Kapitell": {},
+      "Architrav": {},
+      "Soffitte": {},
+      "Fries": {},
+      "Metope": {},
+      "Triglyphon": {},
+      "Konsole": {},
+      "Gesims": {},
+      "Sima": {},
+      "Akroter": {},
+      "Pfeiler": {},
+      "Pilaster": {},
+      "Ante": {},
+      "Türgewände": {},
+      "Fensterlaibung": {},
+      "Tür-/Fenstersturz": {},
+      "Schwelle": {},
+      "Bogenstein": {},
+      "Schranke": {},
+      "Bodenbelag": {},
+      "Wandverkleidung": {},
+      "Profilstück": {}
+    }
+  },
+  "Stone-material-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Andesit": {},
+      "Basalt": {},
+      "Feldspat": {},
+      "Flint": {},
+      "Glimmer": {},
+      "Granit": {},
+      "Kalk": {},
+      "Kalkmörtel": {},
+      "Kalkstein": {},
+      "Kalzit": {},
+      "Kieselstein": {},
+      "Kreide": {},
+      "Marmor": {},
+      "Pophyr": {},
+      "Quarz": {},
+      "Sandstein": {},
+      "Sinter": {},
+      "Silex/Flint": {},
+      "Trachyt": {},
+      "Tuff": {}
+    }
+  },
+  "Stone-decoration-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Relief": {},
+      "Graffito": {},
+      "Inschrift": {},
+      "Steinmetzzeichen": {},
+      "Anderes": {}
+    }
   }
 }
