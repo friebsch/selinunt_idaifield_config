@@ -9,16 +9,50 @@
       "EPSG3857 (WGS 84 Web Mercator)": {}
     }
   },
+  "position-values-expansion-default": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {},
+    "values": {
+      "Maximale Ausdehnung": {
+        "labels": {
+          "de": "Maximale Ausdehnung",
+          "en": "Maximum expansion"
+        }
+      },
+      "Minimale Ausdehnung": {
+        "labels": {
+          "de": "Minimale Ausdehnung",
+          "en": "Minimum expansion"
+        }
+      }
+    }
+  },
+  "position-values-edge-default": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {},
+    "values": {
+      "Oberkante": {
+        "labels": {
+          "de": "Oberkante",
+          "en": "Top edge"
+        }
+      },
+      "Unterkante": {
+        "labels": {
+          "de": "Unterkante",
+          "en": "Lower edge"
+        }
+      }
+    }
+  },
   "orientation-default-1": {
     "createdBy": "",
     "description": {},
     "creationDate": "",
     "values": {
-      "N-S": {
-        "labels" : {
-          "en" : "North-South"
-        }
-      },
+      "N-S": {},
       "NNO - SSW": {},
       "NNW-SSO": {},
       "NO-SW": {},
@@ -9272,6 +9306,23 @@
     "values": {
       "Erde": {},
       "gebrannter Ton": {}
+    }
+  },
+  "position-values-preserved-length-of-drilling-axis-wes": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {},
+    "values": {
+      "from the bit to the back": {}
+    }
+  },
+  "position-values-dimension-width-of-drill-fragment-wes": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {},
+    "values": {
+      "At the drilling-bit": {},
+      "At the back/shaft": {}
     }
   },
   "Survey-researchMethod-Selinunt": {
