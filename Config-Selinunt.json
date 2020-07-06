@@ -695,5 +695,36 @@
         "inputType": "radio"
       }
     }
+  },
+  "Interface": {
+    "hidden": [],
+    "fields": {
+      "interfaceClassification": {
+        "inputType": "radio"
+      },
+      "breakSlopeTop": {
+        "inputType": "radio"
+      },
+      "sides": {
+        "inputType": "radio"
+      },
+      "breakSlopeBase": {
+        "inputType": "radio"
+      },
+      "base": {
+        "inputType": "radio"
+      },
+      "interfaceComment": {
+        "inputType": "text"
+      }
+    },
+    "parent": "Feature",
+    "valuelists": {
+      "interfaceClassification": "Interface-interfaceClassification-Campidoglio",
+      "breakSlopeTop": "Interface-breakSlopeTop-Campidoglio",
+      "sides": "Interface-sides-Campidoglio",
+      "breakSlopeBase": "Interface-breakSlopeTop-Campidoglio",
+      "base": "Interface-base-Campidoglio"
+    }
   }
 }
