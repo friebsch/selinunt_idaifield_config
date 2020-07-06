@@ -376,6 +376,16 @@
           "label": "Dekoration"
         }
       }
+    },
+    "Coin": {
+      "fields": {
+        "coinWeight": {
+          "label": "Gewicht (g)"
+        },
+        "legend": {
+          "label": "Legende"
+        }
+      }
     }
   }
 }

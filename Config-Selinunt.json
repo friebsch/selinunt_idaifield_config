@@ -627,7 +627,22 @@
   },
   "Coin:default": {
     "hidden": [],
-    "fields": {}
+    "valuelists": {
+      "provenance": "Coin-provenance-Selinunt",
+      "mint": "Coin-mint-Selinunt",
+      "denomination": "Coin-denomination-Selinunt"
+    },
+    "fields": {
+      "coinWeight": {
+        "inputType": "unsignedInt"
+      },
+      "legend": {
+        "inputType": "text"
+      },
+      "stampPositioning": {
+        "inputType": "input"
+      }
+    }
   },
   "PlasterFragment:default": {
     "hidden": [],

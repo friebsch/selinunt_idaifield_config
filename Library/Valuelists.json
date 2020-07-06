@@ -9949,6 +9949,24 @@
           "en": "Ellenismo"
         }
       },
+      "Frühkorinthisch": {
+        "labels": {
+          "de": "Hellenismus",
+          "en": "Ellenismo"
+        }
+      },
+      "Mittelkorinthisch": {
+        "labels": {
+          "de": "Hellenismus",
+          "en": "Ellenismo"
+        }
+      },
+      "Spätkorinthisch": {
+        "labels": {
+          "de": "Hellenismus",
+          "en": "Ellenismo"
+        }
+      },
       "Republikanisch": {
         "labels": {
           "de": "Römische Republik",
@@ -11424,11 +11442,14 @@
       "Gewicht": {},
       "Webgewicht": {},
       "Abstandhalter": {},
-      "Spielstein": {},
       "Stempel": {},
+      "Lampe": {},
       "Louterion": {},
-      "Sarkophag": {},
       "Louterionständer": {},
+      "Pinax": {},
+      "Sarkophag": {},
+      "Spielstein": {},
+      "Spinnwirtel": {},
       "Anderes": {},
       "unbestimmt": {}
     }
@@ -11577,6 +11598,137 @@
       "Inschrift": {},
       "Steinmetzzeichen": {},
       "Anderes": {}
+    }
+  },
+  "Coin-provenance-Selinunt": {
+    "createdBy": "",
+    "description": {},
+    "creationDate": "",
+    "values": {
+      "Athen": {},
+      "Griechenland": {},
+      "Kleinasien": {},
+      "Italien": {},
+      "Sizilien": {},
+      "Karthago": {},
+      "Kampanien": {},
+      "Apulien": {},
+      "Lukanien": {},
+      "Bruttium": {},
+      "Kalabrien": {},
+      "Nordafrika": {},
+      "Anderes": {}
+    }
+  },
+  "Coin-mint-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Abakainon": {},
+      "Adranon": {},
+      "Aetna": {},
+      "Agyrion": {},
+      "Akragas": {},
+      "Akrai": {},
+      "Alaisa": {},
+      "Alontion": {},
+      "Ameselon": {},
+      "Assorus": {},
+      "Cossura": {},
+      "Enna": {},
+      "Entella": {},
+      "Eryx": {},
+      "Gela": {},
+      "Herbessos": {},
+      "Himera": {},
+      "Halikarnassos": {},
+      "Harran": {},
+      "Hipana": {},
+      "Iaetia": {},
+      "Kalacte": {},
+      "Kamarina": {},
+      "Katane": {},
+      "Kentoripai": {},
+      "Kephaloidion": {},
+      "Leontini": {},
+      "Lilybaion": {},
+      "Lipara": {},
+      "Longane": {},
+      "Melita": {},
+      "Messana": {},
+      "Messana – Mamertini": {},
+      "Morgantina": {},
+      "Motya": {},
+      "Nakona": {},
+      "Naxos": {},
+      "Panormos": {},
+      "Piakos": {},
+      "Punisch unspezifisch": {},
+      "Segesta": {},
+      "Selinus": {},
+      "Solus": {},
+      "Syrakus": {},
+      "Tauromenion": {},
+      "Thermae Himerenses": {},
+      "Tyndaris": {},
+      "Anderes": {}
+    }
+  },
+  "Coin-denomination-Selinunt": {
+    "creationDate": "",
+    "createdBy": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Drachme": {},
+      "Didrachme": {},
+      "Tetradrachme": {},
+      "Dekadrachme": {},
+      "Hemidrachme": {},
+      "Stater": {},
+      "Hemistater": {},
+      "Tetarte": {},
+      "Obol": {},
+      "Hemiobol": {},
+      "Aes grave": {},
+      "Unbestimmbar": {}
+    }
+  },
+  "Coin-mintingRuler-Selinunt": {
+    "createdBy": "",
+    "creationDate": "",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "values": {
+      "Deinomeniden": {},
+      "Gelon II": {},
+      "1. Demokratie": {},
+      "2. Demokratie": {},
+      "3. Demokratie": {},
+      "4. Demokratie": {},
+      "5. Demokratie": {},
+      "Dionysios I": {},
+      "Dionysios II": {},
+      "Timoleon": {},
+      "Agathokles": {},
+      "Dion": {},
+      "Hiketas": {},
+      "Hieron II": {},
+      "Pyhrrus": {},
+      "Hieronymos": {},
+      "Philistis": {},
+      "Sikeliotes": {},
+      "Mamertini": {},
+      "Tyrrhenoi": {},
+      "Unklar": {}
     }
   }
 }
