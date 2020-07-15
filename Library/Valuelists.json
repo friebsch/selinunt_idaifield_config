@@ -9888,8 +9888,8 @@
     }
   },
   "periods-Selinunt-1": {
-    "createdBy": "IT-Referat, DAI, 2019",
-    "creationDate": "",
+    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
+    "creationDate": "26-6-2020",
     "description": {
       "de": "",
       "en": ""
@@ -9951,20 +9951,20 @@
       },
       "Frühkorinthisch": {
         "labels": {
-          "de": "Hellenismus",
-          "en": "Ellenismo"
+          "de": "Frühkorinthisch",
+          "en": "Frühkorinthisch"
         }
       },
       "Mittelkorinthisch": {
         "labels": {
-          "de": "Hellenismus",
-          "en": "Ellenismo"
+          "de": "Mittelkorinthisch",
+          "en": "Mittelkorinthisch"
         }
       },
       "Spätkorinthisch": {
         "labels": {
-          "de": "Hellenismus",
-          "en": "Ellenismo"
+          "de": "Spätkorinthisch",
+          "en": "Spätkorinthisch"
         }
       },
       "Republikanisch": {

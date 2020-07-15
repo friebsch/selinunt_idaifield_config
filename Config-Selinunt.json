@@ -370,7 +370,8 @@
       "manufacturingMethod": "Pottery-manufacturingMethod-Selinunt",
       "coatTypeOutside": "Pottery-coat-Selinunt",
       "coatTypeInside": "Pottery-coat-Selinunt",
-      "coatQuality": "Pottery-coatQuality-Selinunt"
+      "coatQuality": "Pottery-coatQuality-Selinunt",
+      "period": "periods-Selinunt-1"
     },
     "fields": {
       "potteryProvenance": {
