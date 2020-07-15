@@ -9440,6 +9440,11 @@
           "en": "Accumulo"
         }
       },
+      "Alluvialboden": {
+        "labels": {
+          "en": "Alluvialboden"
+        }
+      },
       "Nutzungshorizont": {
         "labels": {
           "en": "Piano funzionale"
@@ -9671,6 +9676,16 @@
         }
       },
       "Kiesel": {
+        "labels": {
+          "en": "Ciottoli"
+        }
+      },
+      "Schlick": {
+        "labels": {
+          "en": "Ciottoli"
+        }
+      },
+      "Organisches": {
         "labels": {
           "en": "Ciottoli"
         }

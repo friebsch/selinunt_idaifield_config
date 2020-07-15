@@ -63,7 +63,8 @@
       "storageInventoryNumber"
     ],
     "valuelists": {
-      "storagePlace": "Find-storagePlace-Selinunt"
+      "storagePlace": "Find-storagePlace-Selinunt",
+      "period": "periods-Selinunt-1"
     },
     "fields": {
       "findOtherIdentificationNumber": {
