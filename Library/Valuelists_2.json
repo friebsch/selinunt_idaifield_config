@@ -7,12 +7,7 @@
       "Eigenes Koordinatenbezugssystem": {},
       "EPSG4326 (WGS 84)": {},
       "EPSG3857 (WGS 84 Web Mercator)": {}
-    },
-    "order": [
-      "Eigenes Koordinatenbezugssystem",
-      "EPSG4326 (WGS 84)",
-      "EPSG3857 (WGS 84 Web Mercator)"
-    ]
+    }
   },
   "position-values-expansion-default": {
     "createdBy": "",
@@ -51,27 +46,6 @@
         }
       }
     }
-  },
-  "position-values-preserved-length-of-drilling-axis-wes": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {},
-    "values": {
-      "from the bit to the back": {}
-    }
-  },
-  "position-values-dimension-width-of-drill-fragment-wes": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {},
-    "values": {
-      "At the drilling-bit": {},
-      "At the back/shaft": {}
-    },
-    "order": [
-      "At the drilling-bit",
-      "At the back/shaft"
-    ]
   },
   "orientation-default-1": {
     "createdBy": "",
@@ -234,20 +208,7 @@
       "Republican / Repubblicano": {},
       "Imperial / Età imperiale": {},
       "Late antique / Tardo antico": {}
-    },
-    "order": [
-      "Bronze Age / Età del bronzo",
-      "Iron Age / Età del ferro",
-      "Villanova / Villanoviano",
-      "Orientalizing / Orientalizzante",
-      "Archaic / Arcaico",
-      "Classic / Classico",
-      "Late classic / Tardo-classico",
-      "Hellenistic / Ellenistico",
-      "Republican / Repubblicano",
-      "Imperial / Età imperiale",
-      "Late antique / Tardo antico"
-    ]
+    }
   },
   "periods-meninx-1": {
     "creationDate": "",
@@ -270,22 +231,7 @@
       "Phase III": {},
       "Phase IV": {},
       "Phase V": {}
-    },
-    "order": [
-      "Vorrömisch I. ca. 500 - 146 v. Chr. (punisch)",
-      "Vorrömisch II. 146 - 31 v. Chr. (neopunisch)",
-      "Frühe Kaiserzeit. 31 v. Chr. - 69 n. Chr. (augusteisch / iulisch-claudisch)",
-      "Mittlere Kaiserzeit I. ca. 69 - 117 n. Chr. (flavisch - trajanisch)",
-      "Mittlere Kaiserzeit II. 117 - 235 n. Chr. (hadrianisch - severisch)",
-      "Späte Kaiserzeit. 235 - 306 n. Chr. (Soldatenkaiser - tetrarchisch)",
-      "Spätantike I.  306 - 530 n. Chr. (konstantinisch - vandalisch)",
-      "Spätantike II. 530 - 698 n. Chr. (byzantinisch)",
-      "Phase I",
-      "Phase II",
-      "Phase III",
-      "Phase IV",
-      "Phase V"
-    ]
+    }
   },
   "periods-pergamon-1": {
     "creationDate": "",
@@ -330,44 +276,7 @@
       "Osmanisch": {},
       "Neuzeitlich": {},
       "Rezent": {}
-    },
-    "order": [
-      "Bronzezeitlich",
-      "Frühbronzezeitlich",
-      "Mittelbronzezeitlich",
-      "Spätbronzezeitlich",
-      "Eisenzeitlich",
-      "Geometrisch",
-      "Frühgeometrisch",
-      "Mittelgeometrisch",
-      "Spätgeometrisch",
-      "Archaisch",
-      "Früharchaisch",
-      "Mittelarchaisch",
-      "Spätarchaisch",
-      "Klassisch",
-      "Frühklassisch",
-      "Hochklassisch",
-      "Spätklassisch",
-      "Hellenistisch",
-      "Frühhellenistisch",
-      "Hochhellenistisch",
-      "Späthellenistisch",
-      "Römisch",
-      "Römisch/republikanisch",
-      "Kaiserzeitlich",
-      "Frühkaiserzeitlich",
-      "Mittelkaiserzeitlich",
-      "Spätkaiserzeitlich",
-      "Spätantik",
-      "Byzantinisch",
-      "Frühbyzantinisch",
-      "Spätbyzantinisch",
-      "Islamisch",
-      "Osmanisch",
-      "Neuzeitlich",
-      "Rezent"
-    ]
+    }
   },
   "periods-gadara": {
     "creationDate": "24-12-2019",
@@ -389,21 +298,7 @@
       "Mamlukisch": {},
       "Osmanisch": {},
       "Modern": {}
-    },
-    "order": [
-      "Eisenzeitlich",
-      "Hellenistisch",
-      "Hellenistisch/Römisch",
-      "Römisch",
-      "Römisch/Byzantinisch",
-      "Byzantinisch",
-      "Byzantinisch/Umayyadisch",
-      "Umayyadisch",
-      "Ayyubidisch",
-      "Mamlukisch",
-      "Osmanisch",
-      "Modern"
-    ]
+    }
   },
   "periods-wes-1": {
     "creationDate": "",
@@ -437,33 +332,7 @@
       "Sassanian": {},
       "Islamic": {},
       "Recent": {}
-    },
-    "order": [
-      "Ubaid 0",
-      "Ubaid 1",
-      "Ubaid 2",
-      "Ubaid 3",
-      "Ubaid 4",
-      "Early Uruk",
-      "Middle Uruk",
-      "Late Uruk",
-      "Jemdet Nasr",
-      "Early Dynastic I",
-      "Early Dynastic II",
-      "Early Dynastic III",
-      "Akkadian",
-      "Ur III",
-      "Isin-Larsa",
-      "Old Babylonian",
-      "Middle Babylonian",
-      "Isin II",
-      "New Babylonian",
-      "Late Babylonian",
-      "Seleucid-Parthian",
-      "Sassanian",
-      "Islamic",
-      "Recent"
-    ]
+    }
   },
   "period-SudanHeritage": {
     "creationDate": "14-11-2019",
@@ -485,21 +354,7 @@
       "Christian": {},
       "Islamic": {},
       "Modern History": {}
-    },
-    "order": [
-      "Paleolithic",
-      "Mesolithic",
-      "Neolithic",
-      "Pre-Kerma",
-      "Kerma",
-      "New Egyptian Kingdom",
-      "Napata",
-      "Meroe",
-      "Post-Meroitic",
-      "Christian",
-      "Islamic",
-      "Modern History"
-    ]
+    }
   },
   "colors-default-1": {
     "creationDate": "",
@@ -594,13 +449,7 @@
       "Stadtgrabung": {},
       "künstliche Schichten": {},
       "natürliche Schichten": {}
-    },
-    "order": [
-      "Feldgrabung",
-      "Stadtgrabung",
-      "künstliche Schichten",
-      "natürliche Schichten"
-    ]
+    }
   },
   "glass-decorationTechnique-default": {
     "creationDate": "",
@@ -1134,38 +983,7 @@
       "römisches Theater": {},
       "vierschiffig": {},
       "zweischiffig": {}
-    },
-    "order": [
-      "Aediculabau",
-      "Atriumhaus",
-      "Bogen",
-      "Dipteros",
-      "Ehrenbogen",
-      "Ehrensäule",
-      "Hoftempel",
-      "Palast",
-      "Palästra",
-      "Peripteros",
-      "Peripteros sine portico",
-      "Peristylhaus",
-      "Pseudo-Dipteros",
-      "Pseudo-Peripteros",
-      "Rednertribüne",
-      "Rundbau",
-      "Schatzhaus",
-      "Terassenheiligtum",
-      "Tholos",
-      "Torbogen",
-      "Triumphbogen",
-      "Tumulus",
-      "Villa",
-      "dreischiffig",
-      "fünfschiffig",
-      "griechisches Theater",
-      "römisches Theater",
-      "vierschiffig",
-      "zweischiffig"
-    ]
+    }
   },
   "Building-buildingTechnique-default": {
     "creationDate": "",
@@ -1224,14 +1042,7 @@
       "mittel": {},
       "schlecht": {},
       "sehr schlecht": {}
-    },
-    "order": [
-      "sehr gut",
-      "gut",
-      "mittel",
-      "schlecht",
-      "sehr schlecht"
-    ]
+    }
   },
   "Building-conditionAmount-default": {
     "creationDate": "",
@@ -1244,12 +1055,7 @@
       "Fragmentarisch": {},
       "Vollständig": {},
       "Vollständig zerstört": {}
-    },
-    "order": [
-      "Fragmentarisch",
-      "Vollständig",
-      "Vollständig zerstört"
-    ]
+    }
   },
   "Building-context-default": {
     "creationDate": "",
@@ -1946,13 +1752,7 @@
       "GK": {},
       "TK": {},
       "KK": {}
-    },
-    "order": [
-      "FK",
-      "GK",
-      "TK",
-      "KK"
-    ]
+    }
   },
   "Pottery-objectType-default": {
     "creationDate": "",
@@ -2047,22 +1847,7 @@
       "T": {},
       "P": {},
       "Ks": {}
-    },
-    "order": [
-      "B",
-      "Bö",
-      "H",
-      "Ka",
-      "Kr",
-      "Sa",
-      "Sü",
-      "U",
-      "A",
-      "D",
-      "T",
-      "P",
-      "Ks"
-    ]
+    }
   },
   "Pottery-temperAmount-default": {
     "creationDate": "",
@@ -2223,16 +2008,7 @@
       "bruchsteingemauertes Grab": {},
       "quadergemauertes Grab": {},
       "ziegelgemauertes Grab": {}
-    },
-    "order": [
-      "Amphorenbestattung",
-      "In Dinos",
-      "In Krug",
-      "a cappuccina",
-      "bruchsteingemauertes Grab",
-      "quadergemauertes Grab",
-      "ziegelgemauertes Grab"
-    ]
+    }
   },
   "Grave-tombBuilding-default": {
     "createdBy": "",
@@ -2262,16 +2038,7 @@
       "Juvenil (13-18/20)": {},
       "Matur (40-60)": {},
       "Senil (60 <)": {}
-    },
-    "order": [
-      "Adult (18/20-40)",
-      "Fetus/Neonatus",
-      "Infans I (0-7)",
-      "Infans II (7-13)",
-      "Juvenil (13-18/20)",
-      "Matur (40-60)",
-      "Senil (60 <)"
-    ]
+    }
   },
   "Bone-boneClassification-default": {
     "creationDate": "",
@@ -2332,14 +2099,7 @@
       "III - um 550°C - Verfärbung etwa grau/blaugrau-milchig hellgrau": {},
       "IV - 650°-750°C - Verfärbung etwa milchig weiß-mattweiß/kreideartig": {},
       "V - ab 800°C - Verfärbung etwa altweiß/schmutzigweiß": {}
-    },
-    "order": [
-      "I - 200°-300°C - Verfärbung etwa gelblichweiß-elfenbein glasig",
-      "II - 300°-400°C - Verfärbung etwa braun-dunkelbraun/schwarz",
-      "III - um 550°C - Verfärbung etwa grau/blaugrau-milchig hellgrau",
-      "IV - 650°-750°C - Verfärbung etwa milchig weiß-mattweiß/kreideartig",
-      "V - ab 800°C - Verfärbung etwa altweiß/schmutzigweiß"
-    ]
+    }
   },
   "Bone-sex-default": {
     "creationDate": "",
@@ -3603,12 +3363,7 @@
       "Ja": {},
       "Nein": {},
       "Nicht notwendig": {}
-    },
-    "order": [
-      "Ja",
-      "Nein",
-      "Nicht notwendig"
-    ]
+    }
   },
   "Find-storagePlace-Boha": {
     "createdBy": "",
@@ -4336,13 +4091,7 @@
       "medium": {},
       "bad": {},
       "unknown": {}
-    },
-    "order": [
-      "good",
-      "medium",
-      "bad",
-      "unknown"
-    ]
+    }
   },
   "Feature-featureCondition-Campidoglio": {
     "createdBy": "",
@@ -4369,12 +4118,7 @@
       "Yes": {},
       "No": {},
       "Not necessary": {}
-    },
-    "order": [
-      "Yes",
-      "No",
-      "Not necessary"
-    ]
+    }
   },
   "Feature-featureBorders-Campidoglio": {
     "createdBy": "",
@@ -4513,14 +4257,7 @@
       "Medium / medie": {},
       "Bad / cattive": {},
       "Very bad / molto cattive": {}
-    },
-    "order": [
-      "Very good / molto buone",
-      "Good / buone",
-      "Medium / medie",
-      "Bad / cattive",
-      "Very bad / molto cattive"
-    ]
+    }
   },
   "Architecture-conditionAmount-Campidoglio": {
     "createdBy": "",
@@ -4554,18 +4291,7 @@
       "Very soft / molto morbido": {},
       "Friable / friabile": {},
       "Plastic / plastico": {}
-    },
-    "order": [
-      "Strongly cemented / fortemente consolidato",
-      "Weakly cemented / poco consolidato",
-      "Compact / compatto",
-      "Loose / sciolto",
-      "Hard / duro",
-      "Soft / morbido",
-      "Very soft / molto morbido",
-      "Friable / friabile",
-      "Plastic / plastico"
-    ]
+    }
   },
   "Floor-distinguishingCriteria-Campidoglio": {
     "createdBy": "",
@@ -4651,27 +4377,7 @@
       "Clayely loam / medio impasto argilloso": {},
       "Loam / medio impasto / Lehm": {},
       "Marl / marna / Mergel": {}
-    },
-    "order": [
-      "Sand / sabbia / Sand",
-      "Very fine sand / sabbia molto fine",
-      "Fine sand / sabbia fine",
-      "Medium sand / sabbia di dimensioni medie",
-      "Coarse sand / sabbia grossolana",
-      "Sandy silt / limo sabbioso",
-      "Sandy clay / argilla sabbiosa",
-      "Sandy loam / medio impasto sabbioso",
-      "Silt / limo / Schluff",
-      "Silty sand / sabbia limosa",
-      "Silty clay / argilla limosa",
-      "Silty loam / medio impasto limoso",
-      "Clay / argilla / Ton",
-      "Clayely sand / sabbia argillosa",
-      "Clayely silt / limo argilloso",
-      "Clayely loam / medio impasto argilloso",
-      "Loam / medio impasto / Lehm",
-      "Marl / marna / Mergel"
-    ]
+    }
   },
   "Layer-layerFinds-Campidoglio": {
     "createdBy": "",
@@ -5497,13 +5203,7 @@
       "sehr vereinzelte Funde": {},
       "durchschnittliche Menge": {},
       "sehr hohe Fundmenge": {}
-    },
-    "order": [
-      "keine Funde",
-      "sehr vereinzelte Funde",
-      "durchschnittliche Menge",
-      "sehr hohe Fundmenge"
-    ]
+    }
   },
   "SurveyUnit-modernIntervention-Kephissostal": {
     "createdBy": "",
@@ -5710,6 +5410,7 @@
       "en": ""
     },
     "values": {
+
       "70 A - Import": {},
       "47 A - Almagro 50 brown": {},
       "67 A - Ephesos (?)": {},
@@ -5770,69 +5471,7 @@
       "54 RB": {},
       "9  REDQ": {},
       "49 REDQ calc.": {}
-    },
-    "order": [
-      "70 A - Import",
-      "47 A - Almagro 50 brown",
-      "67 A - Ephesos (?)",
-      "46 A - Kapitän II coarse",
-      "45 A - Kapitän II fine",
-      "32 A - Rhodos",
-      "36 ähnl. BP",
-      "43 ähnl. HBUFF",
-      "53 BB",
-      "52 BB semi fine",
-      "8  BP",
-      "44 BP mit ÜZ",
-      "50 BROWNQ",
-      "65 BSP",
-      "16 BSWP",
-      "20 CBUFF",
-      "64 CBUFF Red",
-      "22 CSTRAW",
-      "84 FK - ARS",
-      "14 FK - LRC",
-      "1  FK - TS",
-      "56 FK 1",
-      "57 FK 2",
-      "58 FK 4",
-      "59 FK 5",
-      "85 FK 6",
-      "3  FK Import",
-      "19 FK3 - ESA",
-      "77 GB",
-      "68 GK Import",
-      "12 Glasierte Ware",
-      "30 GroW 1",
-      "31 Grow 2",
-      "62 GroW 3",
-      "63 GroW 4",
-      "24 GroW VAR",
-      "17 Handbade Painted Ware",
-      "18 HBUFF",
-      "81 HBUFF/BP",
-      "13 HRED",
-      "51 HREDcalc",
-      "4  KK - Jerash?",
-      "78 KK 1",
-      "83 KK Import",
-      "76 MA 1",
-      "75 MA 2",
-      "74 MA 3",
-      "73 MA 4",
-      "72 MA 5",
-      "71 MA 6",
-      "61 Neuzeitlich",
-      "66 OG",
-      "55 PINK mit ÜZ",
-      "23 PK PTD",
-      "79 Pompeian redware 1",
-      "82 Pompeian Redware 2",
-      "40 Porzellan",
-      "54 RB",
-      "9  REDQ",
-      "49 REDQ calc."
-    ]
+    }
   },
   "Bone-sex-Meninx": {
     "createdBy": "",
@@ -5949,13 +5588,7 @@
       "schlecht": {},
       "sehr gut": {},
       "sehr schlecht": {}
-    },
-    "order": [
-      "gut",
-      "schlecht",
-      "sehr gut",
-      "sehr schlecht"
-    ]
+    }
   },
   "Wall_surface-constructionDetails-Meninx": {
     "createdBy": "",
@@ -6096,12 +5729,7 @@
       "Ja": {},
       "Nein": {},
       "Nicht vorgesehen": {}
-    },
-    "order": [
-      "Ja",
-      "Nein",
-      "Nicht vorgesehen"
-    ]
+    }
   },
   "Find-conditionAmount-Pergamon": {
     "createdBy": "",
@@ -6259,13 +5887,7 @@
       "Weniger dicht": {},
       "Porös": {},
       "Sehr porös": {}
-    },
-    "order": [
-      "Dicht",
-      "Weniger dicht",
-      "Porös",
-      "Sehr porös"
-    ]
+    }
   },
   "Pottery-clayHardness-Pergamon": {
     "createdBy": "",
@@ -6279,13 +5901,7 @@
       "hart (mit Stahlklinge schwierig ritzbar, mit Fingernagel nicht ritzbar)": {},
       "mittel (mit Stahlklinge leicht ritzbar, mit Fingernagel schwer ritzbar)": {},
       "weich (mit Fingernagel leicht ritzbar)": {}
-    },
-    "order": [
-      "Klingend hart (mit Stahlklinge nicht ritzbar)",
-      "hart (mit Stahlklinge schwierig ritzbar, mit Fingernagel nicht ritzbar)",
-      "mittel (mit Stahlklinge leicht ritzbar, mit Fingernagel schwer ritzbar)",
-      "weich (mit Fingernagel leicht ritzbar)"
-    ]
+    }
   },
   "Pottery-fragmentSize-Pergamon": {
     "createdBy": "",
@@ -6298,12 +5914,7 @@
       "klein (bis 1 cm Kantenlänge)": {},
       "mittel (bis 5 cm Kantenlänge)": {},
       "groß (ab 5 cm Kantenlänge)": {}
-    },
-    "order": [
-      "klein (bis 1 cm Kantenlänge)",
-      "mittel (bis 5 cm Kantenlänge)",
-      "groß (ab 5 cm Kantenlänge)"
-    ]
+    }
   },
   "Pottery-breakStructure-Pergamon": {
     "createdBy": "",
@@ -6329,13 +5940,7 @@
       "Wenig abgerollt": {},
       "Abgerollt": {},
       "Stark abgerollt": {}
-    },
-    "order": [
-      "Scharfkantig",
-      "Wenig abgerollt",
-      "Abgerollt",
-      "Stark abgerollt"
-    ]
+    }
   },
   "Pottery-surfaceCondition-Pergamon": {
     "createdBy": "",
@@ -6489,41 +6094,7 @@
       "Tropfen": {},
       "Schlacke": {},
       "Unbestimmt": {}
-    },
-    "order": [
-      "--Gefäße--",
-      "Trinkgefäß",
-      "Schüssel",
-      "Teller",
-      "Platte",
-      "Krug",
-      "Kanne",
-      "Amphora",
-      "Deckel/Verschluss",
-      "Siebgefäß",
-      "Unguentarium",
-      "Pyxis",
-      "Thymiaterion",
-      "Askos",
-      "Guttus",
-      "--Geräte--",
-      "Lampe",
-      "Löffel",
-      "Rührstab",
-      "Weinheber",
-      "--Schmuck--",
-      "Anhänger",
-      "Armreif",
-      "Gemme",
-      "Perle",
-      "Ring",
-      "--Plastik--",
-      "Einlage",
-      "--Produktionsreste--",
-      "Tropfen",
-      "Schlacke",
-      "Unbestimmt"
-    ]
+    }
   },
   "Glass-manufacturingMethod-Pergamon": {
     "createdBy": "",
@@ -7028,13 +6599,7 @@
       "weiblich": {},
       "Hermaphrodit": {},
       "Unbekannt": {}
-    },
-    "order": [
-      "männlich",
-      "weiblich",
-      "Hermaphrodit",
-      "Unbekannt"
-    ]
+    }
   },
   "Terracotta-depictedBeingAge-Pergamon": {
     "createdBy": "",
@@ -7049,14 +6614,7 @@
       "jugendlich (12-18 Jahre)": {},
       "erwachsen (18-44 Jahre)": {},
       "alt (ab 45 Jahre)": {}
-    },
-    "order": [
-      "kleinkindlich (bis 3 Jahre)",
-      "kindlich (4-12 Jahre)",
-      "jugendlich (12-18 Jahre)",
-      "erwachsen (18-44 Jahre)",
-      "alt (ab 45 Jahre)"
-    ]
+    }
   },
   "Terracotta-depictedBeingFormat-Pergamon": {
     "createdBy": "",
@@ -7298,14 +6856,7 @@
       "lebensgroß (bis 180 cm)": {},
       "unterlebensgroß (bis 130 cm)": {},
       "miniatur (bis 80 cm)": {}
-    },
-    "order": [
-      "kolossal (über 300m)",
-      "überlebensgroß (über 180 cm)",
-      "lebensgroß (bis 180 cm)",
-      "unterlebensgroß (bis 130 cm)",
-      "miniatur (bis 80 cm)"
-    ]
+    }
   },
   "Mollusk-classification-Pergamon": {
     "createdBy": "",
@@ -7335,12 +6886,7 @@
       "Ja": {},
       "Nein": {},
       "Unsicher bzw. unbestimmbar": {}
-    },
-    "order": [
-      "Ja",
-      "Nein",
-      "Unsicher bzw. unbestimmbar"
-    ]
+    }
   },
   "Mollusk-objectType-Pergamon": {
     "createdBy": "",
@@ -7479,12 +7025,7 @@
       "Ja": {},
       "Nein": {},
       "Unsicher": {}
-    },
-    "order": [
-      "Ja",
-      "Nein",
-      "Unsicher"
-    ]
+    }
   },
   "Stone-material-Pergamon": {
     "createdBy": "",
@@ -7755,17 +7296,7 @@
       "D": {},
       "VAR": {},
       "KOMP": {}
-    },
-    "order": [
-      "RF",
-      "BF",
-      "WF",
-      "H",
-      "RF mit H",
-      "D",
-      "VAR",
-      "KOMP"
-    ]
+    }
   },
   "Pottery-vesselpart-WES": {
     "createdBy": "Max Haibt",
@@ -7811,21 +7342,7 @@
       "high": {},
       "very high": {},
       "unbaked": {}
-    },
-    "order": [
-      "normal",
-      "over fired",
-      "semi melted",
-      "waste",
-      "oxidating atmosphere",
-      "reducing atmosphere",
-      "bonfire (non-uniform colors)",
-      "low",
-      "medium",
-      "high",
-      "very high",
-      "unbaked"
-    ]
+    }
   },
   "Pottery-condition-WES": {
     "createdBy": "Max Haibt",
@@ -8546,19 +8063,7 @@
       "smith hammered": {},
       "retouched on the shaft": {},
       "glued on the shaft": {}
-    },
-    "order": [
-      "knapped",
-      "on flake",
-      "on blade",
-      "shaped by knapping",
-      "retouched cutting edge",
-      "grinded cutting edge",
-      "metal casted",
-      "smith hammered",
-      "retouched on the shaft",
-      "glued on the shaft"
-    ]
+    }
   },
   "FragmentOfCuttingtool-TracesOfUse-WES": {
     "createdBy": "Max Haibt",
@@ -8609,21 +8114,7 @@
       "smith hammered": {},
       "retouched on the shaft": {},
       "glued on the shaft": {}
-    },
-    "order": [
-      "knapped",
-      "on flake",
-      "on blade",
-      "shaped by knapping",
-      "retouched chopping edge",
-      "retouched",
-      "retouched on sides",
-      "grinded cutting edge",
-      "metal casted",
-      "smith hammered",
-      "retouched on the shaft",
-      "glued on the shaft"
-    ]
+    }
   },
   "FragmentofCoating-material-WES": {
     "createdBy": "Max Haibt",
@@ -8820,14 +8311,7 @@
       "on blade": {},
       "on preform": {},
       "retouched": {}
-    },
-    "order": [
-      "knapped",
-      "on flake",
-      "on blade",
-      "on preform",
-      "retouched"
-    ]
+    }
   },
   "FragmentOfBead-TracesofPerforationProductionMethodSideA-WES": {
     "createdBy": "Max Haibt",
@@ -9824,2535 +9308,21 @@
       "gebrannter Ton": {}
     }
   },
-  "Floor-distinguishingCriteria-Abbircella": {
+  "position-values-preserved-length-of-drilling-axis-wes": {
     "createdBy": "",
     "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Farbe": {
-        "labels": {
-          "en": "Color",
-          "de": "Couleur"
-        }
-      },
-      "Konsistenz": {
-        "labels": {
-          "en": "Consistency",
-          "de": "Consistence"
-        }
-      },
-      "Komposition": {
-        "labels": {
-          "en": "Composition",
-          "de": "Composition"
-        }
-      }
-    }
-  },
-  "Feature-stratigraphicReliability-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Gut": {
-        "labels": {
-          "en": "Good",
-          "de": "Bonne"
-        }
-      },
-      "Mittel": {
-        "labels": {
-          "en": "Medium",
-          "de": "Moyenne"
-        }
-      },
-      "Schlecht": {
-        "labels": {
-          "en": "Bad",
-          "de": "Mauvaise"
-        }
-      },
-      "Unbekannt": {
-        "labels": {
-          "en": "Unknown",
-          "de": "Inconnue"
-        }
-      }
-    },
-    "order": [
-      "Gut",
-      "Mittel",
-      "Schlecht",
-      "Unbekannt"
-    ]
-  },
-  "colors-Abbircella-1": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Beige": {
-        "labels": {
-        "en": "Beige",
-        "de": "Beige"
-      }
-      },
-      "Blass-": {
-        "labels": {
-        "en": "Pale",
-        "de": "Pâle"
-      }
-      },
-      "Blau": {
-        "labels": {
-        "en": "Blue",
-        "de": "Bleue"
-      }
-      },
-      "Braun": {
-        "labels": {
-        "en": "Brown",
-        "de": "Marron"
-      }
-      },
-      "Cremefarben": {
-        "labels": {
-        "en": "Cream-coloured",
-        "de": "Crème"
-      }
-      },
-      "Dunkel-": {
-        "labels": {
-        "en": "Dark",
-        "de": "Foncée"
-      }
-      },
-      "Gelb": {
-        "labels": {
-        "en": "Yellow",
-        "de": "Jaune"
-      }
-      },
-      "Grau": {
-        "labels": {
-        "en": "Grey",
-        "de": "Grise"
-      }
-      },
-      "Grün": {
-        "labels": {
-        "en": "Green",
-        "de": "Verte"
-      }
-      },
-      "Pistazienfarben": {
-        "labels":{
-          "en": "Pistachio",
-          "de": "Pistache"
-        }
-      },
-      "Hell-": {
-        "labels": {
-        "en": "Bright",
-        "de": "Claire"
-      }
-      },
-      "Leuchtend": {
-        "labels": {
-        "en": "Brilliant",
-        "de": "Lumineuse"
-      }
-      },
-      "Ocker": {
-        "labels": {
-        "en": "Ochre",
-        "de": "Ocre"
-      }
-      },
-      "Orange": {
-        "labels": {
-        "en": "Orange",
-        "de": "Orange"
-      }
-      },
-      "Rosa": {
-        "labels": {
-        "en": "Rose",
-        "de": "Rose"
-      }
-      },
-      "Rot": {
-        "labels": {
-        "en": "Red",
-        "de": "Rouge"
-      }
-      },
-      "Schwarz": {
-        "labels": {
-        "en": "Black",
-        "de": "Noire"
-      }
-      },
-      "Türkis": {
-        "labels": {
-        "en": "Turquoise",
-        "de": "Turquoise"
-      }
-      },
-      "Violett": {
-        "labels": {
-        "en": "Violet",
-        "de": "Violette"
-      }
-      },
-      "Weiß": {
-        "labels": {
-        "en": "White",
-        "de": "Blanche"
-      }
-      }
-    }
-  },
-  "colors-Abbircella-2": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Beige": {
-        "labels": {
-        "en": "Beige",
-        "de": "Beige"
-      }
-      },
-      "Dunkelbraun": {
-        "labels": {
-        "en": "Dark brown",
-        "de": "Brun foncé"
-      }
-      },
-      "Dunkelrot": {
-        "labels": {
-        "en": "Dark red",
-        "de": "Rouge foncé"
-      }
-      },
-      "Gelb": {
-        "labels": {
-        "en": "Yellow",
-        "de": "Jaune"
-      }
-      },
-      "Hellbraun": {
-        "labels": {
-        "en": "Light brown",
-        "de": "Brun clair"
-      }
-      },
-      "Hellgrau": {
-        "labels": {
-        "en": "Light grey",
-        "de": "Gris clair"
-      }
-      },
-      "Mittelbraun": {
-        "labels": {
-        "en": "Medium brown",
-        "de": "Brun moyen"
-      }
-      },
-      "Ocker": {
-        "labels": {
-        "en": "Ochre",
-        "de": "Ocre"
-      }
-      },
-      "Orange": {
-        "labels": {
-        "en": "Orange",
-        "de": "Orange"
-      }
-      },
-      "Orangerot": {
-        "labels": {
-        "en": "Orange red",
-        "de": "Rouge orangé"
-      }
-      },
-      "Rosa": {
-        "labels": {
-        "en": "Rose",
-        "de": "Rose"
-      }
-      },
-      "Rot": {
-        "labels": {
-        "en": "Red",
-        "de": "Rouge"
-      }
-      },
-      "Rotbraun": {
-        "labels": {
-        "en": "Red brown",
-        "de": "Brun rouge"
-      }
-      },
-      "Schwarz": {
-        "labels": {
-        "en": "Black",
-        "de": "Noir"
-      }
-      },
-      "Weiß": {
-        "labels": {
-        "en": "White",
-        "de": "Blanc"
-      }
-      }
-    }
-  },
-  "Feature-featureForm-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Befundrest": {
-        "labels": {
-        "en": "Feature remain",
-        "de": "Reste"
-      }
-      },
-      "U-förmig": {
-        "labels": {
-        "en": "U-shaped",
-        "de": "En forme de U"
-      }
-      },
-      "V-förmig": {
-        "labels": {
-        "en": "V-shaped",
-        "de": "En forme de V"
-      }
-      },
-      "Annähernd": {
-        "labels": {
-        "en": "Nearly",
-        "de": "Approximativement"
-      }
-      },
-      "Formlos": {
-        "labels": {
-        "en": "Shapeless",
-        "de": "Informe"
-      }
-      },
-      "Halbmondförmig": {
-        "labels": {
-        "en": "Crescent shaped",
-        "de": "En demi-lune"
-      }
-      },
-      "Langgezogen": {
-        "labels": {
-        "en": "Drawn-out",
-        "de": "Allongée"
-      }
-      },
-      "Oval": {
-        "labels": {
-        "en": "Oval",
-        "de": "Ovale"
-      }
-      },
-      "Rechteckig": {
-        "labels": {
-        "en": "Rectangular",
-        "de": "Rectangulaire"
-      }
-      },
-      "Regelmäßig": {
-        "labels": {
-        "en": "Regular",
-        "de": "Régulière"
-      }
-      },
-      "Rund": {
-        "labels": {
-        "en": "Round",
-        "de": "Ronde"
-      }
-      },
-      "Sanduhrförmig": {
-        "labels": {
-        "en": "Hourglasse shaped",
-        "de": "En forme de sablier"
-      }
-      },
-      "Trapezförmig": {
-        "labels": {
-        "en": "Trapezoidal",
-        "de": "Trapézoïdale"
-      }
-      },
-      "Unregelmäßig": {
-        "labels": {
-        "en": "Irregular",
-        "de": "Irrégulière"
-      }
-      },
-      "Kesselförmig": {
-        "labels": {
-        "en": "Cauldron-shaped",
-        "de": "En forme de chaudron"
-      }
-      },
-      "Wannenförmig": {
-        "labels": {
-        "en": "Tub-shaped",
-        "de": "En forme de baignoire"
-      }
-      },
-      "Trichterförmig": {
-        "labels": {
-        "en": "Funnel-shaped",
-        "de": "En forme d'entonnoir"
-      }
-      }
-    }
-  },
-  "Feature-featureBorders-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Deutlich": {
-        "labels": {
-        "en": "Distinct",
-        "de": "Distinctes"
-      }
-      },
-      "Diffus": {
-        "labels": {
-        "en": "Diffuse",
-        "de": "Diffuses"
-      }
-      },
-      "Eben": {
-        "labels": {
-        "en": "Plain",
-        "de": "Plaines"
-      }
-      },
-      "Erahnbar": {
-        "labels": {
-        "en": "Perceivable",
-        "de": "Devinables"
-      }
-      },
-      "Erkennbar": {
-        "labels": {
-        "en": "Recognizable",
-        "de": "Reconnaissables"
-      }
-      },
-      "Etwas verwaschen": {
-        "labels": {
-        "en": "Slightly washed out",
-        "de": "Légèrement délavées"
-      }
-      },
-      "Fließend": {
-        "labels": {
-        "en": "Smooth",
-        "de": "Fluides"
-      }
-      },
-      "Geneigt": {
-        "labels": {
-        "en": "Inclined",
-        "de": "Inclinées"
-      }
-      },
-      "Gezackt": {
-        "labels": {
-        "en": "Jagged",
-        "de": "Dentées"
-      }
-      },
-      "Regelmäßig": {
-        "labels": {
-        "en": "Regular",
-        "de": "Régulières"
-      }
-      },
-      "Scharf": {
-        "labels": {
-        "en": "Sharp",
-        "de": "Nettes"
-      }
-      },
-      "Sehr deutlich": {
-        "labels": {
-        "en": "Very distinct",
-        "de": "Très distinctes"
-      }
-      },
-      "Undeutlich": {
-        "labels": {
-        "en": "Indistinct",
-        "de": "Indistinctes"
-      }
-      },
-      "Uneben": {
-        "labels": {
-        "en": "Uneven",
-        "de": "Inégales"
-      }
-      },
-      "Unklar": {
-        "labels": {
-        "en": "Not clear",
-        "de": "Pas claires"
-      }
-      },
-      "Unregelmäßig": {
-        "labels": {
-        "en": "Irregular",
-        "de": "Irrégulières"
-      }
-      },
-      "Verwaschen": {
-        "labels": {
-        "en": "Washed-out",
-        "de": "Délavées"
-      }
-      },
-      "Wellig": {
-        "labels": {
-        "en": "Wavy",
-        "de": "Ondulées"
-      }
-      }
-    }
-  },
-  "Feature-drawn-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Ja": {
-        "labels": {
-          "en": "Yes",
-          "de": "Oui"
-        }
-      },
-      "Nein": {
-        "labels": {
-          "en": "No",
-          "de": "Non"
-        }
-      },
-      "Nicht notwendig": {
-        "labels": {
-          "en": "Not necessary",
-          "de": "Pas nécessaire"
-        }
-      }
-    },
-    "order": [
-      "Ja",
-      "Nein",
-      "Nicht notwendig"
-    ]
-  },
-  "periods-Abbircella-1": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Vorrömisch I. ca. 500-146 v. Chr. (punisch)": {
-        "labels": {
-          "en": "Pre-Roman I. ca. 500-146 BC (Punic)",
-          "de": "Préromain I. env. 500–146 av. J.-C. (punique)"
-        }
-      },
-      "Vorrömisch II. 146-31 v. Chr. (neopunisch)": {
-        "labels": {
-          "en": "Pre-Roman II. 146-31 BC (neo-Punic)",
-          "de": "Préromain II. 146–31 av. J.-C. (néo-punique)"
-        }
-      },
-      "Frühe Kaiserzeit. 31 v. Chr. - 69 n. Chr. (augusteisch / iulisch-claudisch)": {
-        "labels": {
-          "en": "Early Empire. 31 BC – 69 AD (Augustan / Julio-Claudian)",
-          "de": "Haut-Empire. 31 av. J.-C. – 69 ap. J.-C. (augustéen / julio-claudien)"
-        }
-      },
-      "Mittlere Kaiserzeit I. ca. 69-117 n. Chr. (flavisch - trajanisch)": {
-        "labels": {
-          "en": "Middle Empire I. ca. 69-117 AD (Flavian – Trajanic)",
-          "de": "Moyen-Empire I. environ 69–117 ap. J.-C. (flavien – trajanien)"
-        }
-      },
-      "Mittlere Kaiserzeit II. 117-235 n. Chr. (hadrianisch - severisch)": {
-        "labels": {
-          "en": "Middle Empire II. 117–235 AD (Hadrianic – Severan)",
-          "de": "Moyen-Empire II. 117–235 ap. J.-C. (hadrien – sévèrien)"
-        }
-      },
-      "Späte Kaiserzeit. 235-306 n. Chr. (Soldatenkaiser - tetrarchisch)": {
-        "labels": {
-          "en": "Late Empire. 235-306 AD (Military Anarchy – Tetrarchic)",
-          "de": "Bas-Empire. 235–306 ap. J.-C. (anarchie militaire – tétrarchien)"
-        }
-      },
-      "Spätantike I.  306-530 n. Chr. (konstantinisch - vandalisch)": {
-        "labels": {
-          "en": "Late Antiquity I.  306-530 AD (Constantinian – Vandalic)",
-          "de": "Antiquité tardive I. 306–530 ap. J.-C. (constantinien – vandale)"
-        }
-      },
-      "Spätantike II. 530-698 n. Chr. (byzantinisch)": {
-        "labels": {
-          "en": "Late Antiquity II. 530-698 AD (Byzantine)",
-          "de": "Antiquité tardive II. 530–698 n. Chr. (byzantin)"
-        }
-      },
-      "Phase I": {},
-      "Phase II": {},
-      "Phase III": {},
-      "Phase IV": {},
-      "Phase V": {},
-      "Phase VI": {},
-      "Phase VII": {},
-      "Phase VIII": {},
-      "Phase IX": {},
-      "Phase X": {}
-    },
-    "order": [
-      "Vorrömisch I. ca. 500-146 v. Chr. (punisch)",
-      "Vorrömisch II. 146-31 v. Chr. (neopunisch)",
-      "Frühe Kaiserzeit. 31 v. Chr. - 69 n. Chr. (augusteisch / iulisch-claudisch)",
-      "Mittlere Kaiserzeit I. ca. 69-117 n. Chr. (flavisch - trajanisch)",
-      "Mittlere Kaiserzeit II. 117-235 n. Chr. (hadrianisch - severisch)",
-      "Späte Kaiserzeit. 235-306 n. Chr. (Soldatenkaiser - tetrarchisch)",
-      "Spätantike I.  306-530 n. Chr. (konstantinisch - vandalisch)",
-      "Spätantike II. 530-698 n. Chr. (byzantinisch)",
-      "Phase I",
-      "Phase II",
-      "Phase III",
-      "Phase IV",
-      "Phase V",
-      "Phase VI",
-      "Phase VII",
-      "Phase VIII",
-      "Phase IX",
-      "Phase X"
-    ]
-  },
-  "Layer-consistency-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Durch Brand versiegelt" : {
-        "labels": {
-        "en": "Fire sealed",
-        "de": "Scellée par le feu"
-      }
-      },
-      "Oberfläche abgewaschen": {
-        "labels": {
-        "en": "Surface washed off",
-        "de": "Surface délavée"
-      }
-      },
-      "Oberfläche verhärtet": {
-        "labels": {
-        "en": "Surface area hardened",
-        "de": "Surface durcie"
-      }
-      },
-      "Fest": {
-        "labels": {
-        "en": "Firm",
-        "de": "Solide"
-      }
-      },
-      "Flüssig": {
-        "labels": {
-        "en": "Liquid",
-        "de": "Liquide"
-      }
-      },
-      "Gut formbar": {
-        "labels": {
-        "en": "Easily formable",
-        "de": "Facilement formable"
-      }
-      },
-      "Hart": {
-        "labels": {
-        "en": "Hard",
-        "de": "Dure"
-      }
-      },
-      "Lehmig": {
-        "labels": {
-        "en": "Loamy",
-        "de": "Argileuse"
-      }
-      },
-      "Locker": {
-        "labels": {
-        "en": "Loose",
-        "de": "Meuble"
-      }
-      },
-      "Mittel bindend": {
-        "labels": {
-        "en": "Medium binding",
-        "de": "Moyennement agglomérante"
-      }
-      },
-      "Mittel formbar": {
-        "labels": {
-        "en": "Medium formable",
-        "de": "Moyennement formable"
-      }
-      },
-      "Nicht bindend": {
-        "labels": {
-        "en": "Not binding",
-        "de": "Pas agglomérante"
-      }
-      },
-      "Nicht formbar": {
-        "labels": {
-        "en": "Not formable",
-        "de": "Pas formable"
-      }
-      },
-      "Porös": {
-        "labels": {
-        "en": "Porose",
-        "de": "Poreuse"
-      }
-      },
-      "Sandig": {
-        "labels": {
-        "en": "Sandy",
-        "de": "Sablonneuse"
-      }
-      },
-      "Schwach bindend": {
-        "labels": {
-        "en": "Hardly binding",
-        "de": "Faiblement agglomérante"
-      }
-      },
-      "Schwach formbar": {
-        "labels": {
-        "en": "Hardly formable",
-        "de": "Faiblement formable"
-      }
-      },
-      "Sehr gut formbar": {
-        "labels": {
-        "en": "Very easily formable",
-        "de": "Très facilement formable"
-      }
-      },
-      "Sehr hart": {
-        "labels": {
-        "en": "Very hard",
-        "de": "Très dure"
-      }
-      },
-      "Sehr schwach formbar": {
-        "labels": {
-        "en": "Most hardly binding",
-        "de": "Très faiblement agglomérante"
-      }
-      },
-      "Sehr weich": {
-        "labels": {
-        "en": "Very soft",
-        "de": "Très moelleuse"
-      }
-      },
-      "Stark bindend": {
-        "labels": {
-        "en": "Very binding",
-        "de": "Très agglomérante"
-      }
-      },
-      "Steif": {
-        "labels": {
-        "en": "Stiff",
-        "de": "Rigide"
-      }
-      },
-      "Weich": {
-        "labels": {
-        "en": "Soft",
-        "de": "Moelleuse"
-      }
-      },
-      "Pulverig": {
-        "labels": {
-        "en": "Powdery",
-        "de": "Poudreuse"
-      }
-      }
-    }
-  },
-  "Layer-soilType-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Sand": {
-        "labels": {
-        "en": "Sand",
-        "de": "Sable"
-      }
-      },
-      "Feinstsand": {
-        "labels": {
-        "en": "Very fine sand",
-        "de": "Sable très fin"
-      }
-      },
-      "Feinsand": {
-        "labels": {
-        "en": "Fine sand",
-        "de": "Sable fin"
-      }
-      },
-      "Mittlerer Sand": {
-        "labels": {
-        "en": "Medium sand",
-        "de": "Sable de taille moyenne"
-      }
-      },
-      "Grobsand": {
-        "labels": {
-        "en": "Coarse sand",
-        "de": "Sable grossier"
-      }
-      },
-      "Sandiger Schluff": {
-        "labels": {
-        "en": "Sandy silt",
-        "de": "Limon sablonneux"
-      }
-      },
-      "Sandiger Ton": {
-        "labels": {
-        "en": "Sandy clay",
-        "de": "Argile sablonneuse"
-      }
-      },
-      "Sandiger Lehm": {
-        "labels": {
-        "en": "Sandy loam",
-        "de": "Glaise sablonneuse"
-      }
-      },
-      "Schluff": {
-        "labels": {
-        "en": "Silt",
-        "de": "Limon"
-      }
-      },
-      "Schluffiger Sand": {
-        "labels": {
-        "en": "Silty sand",
-        "de": "Sable limoneux"
-      }
-      },
-      "Schluffiger Ton": {
-        "labels": {
-        "en": "Silty clay",
-        "de": "Argile limoneuse"
-      }
-      },
-      "Schluffiger Lehm": {
-        "labels": {
-        "en": "Silty loam",
-        "de": "Glaise limoneuse"
-      }
-      },
-      "Ton": {
-        "labels": {
-        "en": "Clay",
-        "de": "Argile"
-      }
-      },
-      "Toniger Sand": {
-        "labels": {
-        "en": "Clayey sand",
-        "de": "Sable argileux"
-      }
-      },
-      "Toniger Schluff": {
-        "labels": {
-        "en": "Clayey silt",
-        "de": "Limon argileux"
-      }
-      },
-      "Toniger Lehm": {
-        "labels": {
-        "en": "Clayey loam",
-        "de": "Glaise argileuse"
-      }
-      },
-      "Lehm": {
-        "labels": {
-        "en": "Loam",
-        "de": "Glaise"
-      }
-      },
-      "Mergel": {
-        "labels": {
-        "en": "Marl",
-        "de": "Marne"
-      }
-      }
-    }
-  },
-  "Layer-layerClassification-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Natürliche Ablagerung": {
-        "labels": {
-        "en": "Natural deposit",
-        "de": "Dépôt naturel"
-      }
-      },
-      "Absichtliche Deponierung": {
-        "labels": {
-        "en": "Intentional deposit",
-        "de": "Dépôt intentionnel"
-      }
-      },
-      "Anhäufung": {
-        "labels": {
-        "en": "Accumulation",
-        "de": "Accumulation"
-      }
-      },
-      "Versturzschicht": {
-        "labels": {
-        "en": "Collapse",
-        "de": "Écroulement"
-      }
-      },
-      "Verfüllung": {
-        "labels": {
-        "en": "Fill",
-        "de": "Remplissage"
-      }
-      },
-      "Arbeitsniveau": {
-        "labels": {
-        "en": "Working level",
-        "de": "Niveau opérationnel"
-      }
-      },
-      "Anschüttung": {
-        "labels": {
-        "en": "Backfill",
-        "de": "Remblaiement"
-      }
-      },
-      "Stampflehm": {
-        "labels": {
-        "en": "Rammed earth",
-        "de": "Terre battue"
-      }
-      },
-      "Brandschicht": {
-        "labels": {
-        "en": "Burnt layer",
-        "de": "Couche brûlée"
-      }
-      },
-      "Planierschicht": {
-        "labels": {
-        "en": "Levelling",
-        "de": "Nivellement"
-      }
-      },
-      "Laufhorizont": {
-        "labels":{
-          "en": "Occupation layer",
-          "de": "Couche d'occupation"
-        }
-      },
-      "Sonstiges": {
-        "labels":{
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Negative-negativeClassification-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Abfallgrube": {
-        "labels": {
-        "en": "Rubbish pit",
-        "de": "Fosse à déchets"
-      }
-      },
-      "Brunnen": {
-        "labels": {
-        "en": "Well",
-        "de": "Fontaine"
-      }
-      },
-      "Feuerstelle": {
-        "labels": {
-        "en": "Fire pit",
-        "de": "Fosse à feu"
-      }
-      },
-      "Graben": {
-        "labels": {
-        "en": "Ditch",
-        "de": "Tranchée"
-      }
-      },
-      "Grube": {
-        "labels": {
-        "en": "Pit",
-        "de": "Fosse"
-      }
-      },
-      "Ofen": {
-        "labels": {
-        "en": "Kiln",
-        "de": "Four"
-      }
-      },
-      "Pfostenloch": {
-        "labels": {
-        "en": "Post hole",
-        "de": "Trou de poteau"
-      }
-      },
-      "Pflugspur": {
-        "labels": {
-        "en": "Plough mark",
-        "de": "Piste de charrue"
-      }
-      },
-      "Tiergang": {
-        "labels": {
-        "en": "Animal burrow",
-        "de": "Terrier"
-      }
-      },
-      "Wurzelkanal": {
-        "labels": {
-        "en": "Root canal",
-        "de": "Canal racinaire"
-      }
-      },
-      "Zerstörte Mauer": {
-        "labels": {
-        "en": "Destroyed wall",
-        "de": "Mur détruit"
-      }
-      },
-      "Zerstörter Boden": {
-        "labels": {
-        "en": "Destroyed floor",
-        "de": "Plancher détruit"
-      }
-      },
-      "Raubgräberloch": {
-        "labels": {
-        "en": "Robber trench",
-        "de": "Tranchée des voleurs"
-      }
-      },
-      "Drainage": {
-        "labels": {
-        "en": "Drainage",
-        "de": "Drainage"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-wallClassification-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Aufgehendes Mauerwerk": {
-        "labels": {
-        "en": "Rising masonry",
-        "de": "Maçonnerie en hausse"
-      }
-      },
-      "Fensterzusetzung": {
-        "labels": {
-        "en": "Window filling",
-        "de": "Remplissage de fenêtre"
-      }
-      },
-      "Flickung": {
-        "labels": {
-        "en": "Mending",
-        "de": "Réparation"
-      }
-      },
-      "Fundament": {
-        "labels": {
-        "en": "Foundation",
-        "de": "Fondation"
-      }
-      },
-      "Gewölbe": {
-        "labels": {
-        "en": "Vaulting",
-        "de": "Voûte"
-      }
-      },
-      "Mauer": {
-        "labels": {
-        "en": "Wall",
-        "de": "Mur"
-      }
-      },
-      "Mauerbettung": {
-        "labels": {
-        "en": "Masonry bedding",
-        "de": "Literie murale"
-      }
-      },
-      "Mauerdurchbruch": {
-        "labels": {
-        "en": "Wall breakthrough",
-        "de": "Percée du mur"
-      }
-      },
-      "Mosaik": {
-        "labels": {
-        "en": "Mosaic",
-        "de": "Mosaïque"
-      }
-      },
-      "Opus sectile": {
-        "labels": {
-        "en": "Opus sectile",
-        "de": "Opus sectile"
-      }
-      },
-      "Türzusetzung": {
-        "labels": {
-        "en": "Door filling",
-        "de": "Remplissage de porte"
-      }
-      },
-      "Wandgestaltung": {
-        "labels": {
-        "en": "Wall design",
-        "de": "Décoration murale"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-wallType-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Außenmauer": {
-        "labels": {
-        "en": "External wall",
-        "de": "Mur extérieur"
-      }
-      },
-      "Befestigungsmauer": {
-        "labels": {
-        "en": "Fortification wall",
-        "de": "Mur de fortification"
-      }
-      },
-      "Blockmauerwerk": {
-        "labels": {
-        "en": "Block masonry",
-        "de": "Maçonnerie en blocs"
-      }
-      },
-      "Bruchsteinmauer": {
-        "labels": {
-        "en": "Rubble wall",
-        "de": "Mur des moellons"
-      }
-      },
-      "Fachwerk": {
-        "labels": {
-        "en": "Timber framing",
-        "de": "Pan de bois"
-      }
-      },
-      "Feldsteinmauer": {
-        "labels": {
-        "en": "Fieldstone wall",
-        "de": "Mur de pierre locale"
-      }
-      },
-      "Grenzmauer": {
-        "labels": {
-        "en": "Border wall",
-        "de": "Mur de frontière"
-      }
-      },
-      "Ziegelmauer": {
-        "labels": {
-        "en": "Brick wall",
-        "de": "Mur en briques"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-construction-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Fundament: Geschüttet": {
-        "labels": {
-        "en": "Piled foundation",
-        "de": "Fondation en tas"
-      }
-      },
-      "Fundament: Gesetzt": {
-        "labels": {
-        "en": "Set foundation",
-        "de": "Fondation posée"
-      }
-      },
-      "Mauerkern: Lesesteine": {
-        "labels": {
-        "en": "Wall core: Rubblestones",
-        "de": "Noyau du mur: Pierres ramassées"
-      }
-      },
-      "Einschalig vor Feld/Hang": {
-        "labels": {
-        "en": "Single-leaf masonry in front of field/slope",
-        "de": "Maçonnerie monocoque devant un champ/pente"
-      }
-      },
-      "Ohne Schalen/keine durchgehenden Lagen": {
-        "labels": {
-        "en": "No leaves/no continuous layers",
-        "de": "Pas de coques/pas de couches continues"
-      }
-      },
-      "Ohne Schalen/nur durchgehende Lagen": {
-        "labels": {
-        "en": "No leaves/only continuous layers",
-        "de": "Pas de coques/seulement couches continues"
-      }
-      },
-      "Zweischalig": {
-        "labels": {
-        "en": "Double-leaf masonry",
-        "de": "Maçonnerie à deux coques"
-      }
-      },
-      "Zweischalig mit Binderlagen": {
-        "labels": {
-        "en": "Double-leaf masonry with header courses",
-        "de": "Maçonnerie à deux coques avec des couches de liant"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-brickwork-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Binderverband": {
-        "labels": {
-        "en": "Header bond",
-        "de": "Appareil en boutisse"
-      }
-      },
-      "Blockverband": {
-        "labels": {
-        "en": "Block bond",
-        "de": "Appareil en blocs"
-      }
-      },
-      "Flämischer Verband": {
-        "labels": {
-        "en": "Flemish bond",
-        "de": "Appareil flamand"
-      }
-      },
-      "Holländischer Verband": {
-        "labels": {
-        "en": "Dutch bond",
-        "de": "Appareil hollandais"
-      }
-      },
-      "Kreuzverband": {
-        "labels": {
-        "en": "Cross bond",
-        "de": "Appareil à croisettes"
-      }
-      },
-      "Läuferverband": {
-        "labels": {
-        "en": "Stretcher bond",
-        "de": "Appareil en liants"
-      }
-      },
-      "Märkischer Verband": {
-        "labels": {
-        "en": "Markish bond",
-        "de": "Appareil marche"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-blockTreatment-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Bossiert": {
-        "labels": {
-        "en": "Embossed",
-        "de": "Ébauché"
-      }
-      },
-      "Unbehauen": {
-        "labels": {
-        "en": "Unworked",
-        "de": "Pas travaillé"
-      }
-      },
-      "Grob behauen": {
-        "labels": {
-        "en": "Roughly hewn",
-        "de": "Dégrossé"
-      }
-      },
-      "Behauen": {
-        "labels": {
-        "en": "Squared",
-        "de": "Quadrillé"
-      }
-      },
-      "Gemischt": {
-        "labels": {
-        "en": "Mixed",
-        "de": "Mixte"
-      }
-      },
-      "Bearbeitete Oberfläche": {
-        "labels": {
-        "en": "Tooled surface",
-        "de": "Surface travaillée"
-      }
-      },
-      "Polierte Oberfläche": {
-        "labels": {
-        "en": "Polished surface",
-        "de": "Surface polie"
-      }
-      }
-    }
-  },
-  "Architecture-blockProcessing-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Bruchsteine": {
-        "labels": {
-        "en": "Rubblestones",
-        "de": "Moellons"
-      }
-      },
-      "Hausteine": {
-        "labels": {
-        "en": "Cut stones",
-        "de": "Pierres sculptées"
-      }
-      },
-      "Lesesteine": {
-        "labels": {
-        "en": "Field stones",
-        "de": "Pierres ramassées"
-      }
-      },
-      "Werksteine": {
-        "labels": {
-        "en": "Freestones",
-        "de": "Pierres de taille"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-mortarBinder-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Dominant": {
-        "labels": {
-        "en": "Dominant",
-        "de": "Dominant"
-      }
-      },
-      "Gering": {
-        "labels": {
-        "en": "Low",
-        "de": "Insignifiant"
-      }
-      },
-      "Hoch": {
-        "labels": {
-        "en": "High",
-        "de": "Haut"
-      }
-      },
-      "Mittel": {
-        "labels": {
-        "en": "Medium",
-        "de": "Moyen"
-      }
-      }
-    }
-  },
-  "Architecture-mortarConsistency-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Brüchig": {
-        "labels": {
-        "en": "Brittle",
-        "de": "Pailleuse"
-      }
-      },
-      "Erdig/lehmig": {
-        "labels": {
-        "en": "Earthy/loamy",
-        "de": "Terreuse/argileuse"
-      }
-      },
-      "Fest": {
-        "labels": {
-        "en": "Firm",
-        "de": "Solide"
-      }
-      },
-      "Hart": {
-        "labels": {
-        "en": "Hard",
-        "de": "Dure"
-      }
-      },
-      "Locker": {
-        "labels": {
-        "en": "Loose",
-        "de": "Meuble"
-      }
-      },
-      "Mittelfein": {
-        "labels": {
-        "en": "Medium-fine",
-        "de": "Mi-fine"
-      }
-      },
-      "Pulverig": {
-        "labels": {
-        "en": "Powdery",
-        "de": "Poudreuse"
-      }
-      },
-      "Sandig": {
-        "labels": {
-        "en": "Sandy",
-        "de": "Sablonneuse"
-      }
-      }
-    }
-  },
-  "Architecture-condition-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Sehr gut": {
-        "labels": {
-          "en": "Very good",
-          "de": "Très bonne"
-        }
-      },
-      "Gut": {
-        "labels": {
-          "en": "Good",
-          "de": "Bonne"
-        }
-      },
-      "Mittel": {
-        "labels": {
-          "en": "Medium",
-          "de": "Moyenne"
-        }
-      },
-      "Schlecht": {
-        "labels": {
-          "en": "Bad",
-          "de": "Mauvaise"
-        }
-      },
-      "Sehr schlecht": {
-        "labels": {
-          "en": "Very bad",
-          "de": "Très mauvaise"
-        }
-      }
-    },
-    "order": [
-      "Sehr gut",
-      "Gut",
-      "Mittel",
-      "Schlecht",
-      "Sehr schlecht"
-    ]
-  },
-  "Architecture-conditionAmount-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Fragmentarisch": {
-        "labels": {
-        "en": "Fragmentary",
-        "de": "Fragmentaire"
-      }
-      },
-      "Teilweise erhalten": {
-        "labels": {
-        "en": "Partially preserved",
-        "de": "Partiellement preservé"
-      }
-      },
-      "Vollständig": {
-        "labels": {
-        "en": "Complete",
-        "de": "Complet"
-      }
-      },
-      "Zerstört": {
-        "labels": {
-        "en": "Destroyed",
-        "de": "Détruis"
-      }
-      },
-      "Restauriert": {
-        "labels": {
-        "en": "Restored",
-        "de": "Restauré"
-      }
-      }
-    }
-  },
-  "Floor-floorClassification-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Stampflehm": {
-        "labels": {
-        "en": "Beaten earth",
-        "de": "Terre battue"
-      }
-      },
-      "Pflaster": {
-        "labels": {
-        "en": "Plaster",
-        "de": "Pavement"
-      }
-      },
-      "Ziegel": {
-        "labels": {
-        "en": "Bricks or tiles",
-        "de": "Briques ou tuiles"
-      }
-      },
-      "Opus alexandrinum": {
-        "labels": {
-        "en": "Opus alexandrinum",
-        "de": "Opus alexandrinum"
-      }
-      },
-      "Opus barbaricum": {
-        "labels": {
-        "en": "Opus barbaricum",
-        "de": "Opus barbaricum"
-      }
-      },
-      "Opus musivum (tesserae)": {
-        "labels": {
-        "en": "Opus musivum (tesserae)",
-        "de": "Opus musivum (tesserae)"
-      }
-      },
-      "Kieselmosaik": {
-        "labels": {
-        "en": "Pebble mosaic",
-        "de": "Mosaïque de cailloux"
-      }
-      },
-      "Opus scutulatum": {
-        "labels": {
-        "en": "Opus scutulatum",
-        "de": "Opus scutulatum"
-      }
-      },
-      "Opus sectile": {
-        "labels": {
-        "en": "Opus sectile",
-        "de": "Opus sectile"
-      }
-      },
-      "Opus segmentatum": {
-        "labels": {
-        "en": "Opus segmentatum",
-        "de": "Opus segmentatum"
-      }
-      },
-      "Opus signinum (cocciopesto)": {
-        "labels": {
-        "en": "Opus signinum (cocciopesto)",
-        "de": "Opus signinum (cocciopesto)"
-      }
-      },
-      "Opus spicatum": {
-        "labels": {
-        "en": "Opus spicatum",
-        "de": "Opus spicatum"
-      }
-      },
-      "Opus tessellatum": {
-        "labels": {
-        "en": "Opus tessellatum",
-        "de": "Opus tessellatum"
-      }
-    },
-      "Opus vermiculatum": {
-        "labels": {
-        "en": "Opus vermiculatum",
-        "de": "Opus vermiculatum"
-      }
-    },
-      "Mörtelfußboden":{
-        "labels":{
-        "en": "Mortar flooring",
-        "de": "Plancher en mortier"
-      }
-    },
-      "Sonstiges": {
-        "labels": {
-        "en": "Other",
-        "de": "Autre"
-      }
-      }
-    }
-  },
-  "Wall_surface-wallOrientation-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Norden": {
-        "labels": {
-        "en": "North",
-        "de": "Nord"
-      }
-      },
-      "Nordost": {
-        "labels": {
-        "en": "Northeast",
-        "de": "Nord-est"
-      }
-      },
-      "Nordwest": {
-        "labels": {
-        "en": "Northwest",
-        "de": "Nord-ouest"
-      }
-      },
-      "Osten": {
-        "labels": {
-        "en": "East",
-        "de": "Est"
-      }
-      },
-      "Süden": {
-        "labels": {
-        "en": "South",
-        "de": "Sud"
-      }
-      },
-      "Südost": {
-        "labels": {
-        "en": "Southeast",
-        "de": "Sud-est"
-      }
-      },
-      "Südwest": {
-        "labels": {
-        "en": "Southwest",
-        "de": "Sud-ouest"
-      }
-      },
-      "Westen": {
-        "labels": {
-        "en": "West",
-        "de": "Ouest"
-      }
-      }
-    }
-  },
-  "PlasterFragment-plasterComponents-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Feinsand": {
-        "labels": {
-        "en": "Fine sand",
-        "de": "Sablon"
-      }
-      },
-      "Grus": {
-        "labels": {
-        "en": "Grit",
-        "de": "Menu"
-      }
-      },
-      "Sand": {
-        "labels": {
-        "en": "Sand",
-        "de": "Sable"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Architecture-buildingTechnique-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Ungebrannte oder gebrannte Ziegel": {
-        "labels": {
-        "en": "Adobe/mud-brick",
-        "de": "Briques crues ou cuites"
-      }
-      },
-      "Opus craticium": {
-        "labels": {
-        "en": "Opus craticium",
-        "de": "Opus craticium"
-      }
-      },
-      "Flechtwerk": {
-        "labels": {
-        "en": "Wicker work",
-        "de": "Cannage"
-      }
-      },
-      "Unregelmäßige unbearbeitete Steine oder Kiesel": {
-        "labels": {
-        "en": "Irregular unworked stone or cobbles",
-        "de": "Pierres irregulières pas travaillées ou cailloux"
-      }
-      },
-      "Quadersteine": {
-        "labels": {
-        "en": "Ashlar (blocks)",
-        "de": "Blocs"
-      }
-      },
-      "Beton": {
-        "labels": {
-        "en": "Concrete",
-        "de": "Béton"
-      }
-      },
-      "Opus caementicium": {
-        "labels": {
-        "en": "Opus caementicium",
-        "de": "Opus caementicium"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-        "en": "Other",
-        "de": "Autre"
-      }
-      }
-    }
-  },
-  "Architecture-walling-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Opus siliceum (polygonal)": {
-        "labels": {
-        "en": "Opus siliceum (polygonal)",
-        "de": "Opus siliceum (polygonal)"
-      }
-      },
-      "Opus quadratum": {},
-      "Opus caementicium": {},
-      "Opus incertum": {},
-      "Opus quasi reticulatum": {},
-      "Opus reticulatum": {},
-      "Opus spicatum": {},
-      "Opus mixtum": {},
-      "Opus testaceum/latericium (Dachziegel, Ziegel oder dreieckige Ziegel)": {
-        "labels": {
-        "en": "Opus testaceum/latericium (Tiles, bricks or triangular bricks)",
-        "de": "Opus testaceum/latericium (Tuiles, briques ou briques triangulaires)"
-      }
-      },
-      "Opus signinum (cocciopesto)": {},
-      "Opus africanum": {},
-      "Opus vittatum/listatum (Ziegel und kleine Tuffsteine)": {
-        "labels": {
-        "en": "Opus vittatum/listatum (bricks and small tuff stones)",
-        "de": "Opus vittatum/listatum (briques et petits tuffeaux)"
-      }
-      },
-      "Sonstiges": {
-        "labels": {
-        "en": "Other",
-        "de": "Autre"
-      }
-      }
-    }
-  },
-  "Wall_surface-constructionDetails-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Abflussöffnung": {
-        "labels": {
-        "en": "Drain hole",
-        "de": "Trou de drainage"
-      }
-      },
-      "Angelloch": {
-        "labels": {
-        "en": "Hinge hole",
-        "de": "Trou de charnière de porte"
-      }
-      },
-      "Balkenloch": {
-        "labels": {
-        "en": "Beam hole",
-        "de": "Trou de poutre"
-      }
-      },
-      "Bleirohr": {
-        "labels": {
-        "en": "Lead pipe",
-        "de": "Tuyau en plomb"
-      }
-      },
-      "Durchgang/Tür": {
-        "labels": {
-        "en": "Passageway/door",
-        "de": "Passage/porte"
-      }
-      },
-      "Entlastungsbogen": {
-        "labels": {
-        "en": "Discharging arch",
-        "de": "Linteau en arc"
-      }
-      },
-      "Fallrohr": {
-        "labels": {
-        "en": "Downpipe",
-        "de": "Tuyau de descente"
-      }
-      },
-      "Fenster": {
-        "labels": {
-        "en": "Window",
-        "de": "Fenêtre"
-      }
-      },
-      "Fontäne": {
-        "labels": {
-        "en": "Fountain",
-        "de": "Fontaine"
-      }
-      },
-      "Halbsäule": {
-        "labels": {
-        "en": "Semicolumn",
-        "de": "Demi-colonne"
-      }
-      },
-      "Laibung": {
-        "labels": {
-        "en": "Jamb",
-        "de": "Tableau"
-      }
-      },
-      "Nische": {
-        "labels": {
-        "en": "Niche",
-        "de": "Niche"
-      }
-      },
-      "Regalloch": {
-        "labels": {
-        "en": "Shelf hole",
-        "de": "Trou d'étagère"
-      }
-      },
-      "Riegelloch": {
-        "labels": {
-        "en": "Latch hole",
-        "de": "Trou de boulon"
-      }
-      },
-      "Sonstiges Loch": {
-        "labels": {
-        "en": "Other hole",
-        "de": "Autre trou"
-      }
-      },
-      "Sturzauflager": {
-        "labels": {
-        "en": "Lintel support",
-        "de": "Support de chute"
-      }
-      }
-    }
-  },
-  "Find-storagePlace-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Dépot Zaghouan": {},
-      "Abbir Cella": {},
-      "Djougar": {},
-      "Unbekannt": {
-        "labels": {
-          "de": "Inconnu",
-          "en": "Unknown"
-        }
-      }
-    }
-  },
-  "Sample-sampleMaterial-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Holzkohle": {
-        "labels": {
-        "en": "Charcoal",
-        "de": "Charbon"
-      }
-      },
-      "Mörtel": {
-        "labels": {
-        "en": "Mortar",
-        "de": "Mortier"
-      }
-      },
-      "Bodenprobe": {
-        "labels": {
-        "en": "Soil",
-        "de": "Sol"
-      }
-      },
-      "Holz": {
-        "labels": {
-        "en": "Wood",
-        "de": "Bois"
-      }
-      },
-      "Stein":{
-        "labels": {
-        "en": "Stone",
-        "de": "Pierre"
-      }
-      },
-      "Keramik": {
-        "labels": {
-        "en": "Ceramics",
-        "de": "Céramique"
-      }
-      },
-      "Putz": {
-        "labels": {
-        "en": "Plaster",
-        "de": "Enduit"
-      }
-      },
-      "Sonstiges":{
-        "labels":{
-          "en": "Other",
-          "de": "Autre"
-        }
-      }
-    }
-  },
-  "Sample-sampleType-Abbircella": {
-    "createdBy": "",
-    "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Bodenprobe": {
-        "labels": {
-        "en": "Soil sample",
-        "de": "Échantillon de sol"
-      }
-      },
-      "C14-Analyse": {
-        "labels": {
-        "en": "C14 analysis",
-        "de": "Analyse du C14"
-      }
-      },
-      "Dendroprobe": {
-        "labels": {
-        "en": "Sample for dendrochronology",
-        "de": "Échantillon pour étude dendrochronologique"
-      }
-      },
-      "Hammerschlagsprobe": {
-        "labels": {
-        "en": "Scale test",
-        "de": "Test de calamine"
-      }
-      },
-      "Phosphatanalyse": {
-        "labels": {
-        "en": "Phosphate analysis",
-        "de": "Analyse de phosphate"
-      }
-      },
-      "Pollenanalyse": {
-        "labels": {
-        "en": "Pollen analysis",
-        "de": "Analyse du pollen"
-      }
-      }
-    }
-  },
-  "orientation-Abbircella": {
-    "createdBy": "",
     "description": {},
-    "creationDate": "",
     "values": {
-      "N-S": {
-        "labels": {
-        "en": "N-S",
-        "de": "N-S"
-      }
-      },
-      "NNO-SSW": {
-        "labels": {
-        "en": "NNE-SSW",
-        "de": "N.N.E.-S.S.O."
-      }
-      },
-      "NNW-SSO": {
-        "labels": {
-        "en": "NNW-SSE",
-        "de": "N.N.O.-S.S.E."
-      }
-      },
-      "NO-SW": {
-        "labels": {
-        "en": "NE-SW",
-        "de": "N.E.-S.O."
-      }
-      },
-      "NW-SO": {
-        "labels": {
-        "en": "NW-SE",
-        "de": "N.O.-S.E."
-      }
-      },
-      "W-O": {
-        "labels": {
-        "en": "W-E",
-        "de": "O.-E."
-      }
-      },
-      "WNW-OSO": {
-        "labels": {
-        "en": "WNW-ESE",
-        "de": "O.N.O.-E.S.E."
-      }
-      },
-      "WSW-ONO": {
-        "labels": {
-        "en": "WSW-ENE",
-        "de": "O.S.O.-E.N.E."
-      }
-      }
+      "from the bit to the back": {}
     }
   },
-  "Survey-researchMethod-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Befliegung" : {
-        "labels": {
-        "en": "Flying",
-        "de": "Voler"
-      }
-      },
-      "Begehung" : {
-        "labels": {
-        "en": "Inspection",
-        "de": "Inspection"
-      }
-      },
-      "Geoelektrik" : {
-        "labels": {
-        "en": "Geoelectrics",
-        "de": "Géoélectricité"
-      }
-      },
-      "Geomagnetik" : {
-        "labels": {
-        "en": "Geomagnetics",
-        "de": "Géomagnétique"
-      }
-      },
-      "Georadar" : {
-        "labels": {
-        "en": "Georadar",
-        "de": "Georadar"
-      }
-      },
-      "LIDAR" : {
-        "labels": {
-        "en": "LIDAR",
-        "de": "LIDAR"
-      }
-      },
-      "Luft- oder Satellitenbilder" : {
-        "labels": {
-        "en": "Aerial or satellite imagery",
-        "de": "Imagerie aérienne ou satellitaire"
-      }
-      },
-      "Quadratisch" : {
-        "labels": {
-        "en": "Square",
-        "de": "Carré"
-      }
-      },
-      "Regelmäßig" : {
-        "labels": {
-        "en": "Regular",
-        "de": "Régulier"
-      }
-      },
-      "Seismik" : {
-        "labels": {
-        "en": "Seismology",
-        "de": "Sismologie"
-      }
-      }
-    }
-  },
-  "Building-buildingCategory-Abbircella": {
+  "position-values-dimension-width-of-drill-fragment-wes": {
     "createdBy": "",
     "creationDate": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
+    "description": {},
     "values": {
-      "Altar": {
-        "labels": {
-        "en": "Altar",
-        "de": "Autel"
-      }
-      },
-      "Amphitheater": {
-        "labels": {
-        "en": "Amphitheatre",
-        "de": "Amphithéâtre"
-      }
-      },
-      "Basilika": {
-        "labels": {
-        "en": "Basilica",
-        "de": "Basilique"
-      }
-      },
-      "Bogen": {
-        "labels": {
-        "en": "Arch",
-        "de": "Arc"
-      }
-      },
-      "Brücke": {
-        "labels": {
-        "en": "Bridge",
-        "de": "Pont"
-      }
-      },
-      "Circus": {
-        "labels": {
-        "en": "Circus",
-        "de": "Cirque"
-      }
-      },
-      "Grabmonument": {
-        "labels": {
-        "en": "Tomb monument",
-        "de": "Monument funéraire"
-      }
-      },
-      "Gymnasion": {
-        "labels": {
-        "en": "Gymnasium",
-        "de": "Gymnase"
-      }
-      },
-      "Mauerkurtine": {
-        "labels": {
-        "en": "Wall curtin",
-        "de": "Curtin mural"
-      }
-      },
-      "Nymphäum": {
-        "labels": {
-        "en": "Nymphaeum",
-        "de": "Nymphée"
-      }
-      },
-      "Odeion": {
-        "labels": {
-        "en": "Odeon",
-        "de": "Odéon"
-      }
-      },
-      "Straße (innerhalb einer Siedlung)": {
-        "labels": {
-        "en": "Street",
-        "de": "Rue"
-      }
-      },
-      "Straße (außerhalb einer Siedlung)": {
-        "labels": {
-        "en": "Road",
-        "de": "Route"
-      }
-      },
-      "Stützmauer": {
-        "labels": {
-        "en": "Retaining wall",
-        "de": "Mur de soutènement"
-      }
-      },
-      "Säulenhalle": {
-        "labels": {
-        "en": "Portico",
-        "de": "Portique"
-      }
-      },
-      "Tempel": {
-        "labels": {
-        "en": "Temple",
-        "de": "Temple"
-      }
-      },
-      "Theater": {
-        "labels": {
-        "en": "Theatre",
-        "de": "Théâtre"
-      }
-      },
-      "Therme": {
-        "labels": {
-        "en": "Bath building",
-        "de": "Bains thermaux"
-      }
-      },
-      "Toranlage": {
-        "labels": {
-        "en": "Gate system",
-        "de": "Système de porte"
-      }
-      },
-      "Turm": {
-        "labels": {
-        "en": "Tower",
-        "de": "Tour"
-      }
-      },
-      "Wohnbau": {
-        "labels": {
-        "en": "Dwelling",
-        "de": "Habitation"
-      }
-    },
-      "Sonstiges":{
-        "labels":{
-          "en": "Other",
-          "de": "Autre"
-        }
-      },
-      "Unbestimmt":{
-        "labels":{
-          "en": "Inditerminate",
-          "de": "Indéterminé"
-        }
-      }
-    }
-  },
-  "Inscription-objectType-Abbircella": {
-    "creationDate": "",
-    "createdBy": "",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Alltäglicher Gebrauch": {
-        "labels":{
-          "en":"Everyday use",
-          "de":"Utilisation quotidienne"
-        }
-      },
-      "Bauinschrift": {
-        "labels":{
-          "en":"Building inscription",
-          "de":"Inscription du bâtiment"
-        }
-      },
-      "Ehreninschrift": {
-        "labels":{
-          "en":"Honorary inscription",
-          "de":"Inscription d'honneur"
-        }
-      },
-      "Grabinschrift (Inschrift im Grabkontext)": {
-        "labels":{
-          "en":"Tomb inscription",
-          "de":"Inscription au tombeau"
-        }
-      },
-      "Private Ausstattung": {
-        "labels":{
-          "en":"Private setting",
-          "de":"Cadre privé"
-        }
-      },
-      "Sakrale Ausstattung": {
-        "labels":{
-          "en":"Sacral setting",
-          "de":"Cadre sacral"
-        }
-      },
-      "Unsicher bzw. unbestimmbar": {
-        "labels":{
-          "en":"Uncertain or indeterminate",
-          "de":"Incertain ou indéterminé"
-        }
-      },
-      "Urkunde": {
-        "labels":{
-          "en":"Deed",
-          "de":"Charte"
-        }
-      },
-      "Wasserversorgung": {
-        "labels":{
-          "en":"Water supply",
-          "de":"Approvisionnement en eau"
-        }
-      },
-      "Weihinschrift": {
-        "labels":{
-          "en":"Dedication inscription",
-          "de":"Inscription sacrée"
-        }
-      },
-      "Öffentliche Ausstattung": {
-        "labels":{
-          "en":"Public setting",
-          "de":"Cadre public"
-        }
-      }
+      "At the drilling-bit": {},
+      "At the back/shaft": {}
     }
   },
   "Survey-researchMethod-Selinunt": {
