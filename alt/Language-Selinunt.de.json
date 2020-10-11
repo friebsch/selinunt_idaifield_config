@@ -386,32 +386,6 @@
           "label": "Legende"
         }
       }
-    },
-    "FindCollection": {
-      "label": "Fundzusammensetzung",
-      "fields": {
-        "potteryFormsOverview": {
-          "label": "Keramikformen Gesamtübersicht"
-        },
-        "potteryFineWareByProvenance": {
-          "label": "1. Feinkeramik nach Provenienz"
-        },
-        "potteryFineWareByProvenanceQuantityWeightDetails": {
-          "label": "1. Menge, Gewicht, Details"
-        },
-        "potteryAmphoraeByProvenance": {
-          "label": "2. Amphoren nach Provenienz"
-        },
-        "potteryAmphoraeByProvenanceQuantityWeightDetails": {
-          "label": "2. Menge, Gewicht, Details"
-        },
-        "potteryCoarseWareByFunction": {
-          "label": "3. Gebrauchskeramik nach Funktion "
-        },
-        "potteryCoarseWareByFunctionQuantityWeightDetails": {
-          "label": "3. Menge, Gewicht, Details"
-        }
-      }
     }
   }
 }

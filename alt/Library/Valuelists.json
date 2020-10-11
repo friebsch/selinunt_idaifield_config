@@ -5710,128 +5710,128 @@
       "en": ""
     },
     "values": {
-      "Import": {},
-      "Almagro 50 brown": {},
-      "Ephesos (?)": {},
-      "Kapitän II coarse": {},
-      "Kapitän II fine": {},
-      "Rhodos": {},
-      "ähnl. BP": {},
-      "ähnl. HBUFF": {},
-      "BB": {},
-      "BB semi fine": {},
-      "BP": {},
-      "BP mit ÜZ": {},
-      "BROWNQ": {},
-      "BSP": {},
-      "BSWP": {},
-      "CBUFF": {},
-      "CBUFF Red": {},
-      "CSTRAW": {},
-      "FK - ARS": {},
-      "FK - LRC": {},
-      "FK - TS": {},
-      "FK 1": {},
-      "FK 2": {},
-      "FK 4": {},
-      "FK 5": {},
-      "FK 6": {},
-      "FK Import": {},
-      "FK3 - ESA": {},
-      "GB": {},
-      "GK Import": {},
-      "Glasierte Ware": {},
-      "GroW 1": {},
-      "Grow 2": {},
-      "GroW 3": {},
-      "GroW 4": {},
-      "GroW VAR": {},
-      "Handbade Painted Ware": {},
-      "HBUFF": {},
-      "HBUFF/BP": {},
-      "HRED": {},
-      "HREDcalc": {},
-      "KK - Jerash?": {},
-      "KK 1": {},
-      "KK Import": {},
-      "MA 1": {},
-      "MA 2": {},
-      "MA 3": {},
-      "MA 4": {},
-      "MA 5": {},
-      "MA 6": {},
-      "Neuzeitlich": {},
-      "OG": {},
-      "PINK mit ÜZ": {},
-      "PK PTD": {},
-      "Pompeian redware 1": {},
-      "Pompeian Redware 2": {},
-      "Porzellan": {},
-      "RB": {},
-      "REDQ": {},
-      "REDQ calc.": {}
+      "70 A - Import": {},
+      "47 A - Almagro 50 brown": {},
+      "67 A - Ephesos (?)": {},
+      "46 A - Kapitän II coarse": {},
+      "45 A - Kapitän II fine": {},
+      "32 A - Rhodos": {},
+      "36 ähnl. BP": {},
+      "43 ähnl. HBUFF": {},
+      "53 BB": {},
+      "52 BB semi fine": {},
+      "8  BP": {},
+      "44 BP mit ÜZ": {},
+      "50 BROWNQ": {},
+      "65 BSP": {},
+      "16 BSWP": {},
+      "20 CBUFF": {},
+      "64 CBUFF Red": {},
+      "22 CSTRAW": {},
+      "84 FK - ARS": {},
+      "14 FK - LRC": {},
+      "1  FK - TS": {},
+      "56 FK 1": {},
+      "57 FK 2": {},
+      "58 FK 4": {},
+      "59 FK 5": {},
+      "85 FK 6": {},
+      "3  FK Import": {},
+      "19 FK3 - ESA": {},
+      "77 GB": {},
+      "68 GK Import": {},
+      "12 Glasierte Ware": {},
+      "30 GroW 1": {},
+      "31 Grow 2": {},
+      "62 GroW 3": {},
+      "63 GroW 4": {},
+      "24 GroW VAR": {},
+      "17 Handbade Painted Ware": {},
+      "18 HBUFF": {},
+      "81 HBUFF/BP": {},
+      "13 HRED": {},
+      "51 HREDcalc": {},
+      "4  KK - Jerash?": {},
+      "78 KK 1": {},
+      "83 KK Import": {},
+      "76 MA 1": {},
+      "75 MA 2": {},
+      "74 MA 3": {},
+      "73 MA 4": {},
+      "72 MA 5": {},
+      "71 MA 6": {},
+      "61 Neuzeitlich": {},
+      "66 OG": {},
+      "55 PINK mit ÜZ": {},
+      "23 PK PTD": {},
+      "79 Pompeian redware 1": {},
+      "82 Pompeian Redware 2": {},
+      "40 Porzellan": {},
+      "54 RB": {},
+      "9  REDQ": {},
+      "49 REDQ calc.": {}
     },
     "order": [
-      "Import",
-      "Almagro 50 brown",
-      "Ephesos (?)",
-      "Kapitän II coarse",
-      "Kapitän II fine",
-      "Rhodos",
-      "ähnl. BP",
-      "ähnl. HBUFF",
-      "BB",
-      "BB semi fine",
-      "BP",
-      "BP mit ÜZ",
-      "BROWNQ",
-      "BSP",
-      "BSWP",
-      "CBUFF",
-      "CBUFF Red",
-      "CSTRAW",
-      "FK - ARS",
-      "FK - LRC",
-      "FK - TS",
-      "FK 1",
-      "FK 2",
-      "FK 4",
-      "FK 5",
-      "FK 6",
-      "FK Import",
-      "FK3 - ESA",
-      "GB",
-      "GK Import",
-      "Glasierte Ware",
-      "GroW 1",
-      "Grow 2",
-      "GroW 3",
-      "GroW 4",
-      "GroW VAR",
-      "Handbade Painted Ware",
-      "HBUFF",
-      "HBUFF/BP",
-      "HRED",
-      "HREDcalc",
-      "KK - Jerash?",
-      "KK 1",
-      "KK Import",
-      "MA 1",
-      "MA 2",
-      "MA 3",
-      "MA 4",
-      "MA 5",
-      "MA 6",
-      "Neuzeitlich",
-      "OG",
-      "PINK mit ÜZ",
-      "PK PTD",
-      "Pompeian redware 1",
-      "Pompeian Redware 2",
-      "Porzellan",
-      "RB",
-      "REDQ",
-      "REDQ calc."
+      "70 A - Import",
+      "47 A - Almagro 50 brown",
+      "67 A - Ephesos (?)",
+      "46 A - Kapitän II coarse",
+      "45 A - Kapitän II fine",
+      "32 A - Rhodos",
+      "36 ähnl. BP",
+      "43 ähnl. HBUFF",
+      "53 BB",
+      "52 BB semi fine",
+      "8  BP",
+      "44 BP mit ÜZ",
+      "50 BROWNQ",
+      "65 BSP",
+      "16 BSWP",
+      "20 CBUFF",
+      "64 CBUFF Red",
+      "22 CSTRAW",
+      "84 FK - ARS",
+      "14 FK - LRC",
+      "1  FK - TS",
+      "56 FK 1",
+      "57 FK 2",
+      "58 FK 4",
+      "59 FK 5",
+      "85 FK 6",
+      "3  FK Import",
+      "19 FK3 - ESA",
+      "77 GB",
+      "68 GK Import",
+      "12 Glasierte Ware",
+      "30 GroW 1",
+      "31 Grow 2",
+      "62 GroW 3",
+      "63 GroW 4",
+      "24 GroW VAR",
+      "17 Handbade Painted Ware",
+      "18 HBUFF",
+      "81 HBUFF/BP",
+      "13 HRED",
+      "51 HREDcalc",
+      "4  KK - Jerash?",
+      "78 KK 1",
+      "83 KK Import",
+      "76 MA 1",
+      "75 MA 2",
+      "74 MA 3",
+      "73 MA 4",
+      "72 MA 5",
+      "71 MA 6",
+      "61 Neuzeitlich",
+      "66 OG",
+      "55 PINK mit ÜZ",
+      "23 PK PTD",
+      "79 Pompeian redware 1",
+      "82 Pompeian Redware 2",
+      "40 Porzellan",
+      "54 RB",
+      "9  REDQ",
+      "49 REDQ calc."
     ]
   },
   "Bone-sex-Meninx": {
@@ -8030,26 +8030,20 @@
       "en": ""
     },
     "values": {
-      "beige": {},
-      "blass-": {},
-      "blau": {},
-      "braun": {},
-      "cremefarben": {},
-      "dunkel-": {},
-      "gelb": {},
-      "glänzend": {},
-	    "grau": {},
-      "grün": {},
-      "hell-": {},
-      "leuchtend-": {},
-      "ocker": {},
-      "orange": {},
-      "rosa": {},
-      "rot": {},
-      "schwarz": {},
-      "türkis": {},
-      "violett": {},
-      "weiß": {}
+      "brauner ÜZ": {},
+      "bräunlicher ÜZ": {},
+      "braunrot": {},
+      "dunkelbrauner ÜZ": {},
+      "grauschwarzer ÜZ": {},
+      "hellroter ÜZ": {},
+      "partiell dunkelbrauner ÜZ": {},
+      "roter ÜZ": {},
+      "rotbrauner ÜZ": {},
+      "schwarzbraun": {},
+      "schwarzen ÜZ": {},
+      "schwarzgrauer ÜZ": {},
+      "sf": {},
+      "ÜZ": {}
     }
   },
   "Pottery-FormComparisonCompendia-WES": {
@@ -9834,26 +9828,26 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Farbe": {
         "labels": {
           "en": "Color",
-          "fr": "Couleur"
+          "de": "Couleur"
         }
       },
       "Konsistenz": {
         "labels": {
           "en": "Consistency",
-          "fr": "Consistence"
+          "de": "Consistence"
         }
       },
       "Komposition": {
         "labels": {
           "en": "Composition",
-          "fr": "Composition"
+          "de": "Composition"
         }
       }
     }
@@ -9862,32 +9856,32 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Gut": {
         "labels": {
           "en": "Good",
-          "fr": "Bonne"
+          "de": "Bonne"
         }
       },
       "Mittel": {
         "labels": {
           "en": "Medium",
-          "fr": "Moyenne"
+          "de": "Moyenne"
         }
       },
       "Schlecht": {
         "labels": {
           "en": "Bad",
-          "fr": "Mauvaise"
+          "de": "Mauvaise"
         }
       },
       "Unbekannt": {
         "labels": {
           "en": "Unknown",
-          "fr": "Inconnue"
+          "de": "Inconnue"
         }
       }
     },
@@ -9902,128 +9896,128 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Beige": {
         "labels": {
         "en": "Beige",
-        "fr": "Beige"
+        "de": "Beige"
       }
       },
       "Blass-": {
         "labels": {
         "en": "Pale",
-        "fr": "Pâle"
+        "de": "Pâle"
       }
       },
       "Blau": {
         "labels": {
         "en": "Blue",
-        "fr": "Bleue"
+        "de": "Bleue"
       }
       },
       "Braun": {
         "labels": {
         "en": "Brown",
-        "fr": "Marron"
+        "de": "Marron"
       }
       },
       "Cremefarben": {
         "labels": {
         "en": "Cream-coloured",
-        "fr": "Crème"
+        "de": "Crème"
       }
       },
       "Dunkel-": {
         "labels": {
         "en": "Dark",
-        "fr": "Foncée"
+        "de": "Foncée"
       }
       },
       "Gelb": {
         "labels": {
         "en": "Yellow",
-        "fr": "Jaune"
+        "de": "Jaune"
       }
       },
       "Grau": {
         "labels": {
         "en": "Grey",
-        "fr": "Grise"
+        "de": "Grise"
       }
       },
       "Grün": {
         "labels": {
         "en": "Green",
-        "fr": "Verte"
+        "de": "Verte"
       }
       },
       "Pistazienfarben": {
         "labels":{
           "en": "Pistachio",
-          "fr": "Pistache"
+          "de": "Pistache"
         }
       },
       "Hell-": {
         "labels": {
         "en": "Bright",
-        "fr": "Claire"
+        "de": "Claire"
       }
       },
       "Leuchtend": {
         "labels": {
         "en": "Brilliant",
-        "fr": "Lumineuse"
+        "de": "Lumineuse"
       }
       },
       "Ocker": {
         "labels": {
         "en": "Ochre",
-        "fr": "Ocre"
+        "de": "Ocre"
       }
       },
       "Orange": {
         "labels": {
         "en": "Orange",
-        "fr": "Orange"
+        "de": "Orange"
       }
       },
       "Rosa": {
         "labels": {
         "en": "Rose",
-        "fr": "Rose"
+        "de": "Rose"
       }
       },
       "Rot": {
         "labels": {
         "en": "Red",
-        "fr": "Rouge"
+        "de": "Rouge"
       }
       },
       "Schwarz": {
         "labels": {
         "en": "Black",
-        "fr": "Noire"
+        "de": "Noire"
       }
       },
       "Türkis": {
         "labels": {
         "en": "Turquoise",
-        "fr": "Turquoise"
+        "de": "Turquoise"
       }
       },
       "Violett": {
         "labels": {
         "en": "Violet",
-        "fr": "Violette"
+        "de": "Violette"
       }
       },
       "Weiß": {
         "labels": {
         "en": "White",
-        "fr": "Blanche"
+        "de": "Blanche"
       }
       }
     }
@@ -10032,98 +10026,98 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Beige": {
         "labels": {
         "en": "Beige",
-        "fr": "Beige"
+        "de": "Beige"
       }
       },
       "Dunkelbraun": {
         "labels": {
         "en": "Dark brown",
-        "fr": "Brun foncé"
+        "de": "Brun foncé"
       }
       },
       "Dunkelrot": {
         "labels": {
         "en": "Dark red",
-        "fr": "Rouge foncé"
+        "de": "Rouge foncé"
       }
       },
       "Gelb": {
         "labels": {
         "en": "Yellow",
-        "fr": "Jaune"
+        "de": "Jaune"
       }
       },
       "Hellbraun": {
         "labels": {
         "en": "Light brown",
-        "fr": "Brun clair"
+        "de": "Brun clair"
       }
       },
       "Hellgrau": {
         "labels": {
         "en": "Light grey",
-        "fr": "Gris clair"
+        "de": "Gris clair"
       }
       },
       "Mittelbraun": {
         "labels": {
         "en": "Medium brown",
-        "fr": "Brun moyen"
+        "de": "Brun moyen"
       }
       },
       "Ocker": {
         "labels": {
         "en": "Ochre",
-        "fr": "Ocre"
+        "de": "Ocre"
       }
       },
       "Orange": {
         "labels": {
         "en": "Orange",
-        "fr": "Orange"
+        "de": "Orange"
       }
       },
       "Orangerot": {
         "labels": {
         "en": "Orange red",
-        "fr": "Rouge orangé"
+        "de": "Rouge orangé"
       }
       },
       "Rosa": {
         "labels": {
         "en": "Rose",
-        "fr": "Rose"
+        "de": "Rose"
       }
       },
       "Rot": {
         "labels": {
         "en": "Red",
-        "fr": "Rouge"
+        "de": "Rouge"
       }
       },
       "Rotbraun": {
         "labels": {
         "en": "Red brown",
-        "fr": "Brun rouge"
+        "de": "Brun rouge"
       }
       },
       "Schwarz": {
         "labels": {
         "en": "Black",
-        "fr": "Noir"
+        "de": "Noir"
       }
       },
       "Weiß": {
         "labels": {
         "en": "White",
-        "fr": "Blanc"
+        "de": "Blanc"
       }
       }
     }
@@ -10132,110 +10126,110 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Befundrest": {
         "labels": {
         "en": "Feature remain",
-        "fr": "Reste"
+        "de": "Reste"
       }
       },
       "U-förmig": {
         "labels": {
         "en": "U-shaped",
-        "fr": "En forme de U"
+        "de": "En forme de U"
       }
       },
       "V-förmig": {
         "labels": {
         "en": "V-shaped",
-        "fr": "En forme de V"
+        "de": "En forme de V"
       }
       },
       "Annähernd": {
         "labels": {
         "en": "Nearly",
-        "fr": "Approximativement"
+        "de": "Approximativement"
       }
       },
       "Formlos": {
         "labels": {
         "en": "Shapeless",
-        "fr": "Informe"
+        "de": "Informe"
       }
       },
       "Halbmondförmig": {
         "labels": {
         "en": "Crescent shaped",
-        "fr": "En demi-lune"
+        "de": "En demi-lune"
       }
       },
       "Langgezogen": {
         "labels": {
         "en": "Drawn-out",
-        "fr": "Allongée"
+        "de": "Allongée"
       }
       },
       "Oval": {
         "labels": {
         "en": "Oval",
-        "fr": "Ovale"
+        "de": "Ovale"
       }
       },
       "Rechteckig": {
         "labels": {
         "en": "Rectangular",
-        "fr": "Rectangulaire"
+        "de": "Rectangulaire"
       }
       },
       "Regelmäßig": {
         "labels": {
         "en": "Regular",
-        "fr": "Régulière"
+        "de": "Régulière"
       }
       },
       "Rund": {
         "labels": {
         "en": "Round",
-        "fr": "Ronde"
+        "de": "Ronde"
       }
       },
       "Sanduhrförmig": {
         "labels": {
         "en": "Hourglasse shaped",
-        "fr": "En forme de sablier"
+        "de": "En forme de sablier"
       }
       },
       "Trapezförmig": {
         "labels": {
         "en": "Trapezoidal",
-        "fr": "Trapézoïdale"
+        "de": "Trapézoïdale"
       }
       },
       "Unregelmäßig": {
         "labels": {
         "en": "Irregular",
-        "fr": "Irrégulière"
+        "de": "Irrégulière"
       }
       },
       "Kesselförmig": {
         "labels": {
         "en": "Cauldron-shaped",
-        "fr": "En forme de chaudron"
+        "de": "En forme de chaudron"
       }
       },
       "Wannenförmig": {
         "labels": {
         "en": "Tub-shaped",
-        "fr": "En forme de baignoire"
+        "de": "En forme de baignoire"
       }
       },
       "Trichterförmig": {
         "labels": {
         "en": "Funnel-shaped",
-        "fr": "En forme d'entonnoir"
+        "de": "En forme d'entonnoir"
       }
       }
     }
@@ -10244,116 +10238,116 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Deutlich": {
         "labels": {
         "en": "Distinct",
-        "fr": "Distinctes"
+        "de": "Distinctes"
       }
       },
       "Diffus": {
         "labels": {
         "en": "Diffuse",
-        "fr": "Diffuses"
+        "de": "Diffuses"
       }
       },
       "Eben": {
         "labels": {
         "en": "Plain",
-        "fr": "Plaines"
+        "de": "Plaines"
       }
       },
       "Erahnbar": {
         "labels": {
         "en": "Perceivable",
-        "fr": "Devinables"
+        "de": "Devinables"
       }
       },
       "Erkennbar": {
         "labels": {
         "en": "Recognizable",
-        "fr": "Reconnaissables"
+        "de": "Reconnaissables"
       }
       },
       "Etwas verwaschen": {
         "labels": {
         "en": "Slightly washed out",
-        "fr": "Légèrement délavées"
+        "de": "Légèrement délavées"
       }
       },
       "Fließend": {
         "labels": {
         "en": "Smooth",
-        "fr": "Fluides"
+        "de": "Fluides"
       }
       },
       "Geneigt": {
         "labels": {
         "en": "Inclined",
-        "fr": "Inclinées"
+        "de": "Inclinées"
       }
       },
       "Gezackt": {
         "labels": {
         "en": "Jagged",
-        "fr": "Dentées"
+        "de": "Dentées"
       }
       },
       "Regelmäßig": {
         "labels": {
         "en": "Regular",
-        "fr": "Régulières"
+        "de": "Régulières"
       }
       },
       "Scharf": {
         "labels": {
         "en": "Sharp",
-        "fr": "Nettes"
+        "de": "Nettes"
       }
       },
       "Sehr deutlich": {
         "labels": {
         "en": "Very distinct",
-        "fr": "Très distinctes"
+        "de": "Très distinctes"
       }
       },
       "Undeutlich": {
         "labels": {
         "en": "Indistinct",
-        "fr": "Indistinctes"
+        "de": "Indistinctes"
       }
       },
       "Uneben": {
         "labels": {
         "en": "Uneven",
-        "fr": "Inégales"
+        "de": "Inégales"
       }
       },
       "Unklar": {
         "labels": {
         "en": "Not clear",
-        "fr": "Pas claires"
+        "de": "Pas claires"
       }
       },
       "Unregelmäßig": {
         "labels": {
         "en": "Irregular",
-        "fr": "Irrégulières"
+        "de": "Irrégulières"
       }
       },
       "Verwaschen": {
         "labels": {
         "en": "Washed-out",
-        "fr": "Délavées"
+        "de": "Délavées"
       }
       },
       "Wellig": {
         "labels": {
         "en": "Wavy",
-        "fr": "Ondulées"
+        "de": "Ondulées"
       }
       }
     }
@@ -10362,26 +10356,26 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Ja": {
         "labels": {
           "en": "Yes",
-          "fr": "Oui"
+          "de": "Oui"
         }
       },
       "Nein": {
         "labels": {
           "en": "No",
-          "fr": "Non"
+          "de": "Non"
         }
       },
       "Nicht notwendig": {
         "labels": {
           "en": "Not necessary",
-          "fr": "Pas nécessaire"
+          "de": "Pas nécessaire"
         }
       }
     },
@@ -10395,56 +10389,56 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Vorrömisch I. ca. 500-146 v. Chr. (punisch)": {
         "labels": {
           "en": "Pre-Roman I. ca. 500-146 BC (Punic)",
-          "fr": "Préromain I. env. 500–146 av. J.-C. (punique)"
+          "de": "Préromain I. env. 500–146 av. J.-C. (punique)"
         }
       },
       "Vorrömisch II. 146-31 v. Chr. (neopunisch)": {
         "labels": {
           "en": "Pre-Roman II. 146-31 BC (neo-Punic)",
-          "fr": "Préromain II. 146–31 av. J.-C. (néo-punique)"
+          "de": "Préromain II. 146–31 av. J.-C. (néo-punique)"
         }
       },
       "Frühe Kaiserzeit. 31 v. Chr. - 69 n. Chr. (augusteisch / iulisch-claudisch)": {
         "labels": {
           "en": "Early Empire. 31 BC – 69 AD (Augustan / Julio-Claudian)",
-          "fr": "Haut-Empire. 31 av. J.-C. – 69 ap. J.-C. (augustéen / julio-claudien)"
+          "de": "Haut-Empire. 31 av. J.-C. – 69 ap. J.-C. (augustéen / julio-claudien)"
         }
       },
       "Mittlere Kaiserzeit I. ca. 69-117 n. Chr. (flavisch - trajanisch)": {
         "labels": {
           "en": "Middle Empire I. ca. 69-117 AD (Flavian – Trajanic)",
-          "fr": "Moyen-Empire I. environ 69–117 ap. J.-C. (flavien – trajanien)"
+          "de": "Moyen-Empire I. environ 69–117 ap. J.-C. (flavien – trajanien)"
         }
       },
       "Mittlere Kaiserzeit II. 117-235 n. Chr. (hadrianisch - severisch)": {
         "labels": {
           "en": "Middle Empire II. 117–235 AD (Hadrianic – Severan)",
-          "fr": "Moyen-Empire II. 117–235 ap. J.-C. (hadrien – sévèrien)"
+          "de": "Moyen-Empire II. 117–235 ap. J.-C. (hadrien – sévèrien)"
         }
       },
       "Späte Kaiserzeit. 235-306 n. Chr. (Soldatenkaiser - tetrarchisch)": {
         "labels": {
           "en": "Late Empire. 235-306 AD (Military Anarchy – Tetrarchic)",
-          "fr": "Bas-Empire. 235–306 ap. J.-C. (anarchie militaire – tétrarchien)"
+          "de": "Bas-Empire. 235–306 ap. J.-C. (anarchie militaire – tétrarchien)"
         }
       },
       "Spätantike I.  306-530 n. Chr. (konstantinisch - vandalisch)": {
         "labels": {
           "en": "Late Antiquity I.  306-530 AD (Constantinian – Vandalic)",
-          "fr": "Antiquité tardive I. 306–530 ap. J.-C. (constantinien – vandale)"
+          "de": "Antiquité tardive I. 306–530 ap. J.-C. (constantinien – vandale)"
         }
       },
       "Spätantike II. 530-698 n. Chr. (byzantinisch)": {
         "labels": {
           "en": "Late Antiquity II. 530-698 AD (Byzantine)",
-          "fr": "Antiquité tardive II. 530–698 n. Chr. (byzantin)"
+          "de": "Antiquité tardive II. 530–698 n. Chr. (byzantin)"
         }
       },
       "Phase I": {},
@@ -10483,158 +10477,158 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Durch Brand versiegelt" : {
         "labels": {
         "en": "Fire sealed",
-        "fr": "Scellée par le feu"
+        "de": "Scellée par le feu"
       }
       },
       "Oberfläche abgewaschen": {
         "labels": {
         "en": "Surface washed off",
-        "fr": "Surface délavée"
+        "de": "Surface délavée"
       }
       },
       "Oberfläche verhärtet": {
         "labels": {
         "en": "Surface area hardened",
-        "fr": "Surface durcie"
+        "de": "Surface durcie"
       }
       },
       "Fest": {
         "labels": {
         "en": "Firm",
-        "fr": "Solide"
+        "de": "Solide"
       }
       },
       "Flüssig": {
         "labels": {
         "en": "Liquid",
-        "fr": "Liquide"
+        "de": "Liquide"
       }
       },
       "Gut formbar": {
         "labels": {
         "en": "Easily formable",
-        "fr": "Facilement formable"
+        "de": "Facilement formable"
       }
       },
       "Hart": {
         "labels": {
         "en": "Hard",
-        "fr": "Dure"
+        "de": "Dure"
       }
       },
       "Lehmig": {
         "labels": {
         "en": "Loamy",
-        "fr": "Argileuse"
+        "de": "Argileuse"
       }
       },
       "Locker": {
         "labels": {
         "en": "Loose",
-        "fr": "Meuble"
+        "de": "Meuble"
       }
       },
       "Mittel bindend": {
         "labels": {
         "en": "Medium binding",
-        "fr": "Moyennement agglomérante"
+        "de": "Moyennement agglomérante"
       }
       },
       "Mittel formbar": {
         "labels": {
         "en": "Medium formable",
-        "fr": "Moyennement formable"
+        "de": "Moyennement formable"
       }
       },
       "Nicht bindend": {
         "labels": {
         "en": "Not binding",
-        "fr": "Pas agglomérante"
+        "de": "Pas agglomérante"
       }
       },
       "Nicht formbar": {
         "labels": {
         "en": "Not formable",
-        "fr": "Pas formable"
+        "de": "Pas formable"
       }
       },
       "Porös": {
         "labels": {
         "en": "Porose",
-        "fr": "Poreuse"
+        "de": "Poreuse"
       }
       },
       "Sandig": {
         "labels": {
         "en": "Sandy",
-        "fr": "Sablonneuse"
+        "de": "Sablonneuse"
       }
       },
       "Schwach bindend": {
         "labels": {
         "en": "Hardly binding",
-        "fr": "Faiblement agglomérante"
+        "de": "Faiblement agglomérante"
       }
       },
       "Schwach formbar": {
         "labels": {
         "en": "Hardly formable",
-        "fr": "Faiblement formable"
+        "de": "Faiblement formable"
       }
       },
       "Sehr gut formbar": {
         "labels": {
         "en": "Very easily formable",
-        "fr": "Très facilement formable"
+        "de": "Très facilement formable"
       }
       },
       "Sehr hart": {
         "labels": {
         "en": "Very hard",
-        "fr": "Très dure"
+        "de": "Très dure"
       }
       },
       "Sehr schwach formbar": {
         "labels": {
         "en": "Most hardly binding",
-        "fr": "Très faiblement agglomérante"
+        "de": "Très faiblement agglomérante"
       }
       },
       "Sehr weich": {
         "labels": {
         "en": "Very soft",
-        "fr": "Très moelleuse"
+        "de": "Très moelleuse"
       }
       },
       "Stark bindend": {
         "labels": {
         "en": "Very binding",
-        "fr": "Très agglomérante"
+        "de": "Très agglomérante"
       }
       },
       "Steif": {
         "labels": {
         "en": "Stiff",
-        "fr": "Rigide"
+        "de": "Rigide"
       }
       },
       "Weich": {
         "labels": {
         "en": "Soft",
-        "fr": "Moelleuse"
+        "de": "Moelleuse"
       }
       },
       "Pulverig": {
         "labels": {
         "en": "Powdery",
-        "fr": "Poudreuse"
+        "de": "Poudreuse"
       }
       }
     }
@@ -10643,116 +10637,116 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Sand": {
         "labels": {
         "en": "Sand",
-        "fr": "Sable"
+        "de": "Sable"
       }
       },
       "Feinstsand": {
         "labels": {
         "en": "Very fine sand",
-        "fr": "Sable très fin"
+        "de": "Sable très fin"
       }
       },
       "Feinsand": {
         "labels": {
         "en": "Fine sand",
-        "fr": "Sable fin"
+        "de": "Sable fin"
       }
       },
       "Mittlerer Sand": {
         "labels": {
         "en": "Medium sand",
-        "fr": "Sable de taille moyenne"
+        "de": "Sable de taille moyenne"
       }
       },
       "Grobsand": {
         "labels": {
         "en": "Coarse sand",
-        "fr": "Sable grossier"
+        "de": "Sable grossier"
       }
       },
       "Sandiger Schluff": {
         "labels": {
         "en": "Sandy silt",
-        "fr": "Limon sablonneux"
+        "de": "Limon sablonneux"
       }
       },
       "Sandiger Ton": {
         "labels": {
         "en": "Sandy clay",
-        "fr": "Argile sablonneuse"
+        "de": "Argile sablonneuse"
       }
       },
       "Sandiger Lehm": {
         "labels": {
         "en": "Sandy loam",
-        "fr": "Glaise sablonneuse"
+        "de": "Glaise sablonneuse"
       }
       },
       "Schluff": {
         "labels": {
         "en": "Silt",
-        "fr": "Limon"
+        "de": "Limon"
       }
       },
       "Schluffiger Sand": {
         "labels": {
         "en": "Silty sand",
-        "fr": "Sable limoneux"
+        "de": "Sable limoneux"
       }
       },
       "Schluffiger Ton": {
         "labels": {
         "en": "Silty clay",
-        "fr": "Argile limoneuse"
+        "de": "Argile limoneuse"
       }
       },
       "Schluffiger Lehm": {
         "labels": {
         "en": "Silty loam",
-        "fr": "Glaise limoneuse"
+        "de": "Glaise limoneuse"
       }
       },
       "Ton": {
         "labels": {
         "en": "Clay",
-        "fr": "Argile"
+        "de": "Argile"
       }
       },
       "Toniger Sand": {
         "labels": {
         "en": "Clayey sand",
-        "fr": "Sable argileux"
+        "de": "Sable argileux"
       }
       },
       "Toniger Schluff": {
         "labels": {
         "en": "Clayey silt",
-        "fr": "Limon argileux"
+        "de": "Limon argileux"
       }
       },
       "Toniger Lehm": {
         "labels": {
         "en": "Clayey loam",
-        "fr": "Glaise argileuse"
+        "de": "Glaise argileuse"
       }
       },
       "Lehm": {
         "labels": {
         "en": "Loam",
-        "fr": "Glaise"
+        "de": "Glaise"
       }
       },
       "Mergel": {
         "labels": {
         "en": "Marl",
-        "fr": "Marne"
+        "de": "Marne"
       }
       }
     }
@@ -10761,80 +10755,80 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Natürliche Ablagerung": {
         "labels": {
         "en": "Natural deposit",
-        "fr": "Dépôt naturel"
+        "de": "Dépôt naturel"
       }
       },
       "Absichtliche Deponierung": {
         "labels": {
         "en": "Intentional deposit",
-        "fr": "Dépôt intentionnel"
+        "de": "Dépôt intentionnel"
       }
       },
       "Anhäufung": {
         "labels": {
         "en": "Accumulation",
-        "fr": "Accumulation"
+        "de": "Accumulation"
       }
       },
       "Versturzschicht": {
         "labels": {
         "en": "Collapse",
-        "fr": "Écroulement"
+        "de": "Écroulement"
       }
       },
       "Verfüllung": {
         "labels": {
         "en": "Fill",
-        "fr": "Remplissage"
+        "de": "Remplissage"
       }
       },
       "Arbeitsniveau": {
         "labels": {
         "en": "Working level",
-        "fr": "Niveau opérationnel"
+        "de": "Niveau opérationnel"
       }
       },
       "Anschüttung": {
         "labels": {
         "en": "Backfill",
-        "fr": "Remblaiement"
+        "de": "Remblaiement"
       }
       },
       "Stampflehm": {
         "labels": {
         "en": "Rammed earth",
-        "fr": "Terre battue"
+        "de": "Terre battue"
       }
       },
       "Brandschicht": {
         "labels": {
         "en": "Burnt layer",
-        "fr": "Couche brûlée"
+        "de": "Couche brûlée"
       }
       },
       "Planierschicht": {
         "labels": {
         "en": "Levelling",
-        "fr": "Nivellement"
+        "de": "Nivellement"
       }
       },
       "Laufhorizont": {
         "labels":{
           "en": "Occupation layer",
-          "fr": "Couche d'occupation"
+          "de": "Couche d'occupation"
         }
       },
       "Sonstiges": {
         "labels":{
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -10843,98 +10837,98 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Abfallgrube": {
         "labels": {
         "en": "Rubbish pit",
-        "fr": "Fosse à déchets"
+        "de": "Fosse à déchets"
       }
       },
       "Brunnen": {
         "labels": {
         "en": "Well",
-        "fr": "Fontaine"
+        "de": "Fontaine"
       }
       },
       "Feuerstelle": {
         "labels": {
         "en": "Fire pit",
-        "fr": "Fosse à feu"
+        "de": "Fosse à feu"
       }
       },
       "Graben": {
         "labels": {
         "en": "Ditch",
-        "fr": "Tranchée"
+        "de": "Tranchée"
       }
       },
       "Grube": {
         "labels": {
         "en": "Pit",
-        "fr": "Fosse"
+        "de": "Fosse"
       }
       },
       "Ofen": {
         "labels": {
         "en": "Kiln",
-        "fr": "Four"
+        "de": "Four"
       }
       },
       "Pfostenloch": {
         "labels": {
         "en": "Post hole",
-        "fr": "Trou de poteau"
+        "de": "Trou de poteau"
       }
       },
       "Pflugspur": {
         "labels": {
         "en": "Plough mark",
-        "fr": "Piste de charrue"
+        "de": "Piste de charrue"
       }
       },
       "Tiergang": {
         "labels": {
         "en": "Animal burrow",
-        "fr": "Terrier"
+        "de": "Terrier"
       }
       },
       "Wurzelkanal": {
         "labels": {
         "en": "Root canal",
-        "fr": "Canal racinaire"
+        "de": "Canal racinaire"
       }
       },
       "Zerstörte Mauer": {
         "labels": {
         "en": "Destroyed wall",
-        "fr": "Mur détruit"
+        "de": "Mur détruit"
       }
       },
       "Zerstörter Boden": {
         "labels": {
         "en": "Destroyed floor",
-        "fr": "Plancher détruit"
+        "de": "Plancher détruit"
       }
       },
       "Raubgräberloch": {
         "labels": {
         "en": "Robber trench",
-        "fr": "Tranchée des voleurs"
+        "de": "Tranchée des voleurs"
       }
       },
       "Drainage": {
         "labels": {
         "en": "Drainage",
-        "fr": "Drainage"
+        "de": "Drainage"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -10943,86 +10937,86 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Aufgehendes Mauerwerk": {
         "labels": {
         "en": "Rising masonry",
-        "fr": "Maçonnerie en hausse"
+        "de": "Maçonnerie en hausse"
       }
       },
       "Fensterzusetzung": {
         "labels": {
         "en": "Window filling",
-        "fr": "Remplissage de fenêtre"
+        "de": "Remplissage de fenêtre"
       }
       },
       "Flickung": {
         "labels": {
         "en": "Mending",
-        "fr": "Réparation"
+        "de": "Réparation"
       }
       },
       "Fundament": {
         "labels": {
         "en": "Foundation",
-        "fr": "Fondation"
+        "de": "Fondation"
       }
       },
       "Gewölbe": {
         "labels": {
         "en": "Vaulting",
-        "fr": "Voûte"
+        "de": "Voûte"
       }
       },
       "Mauer": {
         "labels": {
         "en": "Wall",
-        "fr": "Mur"
+        "de": "Mur"
       }
       },
       "Mauerbettung": {
         "labels": {
         "en": "Masonry bedding",
-        "fr": "Literie murale"
+        "de": "Literie murale"
       }
       },
       "Mauerdurchbruch": {
         "labels": {
         "en": "Wall breakthrough",
-        "fr": "Percée du mur"
+        "de": "Percée du mur"
       }
       },
       "Mosaik": {
         "labels": {
         "en": "Mosaic",
-        "fr": "Mosaïque"
+        "de": "Mosaïque"
       }
       },
       "Opus sectile": {
         "labels": {
         "en": "Opus sectile",
-        "fr": "Opus sectile"
+        "de": "Opus sectile"
       }
       },
       "Türzusetzung": {
         "labels": {
         "en": "Door filling",
-        "fr": "Remplissage de porte"
+        "de": "Remplissage de porte"
       }
       },
       "Wandgestaltung": {
         "labels": {
         "en": "Wall design",
-        "fr": "Décoration murale"
+        "de": "Décoration murale"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11031,62 +11025,62 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Außenmauer": {
         "labels": {
         "en": "External wall",
-        "fr": "Mur extérieur"
+        "de": "Mur extérieur"
       }
       },
       "Befestigungsmauer": {
         "labels": {
         "en": "Fortification wall",
-        "fr": "Mur de fortification"
+        "de": "Mur de fortification"
       }
       },
       "Blockmauerwerk": {
         "labels": {
         "en": "Block masonry",
-        "fr": "Maçonnerie en blocs"
+        "de": "Maçonnerie en blocs"
       }
       },
       "Bruchsteinmauer": {
         "labels": {
         "en": "Rubble wall",
-        "fr": "Mur des moellons"
+        "de": "Mur des moellons"
       }
       },
       "Fachwerk": {
         "labels": {
         "en": "Timber framing",
-        "fr": "Pan de bois"
+        "de": "Pan de bois"
       }
       },
       "Feldsteinmauer": {
         "labels": {
         "en": "Fieldstone wall",
-        "fr": "Mur de pierre locale"
+        "de": "Mur de pierre locale"
       }
       },
       "Grenzmauer": {
         "labels": {
         "en": "Border wall",
-        "fr": "Mur de frontière"
+        "de": "Mur de frontière"
       }
       },
       "Ziegelmauer": {
         "labels": {
         "en": "Brick wall",
-        "fr": "Mur en briques"
+        "de": "Mur en briques"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11095,62 +11089,62 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Fundament: Geschüttet": {
         "labels": {
         "en": "Piled foundation",
-        "fr": "Fondation en tas"
+        "de": "Fondation en tas"
       }
       },
       "Fundament: Gesetzt": {
         "labels": {
         "en": "Set foundation",
-        "fr": "Fondation posée"
+        "de": "Fondation posée"
       }
       },
       "Mauerkern: Lesesteine": {
         "labels": {
         "en": "Wall core: Rubblestones",
-        "fr": "Noyau du mur: Pierres ramassées"
+        "de": "Noyau du mur: Pierres ramassées"
       }
       },
       "Einschalig vor Feld/Hang": {
         "labels": {
         "en": "Single-leaf masonry in front of field/slope",
-        "fr": "Maçonnerie monocoque devant un champ/pente"
+        "de": "Maçonnerie monocoque devant un champ/pente"
       }
       },
       "Ohne Schalen/keine durchgehenden Lagen": {
         "labels": {
         "en": "No leaves/no continuous layers",
-        "fr": "Pas de coques/pas de couches continues"
+        "de": "Pas de coques/pas de couches continues"
       }
       },
       "Ohne Schalen/nur durchgehende Lagen": {
         "labels": {
         "en": "No leaves/only continuous layers",
-        "fr": "Pas de coques/seulement couches continues"
+        "de": "Pas de coques/seulement couches continues"
       }
       },
       "Zweischalig": {
         "labels": {
         "en": "Double-leaf masonry",
-        "fr": "Maçonnerie à deux coques"
+        "de": "Maçonnerie à deux coques"
       }
       },
       "Zweischalig mit Binderlagen": {
         "labels": {
         "en": "Double-leaf masonry with header courses",
-        "fr": "Maçonnerie à deux coques avec des couches de liant"
+        "de": "Maçonnerie à deux coques avec des couches de liant"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11159,56 +11153,56 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Binderverband": {
         "labels": {
         "en": "Header bond",
-        "fr": "Appareil en boutisse"
+        "de": "Appareil en boutisse"
       }
       },
       "Blockverband": {
         "labels": {
         "en": "Block bond",
-        "fr": "Appareil en blocs"
+        "de": "Appareil en blocs"
       }
       },
       "Flämischer Verband": {
         "labels": {
         "en": "Flemish bond",
-        "fr": "Appareil flamand"
+        "de": "Appareil flamand"
       }
       },
       "Holländischer Verband": {
         "labels": {
         "en": "Dutch bond",
-        "fr": "Appareil hollandais"
+        "de": "Appareil hollandais"
       }
       },
       "Kreuzverband": {
         "labels": {
         "en": "Cross bond",
-        "fr": "Appareil à croisettes"
+        "de": "Appareil à croisettes"
       }
       },
       "Läuferverband": {
         "labels": {
         "en": "Stretcher bond",
-        "fr": "Appareil en liants"
+        "de": "Appareil en liants"
       }
       },
       "Märkischer Verband": {
         "labels": {
         "en": "Markish bond",
-        "fr": "Appareil marche"
+        "de": "Appareil marche"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11217,50 +11211,50 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Bossiert": {
         "labels": {
         "en": "Embossed",
-        "fr": "Ébauché"
+        "de": "Ébauché"
       }
       },
       "Unbehauen": {
         "labels": {
         "en": "Unworked",
-        "fr": "Pas travaillé"
+        "de": "Pas travaillé"
       }
       },
       "Grob behauen": {
         "labels": {
         "en": "Roughly hewn",
-        "fr": "Dégrossé"
+        "de": "Dégrossé"
       }
       },
       "Behauen": {
         "labels": {
         "en": "Squared",
-        "fr": "Quadrillé"
+        "de": "Quadrillé"
       }
       },
       "Gemischt": {
         "labels": {
         "en": "Mixed",
-        "fr": "Mixte"
+        "de": "Mixte"
       }
       },
       "Bearbeitete Oberfläche": {
         "labels": {
         "en": "Tooled surface",
-        "fr": "Surface travaillée"
+        "de": "Surface travaillée"
       }
       },
       "Polierte Oberfläche": {
         "labels": {
         "en": "Polished surface",
-        "fr": "Surface polie"
+        "de": "Surface polie"
       }
       }
     }
@@ -11269,38 +11263,38 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Bruchsteine": {
         "labels": {
         "en": "Rubblestones",
-        "fr": "Moellons"
+        "de": "Moellons"
       }
       },
       "Hausteine": {
         "labels": {
         "en": "Cut stones",
-        "fr": "Pierres sculptées"
+        "de": "Pierres sculptées"
       }
       },
       "Lesesteine": {
         "labels": {
         "en": "Field stones",
-        "fr": "Pierres ramassées"
+        "de": "Pierres ramassées"
       }
       },
       "Werksteine": {
         "labels": {
         "en": "Freestones",
-        "fr": "Pierres de taille"
+        "de": "Pierres de taille"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11309,32 +11303,32 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Dominant": {
         "labels": {
         "en": "Dominant",
-        "fr": "Dominant"
+        "de": "Dominant"
       }
       },
       "Gering": {
         "labels": {
         "en": "Low",
-        "fr": "Insignifiant"
+        "de": "Insignifiant"
       }
       },
       "Hoch": {
         "labels": {
         "en": "High",
-        "fr": "Haut"
+        "de": "Haut"
       }
       },
       "Mittel": {
         "labels": {
         "en": "Medium",
-        "fr": "Moyen"
+        "de": "Moyen"
       }
       }
     }
@@ -11343,56 +11337,56 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Brüchig": {
         "labels": {
         "en": "Brittle",
-        "fr": "Pailleuse"
+        "de": "Pailleuse"
       }
       },
       "Erdig/lehmig": {
         "labels": {
         "en": "Earthy/loamy",
-        "fr": "Terreuse/argileuse"
+        "de": "Terreuse/argileuse"
       }
       },
       "Fest": {
         "labels": {
         "en": "Firm",
-        "fr": "Solide"
+        "de": "Solide"
       }
       },
       "Hart": {
         "labels": {
         "en": "Hard",
-        "fr": "Dure"
+        "de": "Dure"
       }
       },
       "Locker": {
         "labels": {
         "en": "Loose",
-        "fr": "Meuble"
+        "de": "Meuble"
       }
       },
       "Mittelfein": {
         "labels": {
         "en": "Medium-fine",
-        "fr": "Mi-fine"
+        "de": "Mi-fine"
       }
       },
       "Pulverig": {
         "labels": {
         "en": "Powdery",
-        "fr": "Poudreuse"
+        "de": "Poudreuse"
       }
       },
       "Sandig": {
         "labels": {
         "en": "Sandy",
-        "fr": "Sablonneuse"
+        "de": "Sablonneuse"
       }
       }
     }
@@ -11401,38 +11395,38 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Sehr gut": {
         "labels": {
           "en": "Very good",
-          "fr": "Très bonne"
+          "de": "Très bonne"
         }
       },
       "Gut": {
         "labels": {
           "en": "Good",
-          "fr": "Bonne"
+          "de": "Bonne"
         }
       },
       "Mittel": {
         "labels": {
           "en": "Medium",
-          "fr": "Moyenne"
+          "de": "Moyenne"
         }
       },
       "Schlecht": {
         "labels": {
           "en": "Bad",
-          "fr": "Mauvaise"
+          "de": "Mauvaise"
         }
       },
       "Sehr schlecht": {
         "labels": {
           "en": "Very bad",
-          "fr": "Très mauvaise"
+          "de": "Très mauvaise"
         }
       }
     },
@@ -11448,38 +11442,38 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Fragmentarisch": {
         "labels": {
         "en": "Fragmentary",
-        "fr": "Fragmentaire"
+        "de": "Fragmentaire"
       }
       },
       "Teilweise erhalten": {
         "labels": {
         "en": "Partially preserved",
-        "fr": "Partiellement preservé"
+        "de": "Partiellement preservé"
       }
       },
       "Vollständig": {
         "labels": {
         "en": "Complete",
-        "fr": "Complet"
+        "de": "Complet"
       }
       },
       "Zerstört": {
         "labels": {
         "en": "Destroyed",
-        "fr": "Détruis"
+        "de": "Détruis"
       }
       },
       "Restauriert": {
         "labels": {
         "en": "Restored",
-        "fr": "Restauré"
+        "de": "Restauré"
       }
       }
     }
@@ -11488,104 +11482,104 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Stampflehm": {
         "labels": {
         "en": "Beaten earth",
-        "fr": "Terre battue"
+        "de": "Terre battue"
       }
       },
       "Pflaster": {
         "labels": {
         "en": "Plaster",
-        "fr": "Pavement"
+        "de": "Pavement"
       }
       },
       "Ziegel": {
         "labels": {
         "en": "Bricks or tiles",
-        "fr": "Briques ou tuiles"
+        "de": "Briques ou tuiles"
       }
       },
       "Opus alexandrinum": {
         "labels": {
         "en": "Opus alexandrinum",
-        "fr": "Opus alexandrinum"
+        "de": "Opus alexandrinum"
       }
       },
       "Opus barbaricum": {
         "labels": {
         "en": "Opus barbaricum",
-        "fr": "Opus barbaricum"
+        "de": "Opus barbaricum"
       }
       },
       "Opus musivum (tesserae)": {
         "labels": {
         "en": "Opus musivum (tesserae)",
-        "fr": "Opus musivum (tesserae)"
+        "de": "Opus musivum (tesserae)"
       }
       },
       "Kieselmosaik": {
         "labels": {
         "en": "Pebble mosaic",
-        "fr": "Mosaïque de cailloux"
+        "de": "Mosaïque de cailloux"
       }
       },
       "Opus scutulatum": {
         "labels": {
         "en": "Opus scutulatum",
-        "fr": "Opus scutulatum"
+        "de": "Opus scutulatum"
       }
       },
       "Opus sectile": {
         "labels": {
         "en": "Opus sectile",
-        "fr": "Opus sectile"
+        "de": "Opus sectile"
       }
       },
       "Opus segmentatum": {
         "labels": {
         "en": "Opus segmentatum",
-        "fr": "Opus segmentatum"
+        "de": "Opus segmentatum"
       }
       },
       "Opus signinum (cocciopesto)": {
         "labels": {
         "en": "Opus signinum (cocciopesto)",
-        "fr": "Opus signinum (cocciopesto)"
+        "de": "Opus signinum (cocciopesto)"
       }
       },
       "Opus spicatum": {
         "labels": {
         "en": "Opus spicatum",
-        "fr": "Opus spicatum"
+        "de": "Opus spicatum"
       }
       },
       "Opus tessellatum": {
         "labels": {
         "en": "Opus tessellatum",
-        "fr": "Opus tessellatum"
+        "de": "Opus tessellatum"
       }
     },
       "Opus vermiculatum": {
         "labels": {
         "en": "Opus vermiculatum",
-        "fr": "Opus vermiculatum"
+        "de": "Opus vermiculatum"
       }
     },
       "Mörtelfußboden":{
         "labels":{
         "en": "Mortar flooring",
-        "fr": "Plancher en mortier"
+        "de": "Plancher en mortier"
       }
     },
       "Sonstiges": {
         "labels": {
         "en": "Other",
-        "fr": "Autre"
+        "de": "Autre"
       }
       }
     }
@@ -11594,56 +11588,56 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Norden": {
         "labels": {
         "en": "North",
-        "fr": "Nord"
+        "de": "Nord"
       }
       },
       "Nordost": {
         "labels": {
         "en": "Northeast",
-        "fr": "Nord-est"
+        "de": "Nord-est"
       }
       },
       "Nordwest": {
         "labels": {
         "en": "Northwest",
-        "fr": "Nord-ouest"
+        "de": "Nord-ouest"
       }
       },
       "Osten": {
         "labels": {
         "en": "East",
-        "fr": "Est"
+        "de": "Est"
       }
       },
       "Süden": {
         "labels": {
         "en": "South",
-        "fr": "Sud"
+        "de": "Sud"
       }
       },
       "Südost": {
         "labels": {
         "en": "Southeast",
-        "fr": "Sud-est"
+        "de": "Sud-est"
       }
       },
       "Südwest": {
         "labels": {
         "en": "Southwest",
-        "fr": "Sud-ouest"
+        "de": "Sud-ouest"
       }
       },
       "Westen": {
         "labels": {
         "en": "West",
-        "fr": "Ouest"
+        "de": "Ouest"
       }
       }
     }
@@ -11652,32 +11646,32 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Feinsand": {
         "labels": {
         "en": "Fine sand",
-        "fr": "Sablon"
+        "de": "Sablon"
       }
       },
       "Grus": {
         "labels": {
         "en": "Grit",
-        "fr": "Menu"
+        "de": "Menu"
       }
       },
       "Sand": {
         "labels": {
         "en": "Sand",
-        "fr": "Sable"
+        "de": "Sable"
       }
       },
       "Sonstiges": {
         "labels": {
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11686,56 +11680,56 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Ungebrannte oder gebrannte Ziegel": {
         "labels": {
         "en": "Adobe/mud-brick",
-        "fr": "Briques crues ou cuites"
+        "de": "Briques crues ou cuites"
       }
       },
       "Opus craticium": {
         "labels": {
         "en": "Opus craticium",
-        "fr": "Opus craticium"
+        "de": "Opus craticium"
       }
       },
       "Flechtwerk": {
         "labels": {
         "en": "Wicker work",
-        "fr": "Cannage"
+        "de": "Cannage"
       }
       },
       "Unregelmäßige unbearbeitete Steine oder Kiesel": {
         "labels": {
         "en": "Irregular unworked stone or cobbles",
-        "fr": "Pierres irregulières pas travaillées ou cailloux"
+        "de": "Pierres irregulières pas travaillées ou cailloux"
       }
       },
       "Quadersteine": {
         "labels": {
         "en": "Ashlar (blocks)",
-        "fr": "Blocs"
+        "de": "Blocs"
       }
       },
       "Beton": {
         "labels": {
         "en": "Concrete",
-        "fr": "Béton"
+        "de": "Béton"
       }
       },
       "Opus caementicium": {
         "labels": {
         "en": "Opus caementicium",
-        "fr": "Opus caementicium"
+        "de": "Opus caementicium"
       }
       },
       "Sonstiges": {
         "labels": {
         "en": "Other",
-        "fr": "Autre"
+        "de": "Autre"
       }
       }
     }
@@ -11744,14 +11738,14 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Opus siliceum (polygonal)": {
         "labels": {
         "en": "Opus siliceum (polygonal)",
-        "fr": "Opus siliceum (polygonal)"
+        "de": "Opus siliceum (polygonal)"
       }
       },
       "Opus quadratum": {},
@@ -11764,7 +11758,7 @@
       "Opus testaceum/latericium (Dachziegel, Ziegel oder dreieckige Ziegel)": {
         "labels": {
         "en": "Opus testaceum/latericium (Tiles, bricks or triangular bricks)",
-        "fr": "Opus testaceum/latericium (Tuiles, briques ou briques triangulaires)"
+        "de": "Opus testaceum/latericium (Tuiles, briques ou briques triangulaires)"
       }
       },
       "Opus signinum (cocciopesto)": {},
@@ -11772,13 +11766,13 @@
       "Opus vittatum/listatum (Ziegel und kleine Tuffsteine)": {
         "labels": {
         "en": "Opus vittatum/listatum (bricks and small tuff stones)",
-        "fr": "Opus vittatum/listatum (briques et petits tuffeaux)"
+        "de": "Opus vittatum/listatum (briques et petits tuffeaux)"
       }
       },
       "Sonstiges": {
         "labels": {
         "en": "Other",
-        "fr": "Autre"
+        "de": "Autre"
       }
       }
     }
@@ -11787,104 +11781,104 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Abflussöffnung": {
         "labels": {
         "en": "Drain hole",
-        "fr": "Trou de drainage"
+        "de": "Trou de drainage"
       }
       },
       "Angelloch": {
         "labels": {
         "en": "Hinge hole",
-        "fr": "Trou de charnière de porte"
+        "de": "Trou de charnière de porte"
       }
       },
       "Balkenloch": {
         "labels": {
         "en": "Beam hole",
-        "fr": "Trou de poutre"
+        "de": "Trou de poutre"
       }
       },
       "Bleirohr": {
         "labels": {
         "en": "Lead pipe",
-        "fr": "Tuyau en plomb"
+        "de": "Tuyau en plomb"
       }
       },
       "Durchgang/Tür": {
         "labels": {
         "en": "Passageway/door",
-        "fr": "Passage/porte"
+        "de": "Passage/porte"
       }
       },
       "Entlastungsbogen": {
         "labels": {
         "en": "Discharging arch",
-        "fr": "Linteau en arc"
+        "de": "Linteau en arc"
       }
       },
       "Fallrohr": {
         "labels": {
         "en": "Downpipe",
-        "fr": "Tuyau de descente"
+        "de": "Tuyau de descente"
       }
       },
       "Fenster": {
         "labels": {
         "en": "Window",
-        "fr": "Fenêtre"
+        "de": "Fenêtre"
       }
       },
       "Fontäne": {
         "labels": {
         "en": "Fountain",
-        "fr": "Fontaine"
+        "de": "Fontaine"
       }
       },
       "Halbsäule": {
         "labels": {
         "en": "Semicolumn",
-        "fr": "Demi-colonne"
+        "de": "Demi-colonne"
       }
       },
       "Laibung": {
         "labels": {
         "en": "Jamb",
-        "fr": "Tableau"
+        "de": "Tableau"
       }
       },
       "Nische": {
         "labels": {
         "en": "Niche",
-        "fr": "Niche"
+        "de": "Niche"
       }
       },
       "Regalloch": {
         "labels": {
         "en": "Shelf hole",
-        "fr": "Trou d'étagère"
+        "de": "Trou d'étagère"
       }
       },
       "Riegelloch": {
         "labels": {
         "en": "Latch hole",
-        "fr": "Trou de boulon"
+        "de": "Trou de boulon"
       }
       },
       "Sonstiges Loch": {
         "labels": {
         "en": "Other hole",
-        "fr": "Autre trou"
+        "de": "Autre trou"
       }
       },
       "Sturzauflager": {
         "labels": {
         "en": "Lintel support",
-        "fr": "Support de chute"
+        "de": "Support de chute"
       }
       }
     }
@@ -11893,7 +11887,7 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
@@ -11902,7 +11896,7 @@
       "Djougar": {},
       "Unbekannt": {
         "labels": {
-          "fr": "Inconnu",
+          "de": "Inconnu",
           "en": "Unknown"
         }
       }
@@ -11912,56 +11906,56 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Holzkohle": {
         "labels": {
         "en": "Charcoal",
-        "fr": "Charbon"
+        "de": "Charbon"
       }
       },
       "Mörtel": {
         "labels": {
         "en": "Mortar",
-        "fr": "Mortier"
+        "de": "Mortier"
       }
       },
       "Bodenprobe": {
         "labels": {
         "en": "Soil",
-        "fr": "Sol"
+        "de": "Sol"
       }
       },
       "Holz": {
         "labels": {
         "en": "Wood",
-        "fr": "Bois"
+        "de": "Bois"
       }
       },
       "Stein":{
         "labels": {
         "en": "Stone",
-        "fr": "Pierre"
+        "de": "Pierre"
       }
       },
       "Keramik": {
         "labels": {
         "en": "Ceramics",
-        "fr": "Céramique"
+        "de": "Céramique"
       }
       },
       "Putz": {
         "labels": {
         "en": "Plaster",
-        "fr": "Enduit"
+        "de": "Enduit"
       }
       },
       "Sonstiges":{
         "labels":{
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       }
     }
@@ -11970,44 +11964,44 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Bodenprobe": {
         "labels": {
         "en": "Soil sample",
-        "fr": "Échantillon de sol"
+        "de": "Échantillon de sol"
       }
       },
       "C14-Analyse": {
         "labels": {
         "en": "C14 analysis",
-        "fr": "Analyse du C14"
+        "de": "Analyse du C14"
       }
       },
       "Dendroprobe": {
         "labels": {
         "en": "Sample for dendrochronology",
-        "fr": "Échantillon pour étude dendrochronologique"
+        "de": "Échantillon pour étude dendrochronologique"
       }
       },
       "Hammerschlagsprobe": {
         "labels": {
         "en": "Scale test",
-        "fr": "Test de calamine"
+        "de": "Test de calamine"
       }
       },
       "Phosphatanalyse": {
         "labels": {
         "en": "Phosphate analysis",
-        "fr": "Analyse de phosphate"
+        "de": "Analyse de phosphate"
       }
       },
       "Pollenanalyse": {
         "labels": {
         "en": "Pollen analysis",
-        "fr": "Analyse du pollen"
+        "de": "Analyse du pollen"
       }
       }
     }
@@ -12020,49 +12014,49 @@
       "N-S": {
         "labels": {
         "en": "N-S",
-        "fr": "N-S"
+        "de": "N-S"
       }
       },
       "NNO-SSW": {
         "labels": {
         "en": "NNE-SSW",
-        "fr": "N.N.E.-S.S.O."
+        "de": "N.N.E.-S.S.O."
       }
       },
       "NNW-SSO": {
         "labels": {
         "en": "NNW-SSE",
-        "fr": "N.N.O.-S.S.E."
+        "de": "N.N.O.-S.S.E."
       }
       },
       "NO-SW": {
         "labels": {
         "en": "NE-SW",
-        "fr": "N.E.-S.O."
+        "de": "N.E.-S.O."
       }
       },
       "NW-SO": {
         "labels": {
         "en": "NW-SE",
-        "fr": "N.O.-S.E."
+        "de": "N.O.-S.E."
       }
       },
       "W-O": {
         "labels": {
         "en": "W-E",
-        "fr": "O.-E."
+        "de": "O.-E."
       }
       },
       "WNW-OSO": {
         "labels": {
         "en": "WNW-ESE",
-        "fr": "O.N.O.-E.S.E."
+        "de": "O.N.O.-E.S.E."
       }
       },
       "WSW-ONO": {
         "labels": {
         "en": "WSW-ENE",
-        "fr": "O.S.O.-E.N.E."
+        "de": "O.S.O.-E.N.E."
       }
       }
     }
@@ -12071,68 +12065,68 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Befliegung" : {
         "labels": {
         "en": "Flying",
-        "fr": "Voler"
+        "de": "Voler"
       }
       },
       "Begehung" : {
         "labels": {
         "en": "Inspection",
-        "fr": "Inspection"
+        "de": "Inspection"
       }
       },
       "Geoelektrik" : {
         "labels": {
         "en": "Geoelectrics",
-        "fr": "Géoélectricité"
+        "de": "Géoélectricité"
       }
       },
       "Geomagnetik" : {
         "labels": {
         "en": "Geomagnetics",
-        "fr": "Géomagnétique"
+        "de": "Géomagnétique"
       }
       },
       "Georadar" : {
         "labels": {
         "en": "Georadar",
-        "fr": "Georadar"
+        "de": "Georadar"
       }
       },
       "LIDAR" : {
         "labels": {
         "en": "LIDAR",
-        "fr": "LIDAR"
+        "de": "LIDAR"
       }
       },
       "Luft- oder Satellitenbilder" : {
         "labels": {
         "en": "Aerial or satellite imagery",
-        "fr": "Imagerie aérienne ou satellitaire"
+        "de": "Imagerie aérienne ou satellitaire"
       }
       },
       "Quadratisch" : {
         "labels": {
         "en": "Square",
-        "fr": "Carré"
+        "de": "Carré"
       }
       },
       "Regelmäßig" : {
         "labels": {
         "en": "Regular",
-        "fr": "Régulier"
+        "de": "Régulier"
       }
       },
       "Seismik" : {
         "labels": {
         "en": "Seismology",
-        "fr": "Sismologie"
+        "de": "Sismologie"
       }
       }
     }
@@ -12141,146 +12135,146 @@
     "createdBy": "",
     "creationDate": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Altar": {
         "labels": {
         "en": "Altar",
-        "fr": "Autel"
+        "de": "Autel"
       }
       },
       "Amphitheater": {
         "labels": {
         "en": "Amphitheatre",
-        "fr": "Amphithéâtre"
+        "de": "Amphithéâtre"
       }
       },
       "Basilika": {
         "labels": {
         "en": "Basilica",
-        "fr": "Basilique"
+        "de": "Basilique"
       }
       },
       "Bogen": {
         "labels": {
         "en": "Arch",
-        "fr": "Arc"
+        "de": "Arc"
       }
       },
       "Brücke": {
         "labels": {
         "en": "Bridge",
-        "fr": "Pont"
+        "de": "Pont"
       }
       },
       "Circus": {
         "labels": {
         "en": "Circus",
-        "fr": "Cirque"
+        "de": "Cirque"
       }
       },
       "Grabmonument": {
         "labels": {
         "en": "Tomb monument",
-        "fr": "Monument funéraire"
+        "de": "Monument funéraire"
       }
       },
       "Gymnasion": {
         "labels": {
         "en": "Gymnasium",
-        "fr": "Gymnase"
+        "de": "Gymnase"
       }
       },
       "Mauerkurtine": {
         "labels": {
         "en": "Wall curtin",
-        "fr": "Curtin mural"
+        "de": "Curtin mural"
       }
       },
       "Nymphäum": {
         "labels": {
         "en": "Nymphaeum",
-        "fr": "Nymphée"
+        "de": "Nymphée"
       }
       },
       "Odeion": {
         "labels": {
         "en": "Odeon",
-        "fr": "Odéon"
+        "de": "Odéon"
       }
       },
       "Straße (innerhalb einer Siedlung)": {
         "labels": {
         "en": "Street",
-        "fr": "Rue"
+        "de": "Rue"
       }
       },
       "Straße (außerhalb einer Siedlung)": {
         "labels": {
         "en": "Road",
-        "fr": "Route"
+        "de": "Route"
       }
       },
       "Stützmauer": {
         "labels": {
         "en": "Retaining wall",
-        "fr": "Mur de soutènement"
+        "de": "Mur de soutènement"
       }
       },
       "Säulenhalle": {
         "labels": {
         "en": "Portico",
-        "fr": "Portique"
+        "de": "Portique"
       }
       },
       "Tempel": {
         "labels": {
         "en": "Temple",
-        "fr": "Temple"
+        "de": "Temple"
       }
       },
       "Theater": {
         "labels": {
         "en": "Theatre",
-        "fr": "Théâtre"
+        "de": "Théâtre"
       }
       },
       "Therme": {
         "labels": {
         "en": "Bath building",
-        "fr": "Bains thermaux"
+        "de": "Bains thermaux"
       }
       },
       "Toranlage": {
         "labels": {
         "en": "Gate system",
-        "fr": "Système de porte"
+        "de": "Système de porte"
       }
       },
       "Turm": {
         "labels": {
         "en": "Tower",
-        "fr": "Tour"
+        "de": "Tour"
       }
       },
       "Wohnbau": {
         "labels": {
         "en": "Dwelling",
-        "fr": "Habitation"
+        "de": "Habitation"
       }
     },
       "Sonstiges":{
         "labels":{
           "en": "Other",
-          "fr": "Autre"
+          "de": "Autre"
         }
       },
       "Unbestimmt":{
         "labels":{
           "en": "Inditerminate",
-          "fr": "Indéterminé"
+          "de": "Indéterminé"
         }
       }
     }
@@ -12289,74 +12283,74 @@
     "creationDate": "",
     "createdBy": "",
     "description": {
-      "fr": "",
+      "de": "",
       "en": ""
     },
     "values": {
       "Alltäglicher Gebrauch": {
         "labels":{
           "en":"Everyday use",
-          "fr":"Utilisation quotidienne"
+          "de":"Utilisation quotidienne"
         }
       },
       "Bauinschrift": {
         "labels":{
           "en":"Building inscription",
-          "fr":"Inscription du bâtiment"
+          "de":"Inscription du bâtiment"
         }
       },
       "Ehreninschrift": {
         "labels":{
           "en":"Honorary inscription",
-          "fr":"Inscription d'honneur"
+          "de":"Inscription d'honneur"
         }
       },
       "Grabinschrift (Inschrift im Grabkontext)": {
         "labels":{
           "en":"Tomb inscription",
-          "fr":"Inscription au tombeau"
+          "de":"Inscription au tombeau"
         }
       },
       "Private Ausstattung": {
         "labels":{
           "en":"Private setting",
-          "fr":"Cadre privé"
+          "de":"Cadre privé"
         }
       },
       "Sakrale Ausstattung": {
         "labels":{
           "en":"Sacral setting",
-          "fr":"Cadre sacral"
+          "de":"Cadre sacral"
         }
       },
       "Unsicher bzw. unbestimmbar": {
         "labels":{
           "en":"Uncertain or indeterminate",
-          "fr":"Incertain ou indéterminé"
+          "de":"Incertain ou indéterminé"
         }
       },
       "Urkunde": {
         "labels":{
           "en":"Deed",
-          "fr":"Charte"
+          "de":"Charte"
         }
       },
       "Wasserversorgung": {
         "labels":{
           "en":"Water supply",
-          "fr":"Approvisionnement en eau"
+          "de":"Approvisionnement en eau"
         }
       },
       "Weihinschrift": {
         "labels":{
           "en":"Dedication inscription",
-          "fr":"Inscription sacrée"
+          "de":"Inscription sacrée"
         }
       },
       "Öffentliche Ausstattung": {
         "labels":{
           "en":"Public setting",
-          "fr":"Cadre public"
+          "de":"Cadre public"
         }
       }
     }
@@ -12366,39 +12360,39 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Befliegung": {
         "labels": {
-          "it": "Volo"
+          "en": "Volo"
         }
       },
       "Begehung": {
         "labels": {
-          "it": "Ricognizione sul territorio"
+          "en": "Ricognizione sul territorio"
         }
       },
       "Geoelektrik": {
         "labels": {
-          "it": "Geoelettrica"
+          "en": "Geoelettrica"
         }
       },
       "Geomagnetik": {
         "labels": {
-          "it": "Geomagnetica"
+          "en": "Geomagnetica"
         }
       },
       "Georadar": {},
       "LIDAR": {},
       "Seismik": {
         "labels": {
-          "it": "Sismica"
+          "en": "Sismica"
         }
       },
       "Rammkernsondagen": {
         "labels": {
-          "it": "Carotaggio"
+          "en": "Carotaggio"
         }
       }
     }
@@ -12408,47 +12402,47 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Ortsklassifikation",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Siedlung": {
         "labels": {
-          "it": "Insediamento"
+          "en": "Insediamento"
         }
       },
       "Baukomplex ": {
         "labels": {
-          "it": "Complesso edilizio"
+          "en": "Complesso edilizio"
         }
       },
       "Einzelnes Bauwerk": {
         "labels": {
-          "it": "Edificio"
+          "en": "Edificio"
         }
       },
       "Bestattungsplatz": {
         "labels": {
-          "it": "Necropoli"
+          "en": "Necropoli"
         }
       },
       "Produktionsplatz": {
         "labels": {
-          "it": "Sito di produzione"
+          "en": "Sito di produzione"
         }
       },
       "Kultstätte": {
         "labels": {
-          "it": "Area sacra"
+          "en": "Area sacra"
         }
       },
       "Landwirtschaftliche Nutzfläche": {
         "labels": {
-          "it": "Terreno coltivabile"
+          "en": "Terreno coltivabile"
         }
       },
       "Naturraum": {
         "labels": {
-          "it": "Spazio naturale"
+          "en": "Spazio naturale"
         }
       }
     }
@@ -12458,77 +12452,77 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Ansprache des Erdbefunds",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Ackerkrume": {
         "labels": {
-          "it": "Strato arabile"
+          "en": "Strato arabile"
         }
       },
       "Auffüllung": {
         "labels": {
-          "it": "Riempimento"
+          "en": "Riempimento"
         }
       },
       "Ablagerung": {
         "labels": {
-          "it": "Accumulo"
+          "en": "Accumulo"
         }
       },
       "Alluvialboden": {
         "labels": {
-          "it": "Alluvialboden"
+          "en": "Alluvialboden"
         }
       },
       "Nutzungshorizont": {
         "labels": {
-          "it": "Piano funzionale"
+          "en": "Piano funzionale"
         }
       },
       "Deponierung": {
         "labels": {
-          "it": "Deposizione"
+          "en": "Deposizione"
         }
       },
       "Laufhorizont": {
         "labels": {
-          "it": "Piano di calpestio"
+          "en": "Piano di calpestio"
         }
       },
       "Versturz": {
         "labels": {
-          "it": "Crollo"
+          "en": "Crollo"
         }
       },
       "Brandschicht": {
         "labels": {
-          "it": "Strato bruciato"
+          "en": "Strato bruciato"
         }
       },
       "Grube": {
         "labels": {
-          "it": "Fossa"
+          "en": "Fossa"
         }
       },
       "Fundamentgraben": {
         "labels": {
-          "it": "Fossa di fondazione"
+          "en": "Fossa di fondazione"
         }
       },
       "Raubgraben": {
         "labels": {
-          "it": "Fossa di spoliazione"
+          "en": "Fossa di spoliazione"
         }
       },
       "Pfostenloch": {
         "labels": {
-          "it": "FoBuco di palo"
+          "en": "FoBuco di palo"
         }
       },
       "Geologisch gewachsener Boden": {
         "labels": {
-          "it": "Terra vergine"
+          "en": "Terra vergine"
         }
       }
     }
@@ -12538,97 +12532,97 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Selinunt Farbset 1, Erdbefunde",
-      "it": ""
+      "en": ""
     },
     "values": {
       "braun": {
         "labels": {
-          "it": "marrone"
+          "en": "marrone"
         }
       },
       "gelbbraun": {
         "labels": {
-          "it": "giallo-marrone"
+          "en": "giallo-marrone"
         }
       },
       "graubraun": {
         "labels": {
-          "it": "grigio-marrone"
+          "en": "grigio-marrone"
         }
       },
       "rotbraun": {
         "labels": {
-          "it": "marrone-rossastro"
+          "en": "marrone-rossastro"
         }
       },
       "schwarzbraun": {
         "labels": {
-          "it": "nero-marrone"
+          "en": "nero-marrone"
         }
       },
       "beige": {
         "labels": {
-          "it": "beige"
+          "en": "beige"
         }
       },
       "ocker": {
         "labels": {
-          "it": "ocra"
+          "en": "ocra"
         }
       },
       "gelb": {
         "labels": {
-          "it": "giallo"
+          "en": "giallo"
         }
       },
       "grau": {
         "labels": {
-          "it": "griglio"
+          "en": "griglio"
         }
       },
       "blaugrau": {
         "labels": {
-          "it": "griglio-blu"
+          "en": "griglio-blu"
         }
       },
       "rot": {
         "labels": {
-          "it": "rosso"
+          "en": "rosso"
         }
       },
       "orange": {
         "labels": {
-          "it": "arrancione"
+          "en": "arrancione"
         }
       },
       "rosa": {
         "labels": {
-          "it": "rosa"
+          "en": "rosa"
         }
       },
       "violett": {
         "labels": {
-          "it": "viola"
+          "en": "viola"
         }
       },
       "blau": {
         "labels": {
-          "it": "blu"
+          "en": "blu"
         }
       },
       "grün": {
         "labels": {
-          "it": "verde"
+          "en": "verde"
         }
       },
       "schwarz": {
         "labels": {
-          "it": "nero"
+          "en": "nero"
         }
       },
       "weiß": {
         "labels": {
-          "it": "bianco"
+          "en": "bianco"
         }
       }
     }
@@ -12638,22 +12632,22 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Selinunt Farbhelligkeit 1, Verschiedener Nutzen",
-      "it": ""
+      "en": ""
     },
     "values": {
       "hell": {
         "labels": {
-          "it": "chiaro"
+          "en": "chiaro"
         }
       },
       "mittel": {
         "labels": {
-          "it": "medio"
+          "en": "medio"
         }
       },
       "dunkel": {
         "labels": {
-          "it": "scuro"
+          "en": "scuro"
         }
       }
     }
@@ -12663,67 +12657,67 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Zusammensetzung des Bodens",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Sand": {
         "labels": {
-          "it": "Sabbia"
+          "en": "Sabbia"
         }
       },
       "Schluff": {
         "labels": {
-          "it": "Limo"
+          "en": "Limo"
         }
       },
       "Lehm": {
         "labels": {
-          "it": "Argilla"
+          "en": "Argilla"
         }
       },
       "Humus": {
         "labels": {
-          "it": "Humus"
+          "en": "Humus"
         }
       },
       "Kalk": {
         "labels": {
-          "it": "Calce"
+          "en": "Calce"
         }
       },
       "Kalkstein": {
         "labels": {
-          "it": "Calcare"
+          "en": "Calcare"
         }
       },
       "Sandstein": {
         "labels": {
-          "it": "Arenaria"
+          "en": "Arenaria"
         }
       },
       "Mergel": {
         "labels": {
-          "it": "Marna"
+          "en": "Marna"
         }
       },
       "Vulkangestein": {
         "labels": {
-          "it": "Pietra lavica"
+          "en": "Pietra lavica"
         }
       },
       "Kiesel": {
         "labels": {
-          "it": "Ciottoli"
+          "en": "Ciottoli"
         }
       },
       "Schlick": {
         "labels": {
-          "it": "Ciottoli"
+          "en": "Ciottoli"
         }
       },
       "Organisches": {
         "labels": {
-          "it": "Ciottoli"
+          "en": "Ciottoli"
         }
       }
     }
@@ -12733,57 +12727,57 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Zusammensetzung des Bodens",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Ziegel": {
         "labels": {
-          "it": "Mattone"
+          "en": "Mattone"
         }
       },
       "Keramik": {
         "labels": {
-          "it": "Ceramica"
+          "en": "Ceramica"
         }
       },
       "Metall": {
         "labels": {
-          "it": "Metallo"
+          "en": "Metallo"
         }
       },
       "Münzen": {
         "labels": {
-          "it": "Moneta"
+          "en": "Moneta"
         }
       },
       "Glas": {
         "labels": {
-          "it": "Vetro"
+          "en": "Vetro"
         }
       },
       "Knochen": {
         "labels": {
-          "it": "Osso"
+          "en": "Osso"
         }
       },
       "Holzkohle": {
         "labels": {
-          "it": "Carbone"
+          "en": "Carbone"
         }
       },
       "Schlacke": {
         "labels": {
-          "it": "Scoria"
+          "en": "Scoria"
         }
       },
       "Muscheln": {
         "labels": {
-          "it": "Conchiglia"
+          "en": "Conchiglia"
         }
       },
       "Verputz": {
         "labels": {
-          "it": "Intonaco"
+          "en": "Intonaco"
         }
       }
     }
@@ -12793,37 +12787,37 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Konsistenz des Erdbefundes",
-      "it": ""
+      "en": ""
     },
     "values": {
       "locker": {
         "labels": {
-          "it": "sciolta"
+          "en": "sciolta"
         }
       },
       "porös": {
         "labels": {
-          "it": "friabile"
+          "en": "friabile"
         }
       },
       "fest": {
         "labels": {
-          "it": "solida"
+          "en": "solida"
         }
       },
       "kompakt": {
         "labels": {
-          "it": "compatta"
+          "en": "compatta"
         }
       },
       "zäh": {
         "labels": {
-          "it": "tenace plastica"
+          "en": "tenace plastica"
         }
       },
       "hart": {
         "labels": {
-          "it": "dura"
+          "en": "dura"
         }
       }
     }
@@ -12833,52 +12827,52 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Befundgrenzen Selinunt",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Nach oben: deutlich": {
         "labels": {
-          "it": "Superiore: distinto"
+          "en": "Superiore: distinto"
         }
       },
       "Nach oben: diffus": {
         "labels": {
-          "it": "Superiore: graduale"
+          "en": "Superiore: graduale"
         }
       },
       "Nach oben: willkürlich": {
         "labels": {
-          "it": "Superiore: arbitrario"
+          "en": "Superiore: arbitrario"
         }
       },
       "Nach unten: deutlich": {
         "labels": {
-          "it": "Inferiore: distinto"
+          "en": "Inferiore: distinto"
         }
       },
       "Nach unten: diffus": {
         "labels": {
-          "it": "Inferiore: graduale"
+          "en": "Inferiore: graduale"
         }
       },
       "Nach unten: willkürlich": {
         "labels": {
-          "it": "Inferiore: arbitrario"
+          "en": "Inferiore: arbitrario"
         }
       },
       "In der Fläche: deutlich": {
         "labels": {
-          "it": "Laterale: distinto"
+          "en": "Laterale: distinto"
         }
       },
       "In der Fläche: diffus": {
         "labels": {
-          "it": "Laterale: graduale"
+          "en": "Laterale: graduale"
         }
       },
       "In der Fläche: willkürlich": {
         "labels": {
-          "it": "Laterale: arbitrario"
+          "en": "Laterale: arbitrario"
         }
       }
     }
@@ -12888,22 +12882,22 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Form der SE, Selinunt",
-      "it": ""
+      "en": ""
     },
     "values": {
       "eckig": {
         "labels": {
-          "it": "anguloso"
+          "en": "anguloso"
         }
       },
       "rund": {
         "labels": {
-          "it": "tondo"
+          "en": "tondo"
         }
       },
       "formlos": {
         "labels": {
-          "it": "informe"
+          "en": "informe"
         }
       }
     }
@@ -12913,27 +12907,27 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Farbe": {
         "labels": {
-          "it": "Colore"
+          "en": "Colore"
         }
       },
       "Form": {
         "labels": {
-          "it": "Forma"
+          "en": "Forma"
         }
       },
       "Konsistenz": {
         "labels": {
-          "it": "Consistenza"
+          "en": "Consistenza"
         }
       },
       "Zusammensetzung": {
         "labels": {
-          "it": "Composizione"
+          "en": "Composizione"
         }
       }
     }
@@ -12943,127 +12937,127 @@
     "creationDate": "26-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Frühbronzezeitlich ": {
         "labels": {
           "de": "Frühbronzezeit",
-          "it": "Bronzo antico"
+          "en": "Bronzo antico"
         }
       },
       "Bronzezeitlich": {
         "labels": {
           "de": "Bronzezeit",
-          "it": "Età del bronzo"
+          "en": "Età del bronzo"
         }
       },
       "Eisenzeitlich": {
         "labels": {
           "de": "Eisenzeit",
-          "it": "Età del ferro"
+          "en": "Età del ferro"
         }
       },
       "Archaisch": {
         "labels": {
           "de": "Archaik",
-          "it": "Età arcaica"
+          "en": "Età arcaica"
         }
       },
       "Spätarchaisch": {
         "labels": {
           "de": "Spätarchaik",
-          "it": "Tardo arcaico"
+          "en": "Tardo arcaico"
         }
       },
       "Klassisch": {
         "labels": {
           "de": "Klassik",
-          "it": "Età classica"
+          "en": "Età classica"
         }
       },
       "Spätklassisch": {
         "labels": {
           "de": "Spätklassik",
-          "it": "Tardo classico"
+          "en": "Tardo classico"
         }
       },
       "Frühhellenistisch": {
         "labels": {
           "de": "Frühhellenismus",
-          "it": "Alto ellenismo"
+          "en": "Alto ellenismo"
         }
       },
       "Hellenistisch": {
         "labels": {
           "de": "Hellenismus",
-          "it": "Ellenismo"
+          "en": "Ellenismo"
         }
       },
       "Frühkorinthisch": {
         "labels": {
           "de": "Frühkorinthisch",
-          "it": "Frühkorinthisch"
+          "en": "Frühkorinthisch"
         }
       },
       "Mittelkorinthisch": {
         "labels": {
           "de": "Mittelkorinthisch",
-          "it": "Mittelkorinthisch"
+          "en": "Mittelkorinthisch"
         }
       },
       "Spätkorinthisch": {
         "labels": {
           "de": "Spätkorinthisch",
-          "it": "Spätkorinthisch"
+          "en": "Spätkorinthisch"
         }
       },
       "Republikanisch": {
         "labels": {
           "de": "Römische Republik",
-          "it": "Repubblica Romana"
+          "en": "Repubblica Romana"
         }
       },
       "Kaiserzeitlich": {
         "labels": {
           "de": "Römische Kaiserzeit",
-          "it": "Età imperiale"
+          "en": "Età imperiale"
         }
       },
       "Spätkaiserzeitlich": {
         "labels": {
           "de": "Späte Kaiserzeit",
-          "it": "Basso impero"
+          "en": "Basso impero"
         }
       },
       "Byzantinisch": {
         "labels": {
           "de": "Byzantinisches Reich",
-          "it": "Impero bizantino"
+          "en": "Impero bizantino"
         }
       },
       "Arabisch": {
         "labels": {
           "de": "Arabische Vorherrschaft",
-          "it": "Periodo islamico"
+          "en": "Periodo islamico"
         }
       },
       "Normannisch": {
         "labels": {
           "de": "Normannisches Königreich",
-          "it": "Epoca normanna"
+          "en": "Epoca normanna"
         }
       },
       "Staufisch": {
         "labels": {
           "de": "Dynastie der Staufer",
-          "it": "Epoca sveva"
+          "en": "Epoca sveva"
         }
       },
       "Rezent": {
         "labels": {
           "de": "Rezent",
-          "it": "Recente"
+          "en": "Recente"
         }
       }
     }
@@ -13073,87 +13067,87 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Mauer": {
         "labels": {
-          "it": "Muro"
+          "en": "Muro"
         }
       },
       "Fundament": {
         "labels": {
-          "it": "Fondazione"
+          "en": "Fondazione"
         }
       },
       "Schwelle": {
         "labels": {
-          "it": "Soglia"
+          "en": "Soglia"
         }
       },
       "Steinsetzung": {
         "labels": {
-          "it": "Allineamento di pietre"
+          "en": "Allineamento di pietre"
         }
       },
       "Fußboden": {
         "labels": {
-          "it": "Pavimento"
+          "en": "Pavimento"
         }
       },
       "Podium, Bank": {
         "labels": {
-          "it": "podio, panchina"
+          "en": "podio, panchina"
         }
       },
       "Treppe": {
         "labels": {
-          "it": "Scala"
+          "en": "Scala"
         }
       },
       "Ofen, Herdstelle": {
         "labels": {
-          "it": "Forno, Focolare"
+          "en": "Forno, Focolare"
         }
       },
       "Becken": {
         "labels": {
-          "it": "Vasca"
+          "en": "Vasca"
         }
       },
       "Kanal, Leitung": {
         "labels": {
-          "it": "Canale, Conduttura"
+          "en": "Canale, Conduttura"
         }
       },
       "Latrine": {
         "labels": {
-          "it": "Latrina"
+          "en": "Latrina"
         }
       },
       "Brunnen": {
         "labels": {
-          "it": "Pozzo"
+          "en": "Pozzo"
         }
       },
       "Zisterne": {
         "labels": {
-          "it": "Cisterna"
+          "en": "Cisterna"
         }
       },
       "Straße": {
         "labels": {
-          "it": "Strada"
+          "en": "Strada"
         }
       },
       "Säule": {
         "labels": {
-          "it": "Colonna"
+          "en": "Colonna"
         }
       },
       "Pfeiler": {
         "labels": {
-          "it": "Pilastro"
+          "en": "Pilastro"
         }
       }
     }
@@ -13163,47 +13157,47 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Kalkstein": {
         "labels": {
-          "it": "Calcare"
+          "en": "Calcare"
         }
       },
       "Marmor": {
         "labels": {
-          "it": "Marmo"
+          "en": "Marmo"
         }
       },
       "Vulkangestein": {
         "labels": {
-          "it": "Pietra lavica"
+          "en": "Pietra lavica"
         }
       },
       "Sandstein": {
         "labels": {
-          "it": "Arenaria"
+          "en": "Arenaria"
         }
       },
       "Granit": {
         "labels": {
-          "it": "Granito"
+          "en": "Granito"
         }
       },
       "Kiesel": {
         "labels": {
-          "it": "Ciottoli"
+          "en": "Ciottoli"
         }
       },
       "Anstehender Fels": {
         "labels": {
-          "it": "Roccia affiorante"
+          "en": "Roccia affiorante"
         }
       },
       "Anderer Stein": {
         "labels": {
-          "it": "Altra pietra"
+          "en": "Altra pietra"
         }
       },
       "Spolien": {},
@@ -13221,28 +13215,28 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Regelloser Verband": {
         "labels": {
-          "it": "Tessitura irregolare"
+          "en": "Tessitura irregolare"
         }
       },
       "Reiner Läuferverband": {
         "labels": {
-          "it": "Blocchi messi in senso della lunghezza"
+          "en": "Blocchi messi in senso della lunghezza"
         }
       },
       "Reiner Binderverband": {
         "labels": {
-          "it": "Blocchi messi di testa"
+          "en": "Blocchi messi di testa"
         }
       },
       "Läufer-Binder Verband": {},
       "Opus africanum": {
         "labels": {
-          "it": "Opera a telaio"
+          "en": "Opera a telaio"
         }
       }
     }
@@ -13252,32 +13246,32 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Konstruktion, Selinunt Grabung",
-      "it": ""
+      "en": ""
     },
     "values": {
       "einschalig freistehend": {
         "labels": {
-          "it": "Singolo paramento"
+          "en": "Singolo paramento"
         }
       },
       "einschalig vor Hang": {
         "labels": {
-          "it": "Muro di contentimento"
+          "en": "Muro di contentimento"
         }
       },
       "zweischalig": {
         "labels": {
-          "it": "Doppio paramento"
+          "en": "Doppio paramento"
         }
       },
       "zweischalig mit Kern": {
         "labels": {
-          "it": "Muro a sacco"
+          "en": "Muro a sacco"
         }
       },
       "zweischalig mit Binderlagen": {
         "labels": {
-          "it": "Con ammorsamento trasversale"
+          "en": "Con ammorsamento trasversale"
         }
       }
     }
@@ -13287,57 +13281,57 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Mauerwerk, Selinunt Grabung",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Bruchsteinmauerwerk": {
         "labels": {
-          "it": "In pietra grezza"
+          "en": "In pietra grezza"
         }
       },
       "Polygonalmauerwerk": {
         "labels": {
-          "it": "Muro polygonale"
+          "en": "Muro polygonale"
         }
       },
       "Quadermauerwerk": {
         "labels": {
-          "it": "Opera quadrata"
+          "en": "Opera quadrata"
         }
       },
       "Trapezoidalmauerwerk": {
         "labels": {
-          "it": "Muro trapezoidale"
+          "en": "Muro trapezoidale"
         }
       },
       "Ziegelmauerwerk gebrannt": {
         "labels": {
-          "it": "Muro di mattoni cotti"
+          "en": "Muro di mattoni cotti"
         }
       },
       "Ziegelmauerwerk getrocknet": {
         "labels": {
-          "it": "Muro di mattoni crudi"
+          "en": "Muro di mattoni crudi"
         }
       },
       "Stampflehm": {
         "labels": {
-          "it": "Muro di terra cruda"
+          "en": "Muro di terra cruda"
         }
       },
       "Gussmauerwerk": {
         "labels": {
-          "it": "Opera cementizia"
+          "en": "Opera cementizia"
         }
       },
       "Mischform": {
         "labels": {
-          "it": "Tecnica mista"
+          "en": "Tecnica mista"
         }
       },
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13347,43 +13341,43 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Mauerwerksverband, Selinunt Grabung",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Trocken": {
         "labels": {
-          "it": "A secco"
+          "en": "A secco"
         }
       },
       "Klammern": {
         "labels": {
-          "it": "Grappe"
+          "en": "Grappe"
         }
       },
       "Erdmörtel": {
         "labels": {
-          "it": "Malta"
+          "en": "Malta"
         }
       },
       "Kalkmörtel": {},
       "Ziegelmauerwerk": {
         "labels": {
-          "it": "Muro di mattoni"
+          "en": "Muro di mattoni"
         }
       },
       "Zement": {
         "labels": {
-          "it": "Cemento"
+          "en": "Cemento"
         }
       },
       "Lehm": {
         "labels": {
-          "it": "Argilla"
+          "en": "Argilla"
         }
       },
       "Mischtechnik": {
         "labels": {
-          "it": "Tecnica mista"
+          "en": "Tecnica mista"
         }
       }
     }
@@ -13393,22 +13387,22 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Mauerlage, Selinunt Grabung",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Isodom": {
         "labels": {
-          "it": "Isodomo"
+          "en": "Isodomo"
         }
       },
       "Pseudoisodom": {
         "labels": {
-          "it": "Pseudoisodomo"
+          "en": "Pseudoisodomo"
         }
       },
       "Unregelmäßig": {
         "labels": {
-          "it": "Irregolare"
+          "en": "Irregolare"
         }
       }
     }
@@ -13418,17 +13412,17 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Mauerwerksverkleidung, Selinunt Grabung",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Verputz": {
         "labels": {
-          "it": "Intonaco"
+          "en": "Intonaco"
         }
       },
       "Bemalung": {
         "labels": {
-          "it": "Pittura"
+          "en": "Pittura"
         }
       }
     }
@@ -13438,7 +13432,7 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Alabastron": {},
@@ -13496,62 +13490,62 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Lokal": {
         "labels": {
-          "it": "Locale"
+          "en": "Locale"
         }
       },
       "Indigen": {
         "labels": {
-          "it": "Indigena"
+          "en": "Indigena"
         }
       },
       "Regional": {
         "labels": {
-          "it": "Regionale"
+          "en": "Regionale"
         }
       },
       "Unteritalisch": {
         "labels": {
-          "it": "Magnogreca"
+          "en": "Magnogreca"
         }
       },
       "Attisch": {
         "labels": {
-          "it": "Attica"
+          "en": "Attica"
         }
       },
       "Etruskisch": {
         "labels": {
-          "it": "Etrusca"
+          "en": "Etrusca"
         }
       },
       "Korinthisch": {
         "labels": {
-          "it": "Corinzia"
+          "en": "Corinzia"
         }
       },
       "Lakonisch": {
         "labels": {
-          "it": "Laconica"
+          "en": "Laconica"
         }
       },
       "Ostgriechisch": {
         "labels": {
-          "it": "Greco-orientale"
+          "en": "Greco-orientale"
         }
       },
       "Phönizisch/Punisch": {
         "labels": {
-          "it": "Fenicia/Punica"
+          "en": "Fenicia/Punica"
         }
       },
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13561,7 +13555,7 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Alabastron": {},
@@ -13589,12 +13583,12 @@
       "Unguentarium": {},
       "Miniatur Keramik": {
         "labels": {
-          "it": "Ceramica miniaturistica"
+          "en": "Ceramica miniaturistica"
         }
-      },
+      },     
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13604,99 +13598,99 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Schwarzfirnis": {
         "labels": {
-          "it": "Vernice Nera"
+          "en": "Vernice Nera"
         }
       },
       "Red slip": {},
       "Relief": {
         "labels": {
-          "it": "A relieve"
+          "en": "A relieve"
         }
       },
       "Glasur": {
         "labels": {
-          "it": "Invetriata"
+          "en": "Invetriata"
         }
       },
-      "Tongrundig": {},
+      "Tongrundig": {},      
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
-  },
+  },  
   "Layer-contentPotteryDecoration-Selinunt": {
     "creationDate": "24-6-2020",
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Stempeldekor": {
         "labels": {
-          "it": "A stampa"
+          "en": "A stampa"
         }
       },
       "Figürlich": {
         "labels": {
-          "it": "Figurata"
+          "en": "Figurata"
         }
       },
       "Unfigürlich": {
         "labels": {
-          "it": "Geometrica"
+          "en": "Geometrica"
         }
       },
       "Banddekor": {
         "labels": {
-          "it": "A bande"
+          "en": "A bande"
         }
       },
       "Pflanzendekor": {
         "labels": {
-          "it": "Vegetale"
+          "en": "Vegetale"
         }
       },
       "Ritzlinien": {
         "labels": {
-          "it": "Incisa"
+          "en": "Incisa"
         }
       },
       "Eingetaucht": {
         "labels": {
-          "it": "Per immersione"
+          "en": "Per immersione"
         }
       },
       "Bemalt": {
         "labels": {
-          "it": "Dipinta"
+          "en": "Dipinta"
         }
       },
       "Graffito": {
         "labels": {
-          "it": "Graffito"
+          "en": "Graffito"
         }
       },
       "Aufschrift ": {
         "labels": {
-          "it": "Scritta "
+          "en": "Scritta "
         }
       },
       "Stempel": {
         "labels": {
-          "it": "Stempel"
+          "en": "Stempel"
         }
-      },
+      },            
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13706,32 +13700,32 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Figuren": {
         "labels": {
-          "it": "Statuine"
+          "en": "Statuine"
         }
       },
       "Lampen": {
         "labels": {
-          "it": "Lucerne"
+          "en": "Lucerne"
         }
       },
       "Webgewichte": {
         "labels": {
-          "it": "Pesi da telaio"
+          "en": "Pesi da telaio"
         }
       },
       "Spielstein": {
         "labels": {
-          "it": "Pedine"
+          "en": "Pedine"
         }
-      },
+      },       
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13741,77 +13735,77 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Bronze": {
         "labels": {
-          "it": "Bronzo"
+          "en": "Bronzo"
         }
       },
       "Eisen": {
         "labels": {
-          "it": "Ferro"
+          "en": "Ferro"
         }
       },
       "Blei": {
         "labels": {
-          "it": "Piombo"
+          "en": "Piombo"
         }
       },
       "Schlacke": {
         "labels": {
-          "it": "Scorie"
+          "en": "Scorie"
         }
       },
       "Gold": {
         "labels": {
-          "it": "Oro"
+          "en": "Oro"
         }
       },
       "Silber": {
         "labels": {
-          "it": "Argento"
+          "en": "Argento"
         }
       },
       "Münzen": {
         "labels": {
-          "it": "Monete"
+          "en": "Monete"
         }
       },
       "Stein bearbeitet": {
         "labels": {
-          "it": "Pietra lavorate"
+          "en": "Pietra lavorate"
         }
       },
       "Stein figürlich": {
         "labels": {
-          "it": "Pietra figurate"
+          "en": "Pietra figurate"
         }
       },
       "Reibsteine": {
         "labels": {
-          "it": "Macine"
+          "en": "Macine"
         }
       },
       "Kiesel": {
         "labels": {
-          "it": "Ciottoli"
+          "en": "Ciottoli"
         }
       },
       "Glas": {
         "labels": {
-          "it": "Vetro"
+          "en": "Vetro"
         }
       },
       "Spielstein": {
         "labels": {
-          "it": "Pedine"
+          "en": "Pedine"
         }
-      },
+      },      
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13821,67 +13815,67 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "Organisches Material",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Knochen Tier": {
         "labels": {
-          "it": "Ossa animale"
+          "en": "Ossa animale"
         }
       },
       "Knochen Mensch": {
         "labels": {
-          "it": "Ossa umano"
+          "en": "Ossa umano"
         }
       },
       "Knochen bearbeitet": {
         "labels": {
-          "it": "Ossa lavorate"
+          "en": "Ossa lavorate"
         }
       },
       "Astragal": {
         "labels": {
-          "it": "Astragalo"
+          "en": "Astragalo"
         }
-      },
+      },       
       "Muscheln": {
         "labels": {
-          "it": "Molluschi"
+          "en": "Molluschi"
         }
-      },
+      },    
       "Holz": {
         "labels": {
-          "it": "Legno"
+          "en": "Legno"
         }
       },
       "Holzkohle": {
         "labels": {
-          "it": "Carbone"
+          "en": "Carbone"
         }
       },
       "Samen": {
         "labels": {
-          "it": "Semi"
+          "en": "Semi"
         }
       },
       "Elfenbein": {
         "labels": {
-          "it": "Avorio"
+          "en": "Avorio"
         }
       },
       "Perlen": {
         "labels": {
-          "it": "Perle"
+          "en": "Perle"
         }
       },
       "Spielstein": {
         "labels": {
-          "it": "Pedine"
+          "en": "Pedine"
         }
-      },
+      },        
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13891,47 +13885,47 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Mörtel": {
         "labels": {
-          "it": "Malta"
+          "en": "Malta"
         }
       },
       "Verputz": {
         "labels": {
-          "it": "Intonaco"
+          "en": "Intonaco"
         }
       },
       "Architekturdekor": {
         "labels": {
-          "it": "Decorazione fittile"
+          "en": "Decorazione fittile"
         }
       },
       "Mosaiksteine": {
         "labels": {
-          "it": "Tessere (mosaico)"
+          "en": "Tessere (mosaico)"
         }
       },
       "Dachziegel": {
         "labels": {
-          "it": "Tegole"
+          "en": "Tegole"
         }
       },
       "Lehmziegel gebrannt": {
         "labels": {
-          "it": "Mattone cotto"
+          "en": "Mattone cotto"
         }
       },
       "Lehmziegel ungebrannt": {
         "labels": {
-          "it": "Mattone crudo"
+          "en": "Mattone crudo"
         }
-      },
+      },      
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13941,27 +13935,27 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Gesiebt": {
         "labels": {
-          "it": "Gesiebt"
+          "en": "Gesiebt"
         }
       },
       "Geschlämmt": {
         "labels": {
-          "it": "Geschlämmt"
+          "en": "Geschlämmt"
         }
       },
       "Beprobt": {
         "labels": {
-          "it": "Beprobt"
+          "en": "Beprobt"
         }
       },
       "Nicht gegraben": {
         "labels": {
-          "it": "Nicht gegraben"
+          "en": "Nicht gegraben"
         }
       }
     }
@@ -13971,16 +13965,16 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Kotyle": {},
       "Krateriskos": {},
       "Pyxis": {},
-      "Lampe": {},
+      "Lampe": {},      
       "Anderes": {
         "labels": {
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -13990,22 +13984,22 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "weich": {
         "labels": {
-          "it": "tenero"
+          "en": "tenero"
         }
       },
       "hart": {
         "labels": {
-          "it": "duro"
+          "en": "duro"
         }
       },
       "sehr hart": {
         "labels": {
-          "it": "molto duro"
+          "en": "molto duro"
         }
       }
     }
@@ -14015,7 +14009,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "hoch": {},
@@ -14027,25 +14021,25 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "gedreht (auf Drehscheibe)": {
         "labels": {
           "de": "Scheibengedrecht",
-          "it": "Al tornio"
+          "en": "Al tornio"
         }
       },
       "handgeformt": {
         "labels": {
           "de": "Handgeformt",
-          "it": "Al mano"
+          "en": "Al mano"
         }
       },
       "in Form gepresst": {
         "label": {
           "de": "in Form gepresst",
-          "it": "in Form gepresst"
+          "en": "in Form gepresst"
         }
       }
     }
@@ -14055,7 +14049,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Estricht": {},
@@ -14077,7 +14071,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Depot": {},
@@ -14090,7 +14084,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "glänzend": {},
@@ -14106,27 +14100,27 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Bodenziegel": {
         "labels": {
-          "it": "Piastrella"
+          "en": "Piastrella"
         }
       },
       "Deckziegel": {
         "labels": {
-          "it": "Coppo"
+          "en": "Coppo"
         }
       },
       "Flachziegel": {
         "labels": {
-          "it": "Tegola"
+          "en": "Tegola"
         }
       },
       "Firstziegel": {
         "labels": {
-          "it": "Coppo di Colmo"
+          "en": "Coppo di Colmo"
         }
       },
       "Hypokaustziegel": {},
@@ -14135,23 +14129,23 @@
       "Wandziegel": {
         "labels": {
           "de": "Wandverkleidungsziegel",
-          "it": "Rivestimento di parete"
+          "en": "Rivestimento di parete"
         }
       },
       "Mauerziegel": {
         "labels": {
-          "it": "Mattone"
+          "en": "Mattone"
         }
       },
       "Dachziegel unbestimmt": {
         "labels": {
-          "it": "Tegola non specificata"
+          "en": "Tegola non specificata"
         }
       },
       "Sonstiges": {
         "labels": {
           "de": "Anderes",
-          "it": "Altro"
+          "en": "Altro"
         }
       }
     }
@@ -14161,7 +14155,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Becken":{},
@@ -14180,7 +14174,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Bemalung": {},
@@ -14199,7 +14193,7 @@
     "createdBy": "Melanie Jonasch",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Korinthisch": {},
@@ -14216,7 +14210,7 @@
     "creationDate": "28-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Blei": {},
@@ -14232,7 +14226,7 @@
     "creationDate": "28-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Helm": {},
@@ -14252,7 +14246,7 @@
     "creationDate": "28-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Gürtel": {},
@@ -14274,7 +14268,7 @@
     "creationDate": "28-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Dreifuß": {},
@@ -14293,7 +14287,7 @@
     "creationDate": "28-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Beil": {},
@@ -14327,7 +14321,7 @@
     "creationDate": "28-6-2020",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Kugel": {},
@@ -14347,7 +14341,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Steinkistengrab": {},
@@ -14370,7 +14364,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Archäologisches Profil": {},
@@ -14384,7 +14378,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Nord-Süd": {},
@@ -14402,7 +14396,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "gerade": {},
@@ -14416,7 +14410,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "senkrecht": {},
@@ -14430,7 +14424,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "sehr gut": {},
@@ -14445,7 +14439,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Bemalung": {},
@@ -14459,7 +14453,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Antifex": {},
@@ -14485,7 +14479,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Platte": {},
@@ -14510,7 +14504,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Figur/Statuette": {},
@@ -14526,13 +14520,13 @@
     "createdBy": "Melanie Jonasch / Fabian Riebschläger",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "gelb": {},
       "grau": {},
       "ocker": {},
-      "rot": {},
+      "rot": {},      
       "schwarz": {},
       "weiß": {}
     }
@@ -14542,7 +14536,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Abschlag": {},
@@ -14575,7 +14569,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Quaderblock": {},
@@ -14611,7 +14605,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Andesit": {},
@@ -14641,7 +14635,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Relief": {},
@@ -14676,7 +14670,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Abakainon": {},
@@ -14734,7 +14728,7 @@
     "createdBy": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Drachme": {},
@@ -14756,7 +14750,7 @@
     "creationDate": "",
     "description": {
       "de": "",
-      "it": ""
+      "en": ""
     },
     "values": {
       "Deinomeniden": {},
@@ -14781,233 +14775,5 @@
       "Tyrrhenoi": {},
       "Unklar": {}
     }
-  },
-  "Pottery-FineWare-Provenance-Selinunt": {
-    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
-    "creationDate": "",
-    "description": {
-      "de": "Feinkeramik nach Provenienz für Fundzusammenstellung",
-      "it": ""
-    },
-    "values": {
-      "Attisch": {
-        "labels": {
-          "de": "1A. Attisch",
-          "it": "1A. Attica"
-        }
-      },
-      "Korinthisch": {
-        "labels": {
-          "de": "1B. Korinthisch",
-          "it": "1B. Corinzia"
-        }
-      },
-      "Ionisch": {
-        "labels": {
-          "de": "1C. Ionisch",
-          "it": "1C. Greco-orientale"
-        }
-      },
-      "Punisch": {
-        "labels": {
-          "de": "1D. Punisch",
-          "it": "1D. Punica"
-        }
-      },
-      "Megarisch": {
-        "labels": {
-          "de": "1E. Megarisch",
-          "it": "1E. Megarese"
-        }
-      },
-      "Etruskisch": {
-        "labels": {
-          "de": "1F. Etruskisch",
-          "it": "1F. Etrusca"
-        }
-      },
-      "Regional": {
-        "labels": {
-          "de": "1G. Regional",
-          "it": "1G. Regionale, Coloniale"
-        }
-      },
-      "Lokal": {
-        "labels": {
-          "de": "1H. Lokal",
-          "it": "1H. Locale"
-        }
-      },
-      "Indigen": {
-        "labels": {
-          "de": "1I. Indigen",
-          "it": "1I. Indigena"
-        }
-      },
-      "Firnisware unklarer Herkunft": {
-        "labels": {
-          "de": "1J. Firnisware unklarer Herkunft",
-          "it": "1J. Vernice nera di provenienza ignota"
-        }
-      },
-      "Anderes unklarer Herkunft": {
-        "labels": {
-          "de": "1K. Anderes unklarer Herkunft",
-          "it": "1K. Altro di provenienza ignota"
-        }
-      }
-    }
-  },
-  "Pottery-Amphorae-Provenance-Selinunt": {
-    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
-    "creationDate": "",
-    "description": {
-      "de": "Amphoren nach Provenienz für Fundzusammenstellung",
-      "it": ""
-    },
-    "values": {
-      "Westgriechisch ": {
-        "labels": {
-          "de": "2A. Westgriechisch",
-          "it": "2A. Greco-occidentale"
-        }
-      },
-      "MGS": {
-        "labels": {
-          "de": "2B. MGS",
-          "it": "2B. MGS"
-        }
-      },
-      "Ionisch-adriatisch": {
-        "labels": {
-          "de": "2C. Ionisch-adriatisch",
-          "it": "2C. Greco-orientale"
-        }
-      },
-      "Attisch": {
-        "labels": {
-          "de": "2D. Attisch",
-          "it": "2D. Attica"
-        }
-      },
-      "Korinthisch": {
-        "labels": {
-          "de": "2E. Korinthisch",
-          "it": "2E. Corinzia"
-        }
-      },
-      "Nordägäisch": {
-        "labels": {
-          "de": "2F. Nordägäisch",
-          "en": "2F. Nord-Egee"
-        }
-      },
-      "Chiotisch": {
-        "labels": {
-          "de": "2G. Chiotisch",
-          "it": "2G. Chiota"
-        }
-      },
-      "Phönizisch": {
-        "labels": {
-          "de": "2H. Phönizisch",
-          "it": "2H. Fenicia"
-        }
-      },
-      "Punisch": {
-        "labels": {
-          "de": "2I. Punisch",
-          "it": "2I. Punica"
-        }
-      },
-      "Massaliotisch": {
-        "labels": {
-          "de": "2J. Massaliotisch",
-          "it": "2J. Massaliota"
-        }
-      },
-      "Anderes unklarer Herkunft": {
-        "labels": {
-          "de": "2K. Anderes unklarer Herkunft",
-          "it": "2K. Altro di provenienza ignota"
-        }
-      }
-    }
-  },
-  "Pottery-CoarseWare-Function-Selinunt": {
-    "createdBy": "Melanie Jonasch / Fabian Riebschläger",
-    "creationDate": "",
-    "description": {
-      "de": "Gebrauchskeramik nach Funktion für Fundzusammenstellung",
-      "it": ""
-    },
-    "values": {
-      "Kochware  ": {
-        "labels": {
-          "de": "3A. Kochware ",
-          "it": "3A. da fuoco"
-        }
-      },
-      "Tafelgeschirr ": {
-        "labels": {
-          "de": "3B. Tafelgeschirr ",
-          "it": "3B. da mensa"
-        }
-      },
-      "Große Behälter": {
-        "labels": {
-          "de": "3C. Große Behälter",
-          "it": "3C. Grande contenitori"
-        }
-      },
-      "Anderes, Unbekannt ": {
-        "labels": {
-          "de": "3D. Anderes, Unbekannt ",
-          "it": "3D. Altro, ignoto"
-        }
-      }
-    }
-  },
-  "Find-storagePlace-Olympia": {
-    "createdBy": "",
-    "creationDate": "10-9-2020",
-    "description": {
-      "de": "",
-      "en": ""
-    },
-    "values": {
-      "Olympia, Museum": {
-        "labels": {
-          "de": "Olympia, Museum"
-        }
-      },
-      "Olympia, Fundmagazin": {
-        "labels": {
-          "de": "Olympia, Fundmagazin"
-        }
-      },
-      "Athen, Nationalmuseum": {
-        "labels": {
-          "de": "Athen, Nationalmuseum"
-        }
-      },
-      "Berlin, Staatliche Museen": {
-        "labels": {
-          "de": "Berlin, Staatliche Museen"
-        }
-      },
-      "Fund verloren": {
-        "labels": {
-          "de": "Fund verloren"
-        }
-      }
-    },
-    "order": [
-      "Olympia, Museum",
-      "Olympia, Fundmagazin",
-      "Athen, Nationalmuseum",
-      "Berlin, Staatliche Museen",
-      "Fund verloren"
-    ]
   }
 }

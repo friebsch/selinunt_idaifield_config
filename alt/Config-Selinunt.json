@@ -739,38 +739,5 @@
       "breakSlopeBase": "Interface-breakSlopeTop-Campidoglio",
       "base": "Interface-base-Campidoglio"
     }
-  },
-  "FindCollection": {
-    "hidden": [],
-    "fields": {
-      "potteryFormsOverview": {
-        "inputType": "checkboxes"
-      },
-      "potteryFineWareByProvenance": {
-        "inputType": "checkboxes"
-      },
-      "potteryFineWareByProvenanceQuantityWeightDetails": {
-        "inputType": "text"
-      },
-      "potteryAmphoraeByProvenance": {
-        "inputType": "checkboxes"
-      },
-      "potteryAmphoraeByProvenanceQuantityWeightDetails": {
-        "inputType": "text"
-      },
-      "potteryCoarseWareByFunction": {
-        "inputType": "checkboxes"
-      },
-      "potteryCoarseWareByFunctionQuantityWeightDetails": {
-        "inputType": "text"
-      }
-    },
-    "parent": "Find",
-    "valuelists": {
-      "potteryFormsOverview": "Pottery-vesselForm-Selinunt",
-      "potteryFineWareByProvenance": "Pottery-FineWare-Provenance-Selinunt",
-      "potteryAmphoraeByProvenance": "Pottery-Amphorae-Provenance-Selinunt",
-      "potteryCoarseWareByFunction": "Pottery-CoarseWare-Function-Selinunt"
-    }
   }
 }
