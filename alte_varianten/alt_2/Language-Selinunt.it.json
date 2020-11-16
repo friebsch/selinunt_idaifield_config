@@ -162,39 +162,6 @@
         },
         "potteryCoarseWareByFunctionQuantityWeightDetails": {
           "label": "3. Quantità, Peso, Particolari"
-        },
-        "miniaturePotteryCollection": {
-          "label": "4. Ceramica Miniaturistica "
-        },
-        "terracottaCollection": {
-          "label": "5. Terrecotte"
-        },
-        "terracottaCollectionQuantityWeightDetails": {
-          "label": "5. Quantità, Peso, Particolari"
-        },
-        "buildingMaterialCollection": {
-          "label": "6. Materiali di costruzione"
-        },
-        "buildingMaterialCollectionQuantityWeightDetails": {
-          "label": "6. Quantità, Peso, Particolari"
-        },
-        "stoneCollection": {
-          "label": "7. Pietre e oggetti di pietra"
-        },
-        "stoneCollectionQuantityWeightDetails": {
-          "label": "7. Quantità, Peso, Particolari"
-        },
-        "metalAndGlasCollection": {
-          "label": "8. Metalli e vetro"
-        },
-        "metalAndGlasCollectionQuantityWeightDetails": {
-          "label": "8. Quantità, Peso, Particolari"
-        },
-        "organicMaterialCollection": {
-          "label": "9. Materiali organici"
-        },
-        "organicMaterialCollectionQuantityWeightDetails": {
-          "label": "9. Quantità, Peso, Particolari"
         }
       }
     }

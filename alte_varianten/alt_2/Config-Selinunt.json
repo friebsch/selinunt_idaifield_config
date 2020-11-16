@@ -763,39 +763,6 @@
       },
       "potteryCoarseWareByFunctionQuantityWeightDetails": {
         "inputType": "text"
-      },
-      "miniaturePotteryCollection": {
-        "inputType": "text"
-      },
-      "terracottaCollection": {
-        "inputType": "checkboxes"
-      },
-      "terracottaCollectionQuantityWeightDetails": {
-        "inputType": "text"
-      },
-      "buildingMaterialCollection": {
-        "inputType": "checkboxes"
-      },
-      "buildingMaterialCollectionQuantityWeightDetails": {
-        "inputType": "text"
-      },
-      "stoneCollection": {
-        "inputType": "checkboxes"
-      },
-      "stoneCollectionQuantityWeightDetails": {
-        "inputType": "text"
-      },
-      "metalAndGlasCollection": {
-        "inputType": "checkboxes"
-      },
-      "metalAndGlasCollectionQuantityWeightDetails": {
-        "inputType": "text"
-      },
-      "organicMaterialCollection": {
-        "inputType": "checkboxes"
-      },
-      "organicMaterialCollectionQuantityWeightDetails": {
-        "inputType": "text"
       }
     },
     "parent": "Find",
@@ -803,12 +770,7 @@
       "potteryFormsOverview": "Pottery-vesselForm-Selinunt",
       "potteryFineWareByProvenance": "Pottery-FineWare-Provenance-Selinunt",
       "potteryAmphoraeByProvenance": "Pottery-Amphorae-Provenance-Selinunt",
-      "terracottaCollection": "Terracotta-Collection-Selinunt",
-      "potteryCoarseWareByFunction": "Pottery-CoarseWare-Function-Selinunt",
-      "buildingMaterialCollection": "BuildingMaterial-Collection-Selinunt",
-      "stoneCollection": "Stone-Collection-Selinunt",
-      "metalAndGlasCollection": "MetalAndGlas-Collection-Selinunt",
-      "organicMaterialCollection": "OrganicMaterial-Collection-Selinunt"
+      "potteryCoarseWareByFunction": "Pottery-CoarseWare-Function-Selinunt"
     }
   }
 }
